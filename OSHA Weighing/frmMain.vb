@@ -95,6 +95,7 @@ End Structure
 Public Class frmMain
    Public BaseFilePath As String = "C:\J-KEM Data Files\"
    Public BaseInfoPath As String = GetFolderPath(SpecialFolder.MyDocuments) & "\J-KEM Scientific\Data"
+   Public BaseLIMSPath As String = GetFolderPath(SpecialFolder.MyDocuments) & "\J-KEM Scientific\LabWare"
    Public EnvironmentalFilePath As String = BaseInfoPath & "\Humidity.txt"
    Public AbortRequested As Boolean
    Dim CommStatus(8) As Boolean
@@ -119,6 +120,7 @@ Public Class frmMain
 
       CreateDataFileFolders(BaseInfoPath)
       CreateDataFileFolders(BaseFilePath)
+      CreateDataFileFolders(BaseLIMSPath)
       If TestMode = True Then
          If MessageBox.Show("Program is set to Test Mode.   Do you want to continue to run in test mode?", "Test Mode Setting", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button2) = Windows.Forms.DialogResult.Yes Then
             ModuleDefMessages.InTestMode = True
@@ -825,7 +827,7 @@ Public Class frmMain
                         UpdateDisplayTimers()
                         Balance.Weight()  'let it go to waste
                         UpdateDisplayTimers()
-                        DelaySeconds(10)
+                        DelaySeconds(5)
                         UpdateDisplayTimers()
                         Try
                            FirstWeighing = CType(Balance.Weight(), Double) * 1000.0
@@ -837,6 +839,7 @@ Public Class frmMain
                            FirstWeighing = (FirstWeighing + SecondWeighing) / 2.0
                            Experiment(batch).Filter(Pass).Weights(Experiment(batch).WeighingStep) = FirstWeighing
                            Experiment(batch).MyDGV.Rows(Pass - 1).Cells(Experiment(batch).WeighingStep + 2).Value = Format(FirstWeighing, "0.000")
+                           WriteLIMSData(batch, Pass, FirstWeighing)
                         Catch ex As Exception
                            Experiment(batch).Filter(Pass).Weights(Experiment(batch).WeighingStep + 2) = 0.0
                         End Try
@@ -925,6 +928,20 @@ Public Class frmMain
       End Try
    End Sub
 
+
+   Sub WriteLIMSData(ByVal element As Int32, ByVal filterNum As Int32, ByVal weight As Double)
+      Dim Data As String
+      Dim FileName As String
+
+      Try
+         Data = Experiment(element).Filter(filterNum).Barcode & "," & Format(weight, "0.000") & "," & Format(Experiment(element).DryingTimes(Experiment(element).WeighingStep).Temperature, "0.0") & _
+         "," & Format(Experiment(element).DryingTimes(Experiment(element).WeighingStep).Humidity, "0.0") & ","
+         Data += Format(Now.Month, "00") & "/" & Format(Now.Day, "00") & "/" & Now.Year.ToString & " " & Now.ToLongTimeString & vbCrLf
+         FileName = Experiment(element).Filename.Substring(0, Experiment(element).Filename.IndexOf(".")) & ".raw"
+         FileIO.WriteTextFile(BaseLIMSPath & "\" & FileName, Data, False, True)
+      Catch ex As Exception
+      End Try
+   End Sub
 
    Sub GetFilterFromOven(ByVal batch As Int32, ByVal startFilter As Int32)
       'When a filter is taken from the oven, the only location for it to go to is directly to the carosel.
@@ -2756,6 +2773,7 @@ Public Class frmMain
             MasterTimer.Start()
             MasterTimerIsActive = True
          End If
+         WriteLIMSHeaders(0)
 
       Catch ex As Exception
          MessageBox.Show("An exception was caught in function btnExp1Start_Click(), Try #2." & vbCrLf & "The exception was: " & ex.Message _
@@ -2872,6 +2890,7 @@ Public Class frmMain
             MasterTimer.Start()
             MasterTimerIsActive = True
          End If
+         WriteLIMSHeaders(1)
 
       Catch ex As Exception
          MessageBox.Show("An exception was caught in function btnExp2Start_Click(), Try #2." & vbCrLf & "The exception was: " & ex.Message _
@@ -2988,6 +3007,7 @@ Public Class frmMain
             MasterTimer.Start()
             MasterTimerIsActive = True
          End If
+         WriteLIMSHeaders(2)
 
       Catch ex As Exception
          MessageBox.Show("An exception was caught in function btnExp3Start_Click(), Try #2." & vbCrLf & "The exception was: " & ex.Message _
@@ -3104,6 +3124,7 @@ Public Class frmMain
             MasterTimer.Start()
             MasterTimerIsActive = True
          End If
+         WriteLIMSHeaders(3)
 
       Catch ex As Exception
          MessageBox.Show("An exception was caught in function btnExp4Start_Click(), Try #2." & vbCrLf & "The exception was: " & ex.Message _
@@ -3220,6 +3241,7 @@ Public Class frmMain
             MasterTimer.Start()
             MasterTimerIsActive = True
          End If
+         WriteLIMSHeaders(4)
 
       Catch ex As Exception
          MessageBox.Show("An exception was caught in function btnExp5Start_Click(), Try #2." & vbCrLf & "The exception was: " & ex.Message _
@@ -3230,6 +3252,21 @@ Public Class frmMain
       End Try
    End Sub
 
+   Sub WriteLIMSHeaders(ByVal element As Int32)
+      Dim Data As String
+      Dim FileName As String
+
+      Try
+         FileName = Experiment(element).Filename.Substring(0, Experiment(element).Filename.IndexOf(".")) & ".raw"
+         Data = "Batch:   " & FileName & vbCrLf
+         Data += "Analyst:  " & Experiment(element).MyOperator.FullName & vbCrLf
+         Data += "LabWare Username:  " & Experiment(element).MyOperator.LISAName & vbCrLf
+         Data += "BarCode,Weight,Temperature,Humidity,TimeStamp" & vbCrLf
+         FileIO.WriteTextFile(BaseLIMSPath & "\" & FileName, Data, False, False)
+      Catch ex As Exception
+         MessageBox.Show("An error occured creating the LIMS data file.", "File Error", MessageBoxButtons.OK, MessageBoxIcon.Information, MessageBoxDefaultButton.Button1)
+      End Try
+   End Sub
 
 
    Sub LoadWeightExperiment(ByVal batch As Int32)

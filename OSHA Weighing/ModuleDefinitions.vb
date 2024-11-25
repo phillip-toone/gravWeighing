@@ -323,7 +323,7 @@ Public Module ModuleDefinitions
             Arm.GoToPoint(MyPoint)
             MyPoint = ThisOven.GetFilterLocation(pos)
             MyPoint = ThisOven.MoveIn(MyPoint, 5.5)  '3mm of the fiter are in the gripper jaws.  This positions the filter just slightly into the holder.
-            MyPoint.Z += 2.0
+            MyPoint.Z += 3.0
             Arm.GoToPoint(MyPoint)
             MyPoint = ThisOven.MoveOut(MyPoint, 2.0)   'Come out of the oven by 5 mm
             Arm.GoToPoint(MyPoint)
@@ -358,7 +358,7 @@ Public Module ModuleDefinitions
             End If
             Gripper.Close()
             MyPoint = ThisOven.GetFilterLocation(pos)
-            MyPoint = ThisOven.MoveOut(MyPoint, 2.5)   'Push the filter 1mm into the oven holder.
+            MyPoint = ThisOven.MoveOut(MyPoint, 2.0)   'Push the filter 1mm into the oven holder.
             MyPoint.Z -= 5.0
             Arm.GoToPoint(MyPoint)
             MyPoint = ThisOven.MoveOut(MyPoint, 250.0)
@@ -1591,7 +1591,7 @@ Public Module ModuleDefinitions
             Arm.GoToPoint(MyPoint)
             MyPoint = GetFilterLocation(rack, cell)
             MyPoint.Z += 6.5
-            MyPoint = Me.MoveIn(rack, MyPoint, 2.5)
+            MyPoint = Me.MoveIn(rack, MyPoint, 3.0)
             Arm.GoToPoint(MyPoint)
             MyPoint.Z -= 3.0
             Arm.GoToPoint(MyPoint)
@@ -1627,7 +1627,7 @@ Public Module ModuleDefinitions
             Gripper.Close()
             MyPoint = GetFilterLocation(rack, cell)
             MyPoint.Z -= 5.0
-            MyPoint = MoveOut(rack, MyPoint, 2.8)
+            MyPoint = MoveOut(rack, MyPoint, 2.0)
             Arm.GoToPoint(MyPoint)
 
             MyPoint = GetFilterLocation(rack, cell)
@@ -2200,6 +2200,7 @@ Public Module ModuleDefinitions
 
          Gripper.Close()
          MyPoint = Me.Location
+         MyPoint.Y = MyPoint.Y - 0.5
          Arm.GoToPoint(MyPoint)
          MyPoint.Y += 100.0
          Arm.GoToPoint(MyPoint)

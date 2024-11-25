@@ -87,116 +87,116 @@ Module Devices
       'The 3 corners of each of the carosel racks are mapped below.
       'Rack 1
       'Top Left Filter
-      Carosel.RackLoc(0, 0).X = -712.527
-      Carosel.RackLoc(0, 0).Y = -374.933
-      Carosel.RackLoc(0, 0).Z = -127.754
-      Carosel.RackLoc(0, 0).U = 273.663
+      Carosel.RackLoc(0, 0).X = -711.39
+      Carosel.RackLoc(0, 0).Y = -375.92
+      Carosel.RackLoc(0, 0).Z = -128.0
+      Carosel.RackLoc(0, 0).U = 273.66
       Carosel.RackLoc(0, 0).InsertX = -0.848 'To use the sub like MoveIn(1mm), you need these to know how much X and Y need to be adjusted to move the
       Carosel.RackLoc(0, 0).InsertY = -0.53   'arm on a streight line.  "Streigh line" is a function of the arms current angle.
       'Top Right Filter
-      Carosel.RackLoc(0, 1).X = -713.827
-      Carosel.RackLoc(0, 1).Y = -375.233
-      Carosel.RackLoc(0, 1).Z = -128.324
-      Carosel.RackLoc(0, 1).U = 273.663
+      Carosel.RackLoc(0, 1).X = -711.52
+      Carosel.RackLoc(0, 1).Y = -377.67
+      Carosel.RackLoc(0, 1).Z = -128.19
+      Carosel.RackLoc(0, 1).U = 272.69
       Carosel.RackLoc(0, 1).InsertX = -0.848  'These are generally not adjusted when coordinates are updated.
       Carosel.RackLoc(0, 1).InsertY = -0.53
       'Bottom Left Filter
-      Carosel.RackLoc(0, 2).X = -714.927
-      Carosel.RackLoc(0, 2).Y = -374.933
-      Carosel.RackLoc(0, 2).Z = -355.606
-      Carosel.RackLoc(0, 2).U = 273.663
+      Carosel.RackLoc(0, 2).X = -714.66
+      Carosel.RackLoc(0, 2).Y = -375.35
+      Carosel.RackLoc(0, 2).Z = -355.32
+      Carosel.RackLoc(0, 2).U = 273.46
       Carosel.RackLoc(0, 2).InsertX = -0.848
       Carosel.RackLoc(0, 2).InsertY = -0.53
 
       'Rack 2
       'Top Left Filter
-      Carosel.RackLoc(1, 0).X = -713.827
-      Carosel.RackLoc(1, 0).Y = -375.233
-      Carosel.RackLoc(1, 0).Z = -127.534
-      Carosel.RackLoc(1, 0).U = 273.363
+      Carosel.RackLoc(1, 0).X = -711.66
+      Carosel.RackLoc(1, 0).Y = -378.26
+      Carosel.RackLoc(1, 0).Z = -127.73
+      Carosel.RackLoc(1, 0).U = 272.69
       Carosel.RackLoc(1, 0).InsertX = -0.8493
       Carosel.RackLoc(1, 0).InsertY = -0.5279
       'Top Right Filter of column 7, not column 8 like all the others.  NOTE - This is column 7
-      Carosel.RackLoc(1, 1).X = -714.726
-      Carosel.RackLoc(1, 1).Y = -375.433
-      Carosel.RackLoc(1, 1).Z = -126.905
-      Carosel.RackLoc(1, 1).U = 273.163
+      Carosel.RackLoc(1, 1).X = -712.36
+      Carosel.RackLoc(1, 1).Y = -377.47
+      Carosel.RackLoc(1, 1).Z = -127.18
+      Carosel.RackLoc(1, 1).U = 272.65
       Carosel.RackLoc(1, 1).InsertX = -0.8493
       Carosel.RackLoc(1, 1).InsertY = -0.5279
       'Bottom Left Filter
-      Carosel.RackLoc(1, 2).X = -715.227
-      Carosel.RackLoc(1, 2).Y = -374.833
-      Carosel.RackLoc(1, 2).Z = -354.547
-      Carosel.RackLoc(1, 2).U = 273.063
+      Carosel.RackLoc(1, 2).X = -713.66
+      Carosel.RackLoc(1, 2).Y = -375.37
+      Carosel.RackLoc(1, 2).Z = -354.5
+      Carosel.RackLoc(1, 2).U = 273.05
       Carosel.RackLoc(1, 2).InsertX = -0.8493
       Carosel.RackLoc(1, 2).InsertY = -0.5279
 
       'Rack 3
       'Top Left Filter
-      Carosel.RackLoc(2, 0).X = -714.11
-      Carosel.RackLoc(2, 0).Y = -376.154
-      Carosel.RackLoc(2, 0).Z = -126.673
-      Carosel.RackLoc(2, 0).U = 273.145
+      Carosel.RackLoc(2, 0).X = -712.26
+      Carosel.RackLoc(2, 0).Y = -377.47
+      Carosel.RackLoc(2, 0).Z = -126.68
+      Carosel.RackLoc(2, 0).U = 272.65
       Carosel.RackLoc(2, 0).InsertX = -0.8503
       Carosel.RackLoc(2, 0).InsertY = -0.5264
       'Top Right Filter
-      Carosel.RackLoc(2, 1).X = -711.024
-      Carosel.RackLoc(2, 1).Y = -377.532
-      Carosel.RackLoc(2, 1).Z = -128.147
-      Carosel.RackLoc(2, 1).U = 272.645
+      Carosel.RackLoc(2, 1).X = -710.56
+      Carosel.RackLoc(2, 1).Y = -378.08
+      Carosel.RackLoc(2, 1).Z = -128.14
+      Carosel.RackLoc(2, 1).U = 272.649
       Carosel.RackLoc(2, 1).InsertX = -0.8503
       Carosel.RackLoc(2, 1).InsertY = -0.5264
       'Bottom Left Filter
-      Carosel.RackLoc(2, 2).X = -714.6
-      Carosel.RackLoc(2, 2).Y = -375.454
-      Carosel.RackLoc(2, 2).Z = -353.566
-      Carosel.RackLoc(2, 2).U = 273.145
+      Carosel.RackLoc(2, 2).X = -713.46
+      Carosel.RackLoc(2, 2).Y = -376.94
+      Carosel.RackLoc(2, 2).Z = -353.78
+      Carosel.RackLoc(2, 2).U = 272.65
       Carosel.RackLoc(2, 2).InsertX = -0.8493
       Carosel.RackLoc(2, 2).InsertY = -0.5279
 
       'Rack 4
       'Top Left Filter
-      Carosel.RackLoc(3, 0).X = -710.124
-      Carosel.RackLoc(3, 0).Y = -376.732
-      Carosel.RackLoc(3, 0).Z = -128.182
-      Carosel.RackLoc(3, 0).U = 272.783
+      Carosel.RackLoc(3, 0).X = -709.46
+      Carosel.RackLoc(3, 0).Y = -376.54
+      Carosel.RackLoc(3, 0).Z = -127.74
+      Carosel.RackLoc(3, 0).U = 272.65
       Carosel.RackLoc(3, 0).InsertX = -0.8455
       Carosel.RackLoc(3, 0).InsertY = -0.534
       'Top Right Filter
-      Carosel.RackLoc(3, 1).X = -710.583
-      Carosel.RackLoc(3, 1).Y = -377.015
-      Carosel.RackLoc(3, 1).Z = -128.073
-      Carosel.RackLoc(3, 1).U = 272.805
+      Carosel.RackLoc(3, 1).X = -709.26
+      Carosel.RackLoc(3, 1).Y = -377.24
+      Carosel.RackLoc(3, 1).Z = -128.2
+      Carosel.RackLoc(3, 1).U = 272.65
       Carosel.RackLoc(3, 1).InsertX = -0.8455
       Carosel.RackLoc(3, 1).InsertY = -0.534
       'Bottom Left Filter
-      Carosel.RackLoc(3, 2).X = -712.492
-      Carosel.RackLoc(3, 2).Y = -377.015
-      Carosel.RackLoc(3, 2).Z = -355.425
-      Carosel.RackLoc(3, 2).U = 272.805
+      Carosel.RackLoc(3, 2).X = -711.86
+      Carosel.RackLoc(3, 2).Y = -376.37
+      Carosel.RackLoc(3, 2).Z = -355.06
+      Carosel.RackLoc(3, 2).U = 272.65
       Carosel.RackLoc(3, 2).InsertX = -0.8455
       Carosel.RackLoc(3, 2).InsertY = -0.534
 
       'Rack 5
       'Top Left Filter
-      Carosel.RackLoc(4, 0).X = -711.022
-      Carosel.RackLoc(4, 0).Y = -377.233
-      Carosel.RackLoc(4, 0).Z = -128.173
-      Carosel.RackLoc(4, 0).U = 272.633
+      Carosel.RackLoc(4, 0).X = -710.36
+      Carosel.RackLoc(4, 0).Y = -377.64
+      Carosel.RackLoc(4, 0).Z = -128.0
+      Carosel.RackLoc(4, 0).U = 272.65
       Carosel.RackLoc(4, 0).InsertX = -0.8533
       Carosel.RackLoc(4, 0).InsertY = -0.5215
       'Top Right Filter
-      Carosel.RackLoc(4, 1).X = -711.622
-      Carosel.RackLoc(4, 1).Y = -378.233
-      Carosel.RackLoc(4, 1).Z = -128.554
-      Carosel.RackLoc(4, 1).U = 272.783
+      Carosel.RackLoc(4, 1).X = -711.23
+      Carosel.RackLoc(4, 1).Y = -379.04
+      Carosel.RackLoc(4, 1).Z = -128.23
+      Carosel.RackLoc(4, 1).U = 272.649
       Carosel.RackLoc(4, 1).InsertX = -0.8533
       Carosel.RackLoc(4, 1).InsertY = -0.5215
       'Bottom Left Filter
-      Carosel.RackLoc(4, 2).X = -712.323
-      Carosel.RackLoc(4, 2).Y = -376.833
-      Carosel.RackLoc(4, 2).Z = -355.856
-      Carosel.RackLoc(4, 2).U = 272.633
+      Carosel.RackLoc(4, 2).X = -711.96
+      Carosel.RackLoc(4, 2).Y = -376.64
+      Carosel.RackLoc(4, 2).Z = -355.23
+      Carosel.RackLoc(4, 2).U = 272.65
       Carosel.RackLoc(4, 2).InsertX = -0.8533
       Carosel.RackLoc(4, 2).InsertY = -0.5215
 
@@ -210,7 +210,7 @@ Module Devices
       'The balance has a single location.  It is the position to place the filter at on the pan.
       Balance.Location.X = -593.044
       Balance.Location.Y = -351.299 'When the XP6 was in place, this coordinate was -351.571
-      Balance.Location.Z = -399.819
+      Balance.Location.Z = -400.819
       Balance.Location.U = 330.088
 
       'The location to hold the filter in the deionizer
@@ -226,147 +226,147 @@ Module Devices
       'and 3 is the bottom right.   The filter location is defined as the point were when the filter is located at the front edge of the holder, the 
       'gripper is centered and just touching the front edge of the filter.
       'Oven 1, Top Left Filter
-      Oven1.RackLoc(0).X = -721.151
-      Oven1.RackLoc(0).Y = -17.272
-      Oven1.RackLoc(0).Z = -73.337
-      Oven1.RackLoc(0).U = 239.198
+      Oven1.RackLoc(0).X = -720.45
+      Oven1.RackLoc(0).Y = -17.24
+      Oven1.RackLoc(0).Z = -73.31
+      Oven1.RackLoc(0).U = 239.19
       Oven1.RackLoc(0).InsertX = -0.9999
       Oven1.RackLoc(0).InsertY = -0.0118
       'Top Right Filter
-      Oven1.RackLoc(1).X = -727.55
-      Oven1.RackLoc(1).Y = 320.108
-      Oven1.RackLoc(1).Z = -71.419
-      Oven1.RackLoc(1).U = 239.198
+      Oven1.RackLoc(1).X = -727.05
+      Oven1.RackLoc(1).Y = 320.14
+      Oven1.RackLoc(1).Z = -71.13
+      Oven1.RackLoc(1).U = 239.19
       Oven1.RackLoc(1).InsertX = -0.9999
       Oven1.RackLoc(1).InsertY = -0.015
       'Bottom Left Filter
-      Oven1.RackLoc(2).X = -721.851
-      Oven1.RackLoc(2).Y = -16.571
+      Oven1.RackLoc(2).X = -721.05
+      Oven1.RackLoc(2).Y = -16.59
       Oven1.RackLoc(2).Z = -300.161
       Oven1.RackLoc(2).U = 239.198
       Oven1.RackLoc(2).InsertX = -0.9999
       Oven1.RackLoc(2).InsertY = -0.0118
       'Bottom Right Filter
-      Oven1.RackLoc(3).X = -729.35
-      Oven1.RackLoc(3).Y = 321.608
+      Oven1.RackLoc(3).X = -728.74
+      Oven1.RackLoc(3).Y = 321.22
       Oven1.RackLoc(3).Z = -298.661
       Oven1.RackLoc(3).U = 239.198
       Oven1.RackLoc(3).InsertX = -0.9999
       Oven1.RackLoc(3).InsertY = -0.015
 
       'Oven 2, Top Left Filter
-      Oven2.RackLoc(0).X = -655.087
-      Oven2.RackLoc(0).Y = 466.975
-      Oven2.RackLoc(0).Z = -76.919
-      Oven2.RackLoc(0).U = 183.578
+      Oven2.RackLoc(0).X = -654.69
+      Oven2.RackLoc(0).Y = 466.83
+      Oven2.RackLoc(0).Z = -77.31
+      Oven2.RackLoc(0).U = 183.58
       Oven2.RackLoc(0).InsertX = -0.5865
       Oven2.RackLoc(0).InsertY = 0.8099
       'Top Right Filter
-      Oven2.RackLoc(1).X = -383.144
-      Oven2.RackLoc(1).Y = 665.59
-      Oven2.RackLoc(1).Z = -79.252
-      Oven2.RackLoc(1).U = 183.478
+      Oven2.RackLoc(1).X = -382.32
+      Oven2.RackLoc(1).Y = 664.59
+      Oven2.RackLoc(1).Z = -78.32
+      Oven2.RackLoc(1).U = 183.48
       Oven2.RackLoc(1).InsertX = -0.58
       Oven2.RackLoc(1).InsertY = 0.8146
       'Bottom Left Filter
-      Oven2.RackLoc(2).X = -657.486
-      Oven2.RackLoc(2).Y = 469.576
-      Oven2.RackLoc(2).Z = -304.077
-      Oven2.RackLoc(2).U = 183.578
+      Oven2.RackLoc(2).X = -656.79
+      Oven2.RackLoc(2).Y = 469.53
+      Oven2.RackLoc(2).Z = -303.78
+      Oven2.RackLoc(2).U = 183.58
       Oven2.RackLoc(2).InsertX = -0.5865
       Oven2.RackLoc(2).InsertY = 0.8099
       'Bottom Right Filter
-      Oven2.RackLoc(3).X = -384.644
-      Oven2.RackLoc(3).Y = 666.09
-      Oven2.RackLoc(3).Z = -305.677
+      Oven2.RackLoc(3).X = -384.62
+      Oven2.RackLoc(3).Y = 665.9
+      Oven2.RackLoc(3).Z = -305.48
       Oven2.RackLoc(3).U = 183.478
       Oven2.RackLoc(3).InsertX = -0.58
       Oven2.RackLoc(3).InsertY = 0.8146
 
       'Oven 3, Top Left Filter
-      Oven3.RackLoc(0).X = -149.082
-      Oven3.RackLoc(0).Y = 765.173
-      Oven3.RackLoc(0).Z = -75.052
+      Oven3.RackLoc(0).X = -149.32
+      Oven3.RackLoc(0).Y = 764.35
+      Oven3.RackLoc(0).Z = -75.05
       Oven3.RackLoc(0).U = 149.744
       Oven3.RackLoc(0).InsertX = -0.03
       Oven3.RackLoc(0).InsertY = 0.9995
       'Top Right Filter
-      Oven3.RackLoc(1).X = 187.261
-      Oven3.RackLoc(1).Y = 772.574
-      Oven3.RackLoc(1).Z = -74.858
-      Oven3.RackLoc(1).U = 149.694
+      Oven3.RackLoc(1).X = 187.75
+      Oven3.RackLoc(1).Y = 771.53
+      Oven3.RackLoc(1).Z = -74.84
+      Oven3.RackLoc(1).U = 149.74
       Oven3.RackLoc(1).InsertX = -0.012
       Oven3.RackLoc(1).InsertY = 0.9999
       'Bottom Left Filter
-      Oven3.RackLoc(2).X = -149.082
-      Oven3.RackLoc(2).Y = 765.773
-      Oven3.RackLoc(2).Z = -302.071
+      Oven3.RackLoc(2).X = -149.61
+      Oven3.RackLoc(2).Y = 765.13
+      Oven3.RackLoc(2).Z = -301.15
       Oven3.RackLoc(2).U = 149.744
       Oven3.RackLoc(2).InsertX = -0.03
       Oven3.RackLoc(2).InsertY = 0.9995
       'Bottom Right Filter
-      Oven3.RackLoc(3).X = 187.762
-      Oven3.RackLoc(3).Y = 773.374
-      Oven3.RackLoc(3).Z = -302.071
-      Oven3.RackLoc(3).U = 149.694
+      Oven3.RackLoc(3).X = 187.75
+      Oven3.RackLoc(3).Y = 772.54
+      Oven3.RackLoc(3).Z = -301.15
+      Oven3.RackLoc(3).U = 149.74
       Oven3.RackLoc(3).InsertX = -0.012
       Oven3.RackLoc(3).InsertY = 0.9999
 
       'Oven 4, Top Left Filter
-      Oven4.RackLoc(0).X = 387.723
-      Oven4.RackLoc(0).Y = 686.885
-      Oven4.RackLoc(0).Z = -73.958
+      Oven4.RackLoc(0).X = 387.23
+      Oven4.RackLoc(0).Y = 686.78
+      Oven4.RackLoc(0).Z = -73.65
       Oven4.RackLoc(0).U = 107.043
       Oven4.RackLoc(0).InsertX = 0.669
       Oven4.RackLoc(0).InsertY = 0.7433
       'Top Right Filter
-      Oven4.RackLoc(1).X = 642.515
-      Oven4.RackLoc(1).Y = 465.639
-      Oven4.RackLoc(1).Z = -73.761
-      Oven4.RackLoc(1).U = 107.043
+      Oven4.RackLoc(1).X = 641.97
+      Oven4.RackLoc(1).Y = 465.78
+      Oven4.RackLoc(1).Z = -73.71
+      Oven4.RackLoc(1).U = 107.04
       Oven4.RackLoc(1).InsertX = 0.6538
       Oven4.RackLoc(1).InsertY = 0.7567
       'Bottom Left Filter
-      Oven4.RackLoc(2).X = 389.923
-      Oven4.RackLoc(2).Y = 689.985
-      Oven4.RackLoc(2).Z = -300.824
+      Oven4.RackLoc(2).X = 390.73
+      Oven4.RackLoc(2).Y = 688.48
+      Oven4.RackLoc(2).Z = -300.82
       Oven4.RackLoc(2).U = 107.043
       Oven4.RackLoc(2).InsertX = 0.669
       Oven4.RackLoc(2).InsertY = 0.7433
       'Bottom Right Filter
-      Oven4.RackLoc(3).X = 644.861
-      Oven4.RackLoc(3).Y = 468.211
-      Oven4.RackLoc(3).Z = -301.224
+      Oven4.RackLoc(3).X = 644.17
+      Oven4.RackLoc(3).Y = 468.68
+      Oven4.RackLoc(3).Z = -301.22
       Oven4.RackLoc(3).U = 107.043
       Oven4.RackLoc(3).InsertX = 0.6538
       Oven4.RackLoc(3).InsertY = 0.7567
 
       'Oven 5, Top Left Filter
-      Oven5.RackLoc(0).X = 741.037
-      Oven5.RackLoc(0).Y = 315.99
-      Oven5.RackLoc(0).Z = -70.962
+      Oven5.RackLoc(0).X = 740.47
+      Oven5.RackLoc(0).Y = 316.99
+      Oven5.RackLoc(0).Z = -71.94
       Oven5.RackLoc(0).U = 58.58
       Oven5.RackLoc(0).InsertX = 0.9996
       Oven5.RackLoc(0).InsertY = 0.0277
       'Top Right Filter
-      Oven5.RackLoc(1).X = 746.737
-      Oven5.RackLoc(1).Y = -19.468
-      Oven5.RackLoc(1).Z = -72.979
-      Oven5.RackLoc(1).U = 58.43
+      Oven5.RackLoc(1).X = 745.57
+      Oven5.RackLoc(1).Y = -19.05
+      Oven5.RackLoc(1).Z = -73.06
+      Oven5.RackLoc(1).U = 58.58
       Oven5.RackLoc(1).InsertX = 0.9999
       Oven5.RackLoc(1).InsertY = 0.0047
       'Bottom Left Filter
-      Oven5.RackLoc(2).X = 743.037
-      Oven5.RackLoc(2).Y = 317.69
-      Oven5.RackLoc(2).Z = -297.777
-      Oven5.RackLoc(2).U = 58.43
+      Oven5.RackLoc(2).X = 741.77
+      Oven5.RackLoc(2).Y = 316.93
+      Oven5.RackLoc(2).Z = -297.79
+      Oven5.RackLoc(2).U = 58.58
       Oven5.RackLoc(2).InsertX = 0.9996
       Oven5.RackLoc(2).InsertY = 0.0277
       'Bottom Right Filter
-      Oven5.RackLoc(3).X = 745.737
-      Oven5.RackLoc(3).Y = -19.068
-      Oven5.RackLoc(3).Z = -299.777
-      Oven5.RackLoc(3).U = 58.43
+      Oven5.RackLoc(3).X = 745.36
+      Oven5.RackLoc(3).Y = -19.04
+      Oven5.RackLoc(3).Z = -300.29
+      Oven5.RackLoc(3).U = 58.48
       Oven5.RackLoc(3).InsertX = 0.9999
       Oven5.RackLoc(3).InsertY = 0.0047
    End Sub
