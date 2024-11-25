@@ -1993,6 +1993,7 @@ Public Module ModuleDefinitions
       Public Location As Point4D
       Private DoorState As DoorLoc
       Public MyDriver As JkemMotorDef
+      Private MySwitchIsEnabled As Boolean
 
 
       Public Enum StabilityRequirement As Integer
@@ -2010,6 +2011,7 @@ Public Module ModuleDefinitions
          MyPort.NewLine = vbCrLf
          MyPort.BaudRate = 9600
          MyDriver = Carosel.MyDriver
+         MySwitchIsEnabled = True
       End Sub
 
 
@@ -2017,6 +2019,15 @@ Public Module ModuleDefinitions
          Get
             Return MyPort.PortName
          End Get
+      End Property
+
+      Public Property BalanceSwitchEnabled() As Boolean
+         Get
+            Return MySwitchIsEnabled
+         End Get
+         Set(ByVal value As Boolean)
+            MySwitchIsEnabled = value
+         End Set
       End Property
 
 
@@ -2080,7 +2091,7 @@ Public Module ModuleDefinitions
       End Function
 
 
-      Private Function SendMyCommand(ByRef command As String) As String
+      Public Function SendMyCommand(ByRef command As String) As String
          Dim Reply As String = ""
          Dim Pass As Int32
 
@@ -2160,15 +2171,14 @@ Public Module ModuleDefinitions
          End If
 
          MyPoint = Deionizer.MyLocation   'Move to the ionizer
-         MyPoint.Y += 150.0
-         Arm.GoToPoint(MyPoint)
-         MyPoint.Y -= 150.0
          Arm.GoToPoint(MyPoint)
          DelaySeconds(10)   'Allow the filter to deionize
+         MyPoint.Z = Balance.Location.Z + 10.0
+         Arm.GoToPoint(MyPoint)
 
          Me.OpenDoor()
          MyPoint = Me.Location   'This loads the location of the balance pan
-         MyPoint.Z = Me.Location.Z + 10.0
+         MyPoint.Z = Balance.Location.Z + 10.0
          MyPoint.Y -= 3.0
          Arm.GoToPoint(MyPoint)
          MyPoint.Z = Me.Location.Z + 3.0
@@ -2191,7 +2201,7 @@ Public Module ModuleDefinitions
          Gripper.Close()
          MyPoint = Me.Location
          Arm.GoToPoint(MyPoint)
-         MyPoint.Y += 150.0
+         MyPoint.Y += 100.0
          Arm.GoToPoint(MyPoint)
          Me.CloseDoor()
          Return Success
@@ -2257,7 +2267,7 @@ Public Module ModuleDefinitions
          Gripper.Close()
          MyPoint.Z += 12.0
          Arm.GoToPoint(MyPoint)
-         MyPoint.Y += 150.0
+         MyPoint.Y += 100.0
          Arm.GoToPoint(MyPoint)
          Balance.CloseDoor()
       End Sub
@@ -2528,21 +2538,27 @@ Public Module ModuleDefinitions
                   DelayMS(300)
                   Reply = Me.SendMyCommand("WS")  'Request percent door open
                   If Reply = "A 2" Then
-                     If MyDriver.GetInput(3) = JkemMotorDef.InputState.High Then
-                        MessageBox.Show("The external balance door switch can not verify that the balance is open.  Open the door manually, and then click OK to continue.", "Balance Door Not Open", MessageBoxButtons.OK, MessageBoxIcon.Exclamation, MessageBoxDefaultButton.Button1)
+                     If Me.MySwitchIsEnabled = True Then
+                        DelayMS(100)
+                        If MyDriver.GetInput(3) = JkemMotorDef.InputState.High Then
+                           MessageBox.Show("The external balance door switch can not verify that the balance is open.  Open the door manually, and then click OK to continue.", "Balance Door Not Open", MessageBoxButtons.OK, MessageBoxIcon.Exclamation, MessageBoxDefaultButton.Button1)
+                        End If
                      End If
                      Exit Do
                   End If
                Next
                If Pass >= 10 Then
                   Me.CloseDoor()
-                  DelayMS(300)
-                  Reply = Me.SendMyCommand("WS 2") 'Open door
                   DelayMS(1000)
+                  Reply = Me.SendMyCommand("WS 2") 'Open door
+                  DelayMS(3000)
                   Reply = Me.SendMyCommand("WS")  'Request percent door open
                   If Reply = "A 2" Then
-                     If MyDriver.GetInput(3) = JkemMotorDef.InputState.High Then
-                        MessageBox.Show("The external balance door switch can not verify that the balance is open.  Open the door manually, and then click OK to continue.", "Balance Door Not Open", MessageBoxButtons.OK, MessageBoxIcon.Exclamation, MessageBoxDefaultButton.Button1)
+                     If Me.MySwitchIsEnabled = True Then
+                        DelayMS(100)
+                        If MyDriver.GetInput(3) = JkemMotorDef.InputState.High Then
+                           MessageBox.Show("The external balance door switch can not verify that the balance is open.  Open the door manually, and then click OK to continue.", "Balance Door Not Open", MessageBoxButtons.OK, MessageBoxIcon.Exclamation, MessageBoxDefaultButton.Button1)
+                        End If
                      End If
                      Exit Do
                   End If

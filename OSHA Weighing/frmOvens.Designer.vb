@@ -134,6 +134,8 @@ Partial Class frmOvens
       Me.Label82 = New System.Windows.Forms.Label
       Me.Label81 = New System.Windows.Forms.Label
       Me.GroupBox9 = New System.Windows.Forms.GroupBox
+      Me.Label19 = New System.Windows.Forms.Label
+      Me.Label18 = New System.Windows.Forms.Label
       Me.lblU_P005 = New System.Windows.Forms.Label
       Me.lblU_N005 = New System.Windows.Forms.Label
       Me.lblU_N25 = New System.Windows.Forms.Label
@@ -197,8 +199,14 @@ Partial Class frmOvens
       Me.lblX_P05 = New System.Windows.Forms.Label
       Me.lblX_P02 = New System.Windows.Forms.Label
       Me.lblX_P01 = New System.Windows.Forms.Label
-      Me.Label18 = New System.Windows.Forms.Label
-      Me.Label19 = New System.Windows.Forms.Label
+      Me.GroupBox13 = New System.Windows.Forms.GroupBox
+      Me.btnGoBalance = New System.Windows.Forms.Button
+      Me.cbxBalance = New System.Windows.Forms.ComboBox
+      Me.Label20 = New System.Windows.Forms.Label
+      Me.Label21 = New System.Windows.Forms.Label
+      Me.btnTestSwitch = New System.Windows.Forms.Button
+      Me.lblBalance = New System.Windows.Forms.Label
+      Me.ckbDisableSwitch = New System.Windows.Forms.CheckBox
       Me.gbxOven1.SuspendLayout()
       Me.GroupBox1.SuspendLayout()
       Me.MenuStrip1.SuspendLayout()
@@ -222,6 +230,7 @@ Partial Class frmOvens
       Me.GroupBox10.SuspendLayout()
       Me.GroupBox11.SuspendLayout()
       Me.GroupBox12.SuspendLayout()
+      Me.GroupBox13.SuspendLayout()
       Me.SuspendLayout()
       '
       'gbxOven1
@@ -1394,6 +1403,27 @@ Partial Class frmOvens
       Me.GroupBox9.TabStop = False
       Me.GroupBox9.Text = "U"
       '
+      'Label19
+      '
+      Me.Label19.AutoSize = True
+      Me.Label19.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+      Me.Label19.ForeColor = System.Drawing.Color.Lime
+      Me.Label19.Location = New System.Drawing.Point(457, 16)
+      Me.Label19.Name = "Label19"
+      Me.Label19.Size = New System.Drawing.Size(140, 20)
+      Me.Label19.TabIndex = 23
+      Me.Label19.Text = "Counter Clockwise"
+      '
+      'Label18
+      '
+      Me.Label18.AutoSize = True
+      Me.Label18.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+      Me.Label18.Location = New System.Drawing.Point(104, 15)
+      Me.Label18.Name = "Label18"
+      Me.Label18.Size = New System.Drawing.Size(79, 20)
+      Me.Label18.TabIndex = 22
+      Me.Label18.Text = "Clockwise"
+      '
       'lblU_P005
       '
       Me.lblU_P005.AutoSize = True
@@ -2180,26 +2210,97 @@ Partial Class frmOvens
       Me.lblX_P01.TabIndex = 0
       Me.lblX_P01.Text = "+0.1"
       '
-      'Label18
+      'GroupBox13
       '
-      Me.Label18.AutoSize = True
-      Me.Label18.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-      Me.Label18.Location = New System.Drawing.Point(104, 15)
-      Me.Label18.Name = "Label18"
-      Me.Label18.Size = New System.Drawing.Size(79, 20)
-      Me.Label18.TabIndex = 22
-      Me.Label18.Text = "Clockwise"
+      Me.GroupBox13.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
+      Me.GroupBox13.Controls.Add(Me.ckbDisableSwitch)
+      Me.GroupBox13.Controls.Add(Me.lblBalance)
+      Me.GroupBox13.Controls.Add(Me.btnTestSwitch)
+      Me.GroupBox13.Controls.Add(Me.Label21)
+      Me.GroupBox13.Controls.Add(Me.Label20)
+      Me.GroupBox13.Controls.Add(Me.cbxBalance)
+      Me.GroupBox13.Controls.Add(Me.btnGoBalance)
+      Me.GroupBox13.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+      Me.GroupBox13.Location = New System.Drawing.Point(1275, 68)
+      Me.GroupBox13.Name = "GroupBox13"
+      Me.GroupBox13.Size = New System.Drawing.Size(199, 247)
+      Me.GroupBox13.TabIndex = 59
+      Me.GroupBox13.TabStop = False
+      Me.GroupBox13.Text = "Balance Test"
       '
-      'Label19
+      'btnGoBalance
       '
-      Me.Label19.AutoSize = True
-      Me.Label19.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-      Me.Label19.ForeColor = System.Drawing.Color.Lime
-      Me.Label19.Location = New System.Drawing.Point(457, 16)
-      Me.Label19.Name = "Label19"
-      Me.Label19.Size = New System.Drawing.Size(140, 20)
-      Me.Label19.TabIndex = 23
-      Me.Label19.Text = "Counter Clockwise"
+      Me.btnGoBalance.BackColor = System.Drawing.Color.FromArgb(CType(CType(128, Byte), Integer), CType(CType(128, Byte), Integer), CType(CType(255, Byte), Integer))
+      Me.btnGoBalance.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+      Me.btnGoBalance.Location = New System.Drawing.Point(12, 102)
+      Me.btnGoBalance.Name = "btnGoBalance"
+      Me.btnGoBalance.Size = New System.Drawing.Size(92, 24)
+      Me.btnGoBalance.TabIndex = 0
+      Me.btnGoBalance.Text = "Get Filter"
+      Me.btnGoBalance.UseVisualStyleBackColor = False
+      '
+      'cbxBalance
+      '
+      Me.cbxBalance.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+      Me.cbxBalance.FormattingEnabled = True
+      Me.cbxBalance.Items.AddRange(New Object() {"1", "2", "3", "4", "5"})
+      Me.cbxBalance.Location = New System.Drawing.Point(121, 104)
+      Me.cbxBalance.Name = "cbxBalance"
+      Me.cbxBalance.Size = New System.Drawing.Size(59, 21)
+      Me.cbxBalance.TabIndex = 1
+      '
+      'Label20
+      '
+      Me.Label20.AutoSize = True
+      Me.Label20.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+      Me.Label20.Location = New System.Drawing.Point(121, 73)
+      Me.Label20.Name = "Label20"
+      Me.Label20.Size = New System.Drawing.Size(57, 26)
+      Me.Label20.TabIndex = 2
+      Me.Label20.Text = "Take Filter" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "from Rack"
+      '
+      'Label21
+      '
+      Me.Label21.AutoSize = True
+      Me.Label21.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+      Me.Label21.Location = New System.Drawing.Point(10, 29)
+      Me.Label21.Name = "Label21"
+      Me.Label21.Size = New System.Drawing.Size(177, 39)
+      Me.Label21.TabIndex = 3
+      Me.Label21.Text = "Picks up a filter from the specifed" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "rack, places it in the oven, and then" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "retur" & _
+          "ns the filter."
+      '
+      'btnTestSwitch
+      '
+      Me.btnTestSwitch.BackColor = System.Drawing.Color.FromArgb(CType(CType(128, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
+      Me.btnTestSwitch.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+      Me.btnTestSwitch.Location = New System.Drawing.Point(21, 147)
+      Me.btnTestSwitch.Name = "btnTestSwitch"
+      Me.btnTestSwitch.Size = New System.Drawing.Size(148, 25)
+      Me.btnTestSwitch.TabIndex = 4
+      Me.btnTestSwitch.Text = "Test Balance Switch"
+      Me.btnTestSwitch.UseVisualStyleBackColor = False
+      '
+      'lblBalance
+      '
+      Me.lblBalance.AutoSize = True
+      Me.lblBalance.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+      Me.lblBalance.Location = New System.Drawing.Point(54, 181)
+      Me.lblBalance.Name = "lblBalance"
+      Me.lblBalance.Size = New System.Drawing.Size(89, 13)
+      Me.lblBalance.TabIndex = 5
+      Me.lblBalance.Text = "Door is Closed"
+      '
+      'ckbDisableSwitch
+      '
+      Me.ckbDisableSwitch.AutoSize = True
+      Me.ckbDisableSwitch.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+      Me.ckbDisableSwitch.Location = New System.Drawing.Point(16, 222)
+      Me.ckbDisableSwitch.Name = "ckbDisableSwitch"
+      Me.ckbDisableSwitch.Size = New System.Drawing.Size(122, 17)
+      Me.ckbDisableSwitch.TabIndex = 6
+      Me.ckbDisableSwitch.Text = "Disable Door Switch"
+      Me.ckbDisableSwitch.UseVisualStyleBackColor = True
       '
       'frmOvens
       '
@@ -2207,6 +2308,7 @@ Partial Class frmOvens
       Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
       Me.BackColor = System.Drawing.Color.Gainsboro
       Me.ClientSize = New System.Drawing.Size(1790, 731)
+      Me.Controls.Add(Me.GroupBox13)
       Me.Controls.Add(Me.GroupBox8)
       Me.Controls.Add(Me.GroupBox6)
       Me.Controls.Add(Me.gbxBalance)
@@ -2263,6 +2365,8 @@ Partial Class frmOvens
       Me.GroupBox11.PerformLayout()
       Me.GroupBox12.ResumeLayout(False)
       Me.GroupBox12.PerformLayout()
+      Me.GroupBox13.ResumeLayout(False)
+      Me.GroupBox13.PerformLayout()
       Me.ResumeLayout(False)
       Me.PerformLayout()
 
@@ -2444,4 +2548,12 @@ Partial Class frmOvens
    Friend WithEvents lblX_P01 As System.Windows.Forms.Label
    Friend WithEvents Label19 As System.Windows.Forms.Label
    Friend WithEvents Label18 As System.Windows.Forms.Label
+   Friend WithEvents GroupBox13 As System.Windows.Forms.GroupBox
+   Friend WithEvents Label21 As System.Windows.Forms.Label
+   Friend WithEvents Label20 As System.Windows.Forms.Label
+   Friend WithEvents cbxBalance As System.Windows.Forms.ComboBox
+   Friend WithEvents btnGoBalance As System.Windows.Forms.Button
+   Friend WithEvents lblBalance As System.Windows.Forms.Label
+   Friend WithEvents btnTestSwitch As System.Windows.Forms.Button
+   Friend WithEvents ckbDisableSwitch As System.Windows.Forms.CheckBox
 End Class

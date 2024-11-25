@@ -327,11 +327,6 @@ Public Class frmMain
             Oven5.OvenActive = False
             gbxExp5.Enabled = False
          End If
-         If Data(10) = "True" Then
-            Balance.BalanceSwitchEnabled = True
-         Else
-            Balance.BalanceSwitchEnabled = False
-         End If
       Catch ex As Exception
          If TestMode = False Then
             MessageBox.Show("An error occured in sub LoadSpecialSettings().   Default values will be loaded.", "Settings Error", MessageBoxButtons.OK, MessageBoxIcon.Hand, MessageBoxDefaultButton.Button1)
@@ -355,7 +350,6 @@ Public Class frmMain
       Data += Oven4.OvenActive.ToString & ","
       Data += Oven5.IsCloseDoorSensorInOverride.ToString & ","
       Data += Oven5.OvenActive.ToString & ","
-      Data += Balance.BalanceSwitchEnabled & ","
       FileIO.WriteTextFile(BaseInfoPath & "\SpecialSettings.txt", Data)
    End Sub
 
@@ -666,7 +660,7 @@ Public Class frmMain
          MasterTimerLockout = False
       Catch ex As Exception
          ErrorDump(ex.Message, ex.TargetSite.Name, Pass.ToString)
-         'frmSMTPService.SendMail("An Error occured with the weighing robot process and the robot has stopped.  The error message was:  " & ex.Message, False, True)
+         frmSMTPService.SendMail("An Error occured with the weighing robot process and the robot has stopped.  The error message was:  " & ex.Message, False, True)
          MessageBox.Show("An exception was caught in function MasterTimerTick()." & vbCrLf & "The exception was: " & ex.Message _
                          & vbCrLf & "The inner exception was: " & ex.InnerException.ToString _
                          & vbCrLf & "The stack trace was: " & ex.StackTrace, _
@@ -748,7 +742,7 @@ Public Class frmMain
          Carosel.ReleaseCaroselFromAccess()
       Catch ex As Exception
          ErrorDump(ex.Message, ex.TargetSite.Name, batch.ToString & vbCrLf & startFilter.ToString)
-         'frmSMTPService.SendMail("An Error occured in the function TakeFilterToOven.  Batch: " & batch.ToString & ", Filter: " & startFilter.ToString & ".  The error message was:  " & ex.Message, False, True)
+         frmSMTPService.SendMail("An Error occured in the function TakeFilterToOven.  Batch: " & batch.ToString & ", Filter: " & startFilter.ToString & ".  The error message was:  " & ex.Message, False, True)
          MessageBox.Show("An exception was caught in function TakeFilterToOven()." & vbCrLf & "The exception was: " & ex.Message _
                             & vbCrLf & "The inner exception was: " & ex.InnerException.ToString _
                             & vbCrLf & "The stack trace was: " & ex.StackTrace, _
@@ -769,8 +763,6 @@ Public Class frmMain
       Dim FilterDone As Boolean
       Dim ExperimentDone As Boolean
       Dim EnvironmentalData() As String
-      Static LastTemperature as double = 21.0
-      Static LastHumidity As Double = 40.0
 
 
       Try
@@ -785,17 +777,15 @@ Public Class frmMain
          Carosel.Home()
          Try
             EnvironmentalData = FileIO.ReadTextFile(BaseInfoPath & "\Humidity.txt").Split(Chr(44))   'Split on comma
-            Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Temperature = CDbl(EnvironmentalData(0))
-            LastTemperature = Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Temperature
-            Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Humidity = CDbl(EnvironmentalData(1))
-            LastHumidity = Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Humidity
+            Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Humidity = CDbl(EnvironmentalData(0))
+            Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Temperature = CDbl(EnvironmentalData(1))
          Catch ex As Exception
             'If you just happen to read this file when the humidity program is writing it, then an error can occur.
-            Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Humidity = LastHumidity
-            Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Temperature = LastTemperature
          End Try
 
+         Balance.Zero()
          UpdateDisplayTimers()
+
          Experiment(batch).ArmIsInMotion = True 'Only used for power failure recovery function
          For Pass = startFilter To Experiment(batch).TotalSamples
             Experiment(batch).CurrentFilter = Pass
@@ -820,7 +810,6 @@ Public Class frmMain
 
                   If ManageBarcodeData(batch, Pass, Lable) = True Then
                      'Weigh the filter, store the value
-                     Balance.Zero()   'They want to tare before every weighing
                      If Balance.DropOffFilter() = True Then  'This is true if the filter was dropped off correctly
                         UpdateDisplayTimers()
                         Balance.Weight()  'let it go to waste
@@ -917,7 +906,7 @@ Public Class frmMain
          Carosel.ReleaseCaroselFromAccess()
       Catch ex As Exception
          ErrorDump(ex.Message, ex.TargetSite.Name, batch.ToString & vbCrLf & startFilter.ToString & vbCrLf & endingLocation.ToString)
-         'frmSMTPService.SendMail("An Error occured in the function WeighFiltersFromCarosel.  Batch: " & batch.ToString & ", Filter: " & startFilter.ToString & ".  The error message was:  " & ex.Message, False, True)
+         frmSMTPService.SendMail("An Error occured in the function WeighFiltersFromCarosel.  Batch: " & batch.ToString & ", Filter: " & startFilter.ToString & ".  The error message was:  " & ex.Message, False, True)
          MessageBox.Show("An exception was caught in function WeighFiltersFromCarosel()." & vbCrLf & "The exception was: " & ex.Message _
                          & vbCrLf & "The inner exception was: " & ex.InnerException.ToString _
                          & vbCrLf & "The stack trace was: " & ex.StackTrace, _
@@ -965,7 +954,7 @@ Public Class frmMain
          Carosel.ReleaseCaroselFromAccess()
       Catch ex As Exception
          ErrorDump(ex.Message, ex.TargetSite.Name, batch.ToString & vbCrLf & startFilter.ToString)
-         'frmSMTPService.SendMail("An Error occured in the function GetFilterFromOven.  Batch: " & batch.ToString & ", Filter: " & startFilter.ToString & ".  The error message was:  " & ex.Message, False, True)
+         frmSMTPService.SendMail("An Error occured in the function GetFilterFromOven.  Batch: " & batch.ToString & ", Filter: " & startFilter.ToString & ".  The error message was:  " & ex.Message, False, True)
          MessageBox.Show("An exception was caught in function GetFilterFromOven()." & vbCrLf & "The exception was: " & ex.Message _
                             & vbCrLf & "The inner exception was: " & ex.InnerException.ToString _
                             & vbCrLf & "The stack trace was: " & ex.StackTrace, _
@@ -1012,7 +1001,7 @@ Public Class frmMain
          End If
       Catch ex As Exception
          ErrorDump(ex.Message, ex.TargetSite.Name)
-         'frmSMTPService.SendMail("An Error occured in the function UpdateDisplayTimers.  The error message was:  " & ex.Message, False, True)
+         frmSMTPService.SendMail("An Error occured in the function UpdateDisplayTimers.  The error message was:  " & ex.Message, False, True)
          MessageBox.Show("An exception was caught in function UpdateDisplayTimers()." & vbCrLf & "The exception was: " & ex.Message _
                             & vbCrLf & "The inner exception was: " & ex.InnerException.ToString _
                             & vbCrLf & "The stack trace was: " & ex.StackTrace, _
@@ -1036,7 +1025,7 @@ Public Class frmMain
          Return Done
       Catch ex As Exception
          ErrorDump(ex.Message, ex.TargetSite.Name, batch.ToString)
-         'frmSMTPService.SendMail("An Error occured in the function AnalyzeExperimentForDone.  The error message was:  " & ex.Message, False, True)
+         frmSMTPService.SendMail("An Error occured in the function AnalyzeExperimentForDone.  The error message was:  " & ex.Message, False, True)
          MessageBox.Show("An exception was caught in function AnalyzeExperimentForDone()." & vbCrLf & "The exception was: " & ex.Message _
                             & vbCrLf & "The inner exception was: " & ex.InnerException.ToString _
                             & vbCrLf & "The stack trace was: " & ex.StackTrace, _
@@ -1057,7 +1046,7 @@ Public Class frmMain
                Me.mnuManualOven1.Enabled = False
                My.Settings.Experiment1IsActive = False
                Try
-                  'frmSMTPService.SendMail("The filter experiment #1 is complete.", True, False)
+                  frmSMTPService.SendMail("The filter experiment #1 is complete.", True, False)
                Catch ex As Exception
                End Try
 
@@ -1066,7 +1055,7 @@ Public Class frmMain
                Me.mnuManualOven2.Enabled = False
                My.Settings.Experiment2IsActive = False
                Try
-                  'frmSMTPService.SendMail("The filter experiment #2 is complete.", True, False)
+                  frmSMTPService.SendMail("The filter experiment #2 is complete.", True, False)
                Catch ex As Exception
                End Try
             Case 2
@@ -1074,7 +1063,7 @@ Public Class frmMain
                Me.mnuManualOven3.Enabled = False
                My.Settings.Experiment3IsActive = False
                Try
-                  'frmSMTPService.SendMail("The filter experiment #3 is complete.", True, False)
+                  frmSMTPService.SendMail("The filter experiment #3 is complete.", True, False)
                Catch ex As Exception
                End Try
             Case 3
@@ -1082,7 +1071,7 @@ Public Class frmMain
                Me.mnuManualOven4.Enabled = False
                My.Settings.Experiment4IsActive = False
                Try
-                  'frmSMTPService.SendMail("The filter experiment #4 is complete.", True, False)
+                  frmSMTPService.SendMail("The filter experiment #4 is complete.", True, False)
                Catch ex As Exception
                End Try
             Case 4
@@ -1090,7 +1079,7 @@ Public Class frmMain
                Me.mnuManualOven1.Enabled = False
                My.Settings.Experiment5IsActive = False
                Try
-                  'frmSMTPService.SendMail("The filter experiment #5 is complete.", True, False)
+                  frmSMTPService.SendMail("The filter experiment #5 is complete.", True, False)
                Catch ex As Exception
                End Try
          End Select
@@ -1122,7 +1111,7 @@ Public Class frmMain
 
 
    Sub ProcessExperimentData(ByVal batch As Int32)
-      'This sub closes and processes an experiment.  It writes data to the appropriate files on the C drive
+      'This sub closes and processes an expeiment.  It writes data to the appropriate files on the C drive
       Dim Data As String = ""
       Dim Pass As Int32
 
@@ -1158,17 +1147,13 @@ Public Class frmMain
                Data += "Step 3 Oven Drying Times -     Start: " & Experiment(batch).DryingTimes(2).StartTime.ToShortDateString & "   " & Experiment(batch).DryingTimes(2).StartTime.ToLongTimeString & "      End: " & Experiment(batch).DryingTimes(2).StopTime.ToShortDateString & "   " & Experiment(batch).DryingTimes(2).StopTime.ToLongTimeString & vbCrLf
             End If
             ' When you implement humidity and temperature, then the output lines must look like this:   Data += "Step 1 Weighing Environment -     Humidity: " & Experiment(batch).DryingTimes(0).Humidity.ToString & "      Temperature: " & Experiment(batch).DryingTimes(0).Temperature.ToString & vbCrLf
-            'Was, changed on 9/24/2021   Data += "Step 1 Weighing Environment -     Humidity: " & Format(Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Humidity, "0.0") & "      Temperature: " & Format(Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Temperature, "0.0") & vbCrLf
-            Data += "Step 1 Weighing Environment -     Humidity: " & Format(Experiment(batch).DryingTimes(0).Humidity, "0.0") & "      Temperature: " & Format(Experiment(batch).DryingTimes(0).Temperature, "0.0") & vbCrLf
-            'Was, changed on 9/24/2021   Data += "Step 2 Weighing Environment -     Humidity: " & Format(Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Humidity, "0.0") & "      Temperature: " & Format(Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Temperature, "0.0") & vbCrLf
-            Data += "Step 2 Weighing Environment -     Humidity: " & Format(Experiment(batch).DryingTimes(1).Humidity, "0.0") & "      Temperature: " & Format(Experiment(batch).DryingTimes(1).Temperature, "0.0") & vbCrLf
+            Data += "Step 1 Weighing Environment -     Humidity: " & Format(Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Humidity, "0.0") & "      Temperature: " & Format(Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Temperature, "0.0") & vbCrLf
+            Data += "Step 2 Weighing Environment -     Humidity: " & Format(Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Humidity, "0.0") & "      Temperature: " & Format(Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Temperature, "0.0") & vbCrLf
             If Experiment(batch).WeighingStep > 2 Then
-               'Was, changed on 9/24/2021   Data += "Step 3 Weighing Environment -     Humidity: " & Format(Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Humidity, "0.0") & "      Temperature: " & Format(Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Temperature, "0.0") & vbCrLf
-               Data += "Step 3 Weighing Environment -     Humidity: " & Format(Experiment(batch).DryingTimes(2).Humidity, "0.0") & "      Temperature: " & Format(Experiment(batch).DryingTimes(2).Temperature, "0.0") & vbCrLf
+               Data += "Step 3 Weighing Environment -     Humidity: " & Format(Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Humidity, "0.0") & "      Temperature: " & Format(Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Temperature, "0.0") & vbCrLf
             End If
             If Experiment(batch).WeighingStep > 3 Then
-               'Was, changed on 9/24/2021   Data += "Step 4 Weighing Environment -     Humidity: " & Format(Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Humidity, "0.0") & "      Temperature: " & Format(Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Temperature, "0.0") & vbCrLf
-               Data += "Step 4 Weighing Environment -     Humidity: " & Format(Experiment(batch).DryingTimes(3).Humidity, "0.0") & "      Temperature: " & Format(Experiment(batch).DryingTimes(3).Temperature, "0.0") & vbCrLf
+               Data += "Step 4 Weighing Environment -     Humidity: " & Format(Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Humidity, "0.0") & "      Temperature: " & Format(Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Temperature, "0.0") & vbCrLf
             End If
             Data += vbCrLf & "Filter" & "," & "Bar Code #" & "," & _
             "Weight 1 (mg)" & "," & "Weight 2 (mg)" & "," & "Weight 3 (mg)" & "," & "Weight 4 (mg)" & vbCrLf
@@ -1220,10 +1205,10 @@ Public Class frmMain
                Data += "Step 3 Oven Drying Times -     Start: " & Experiment(batch).DryingTimes(2).StartTime.ToShortDateString & "   " & Experiment(batch).DryingTimes(2).StartTime.ToLongTimeString & "      End: " & Experiment(batch).DryingTimes(2).StopTime.ToShortDateString & "   " & Experiment(batch).DryingTimes(2).StopTime.ToLongTimeString & vbCrLf
             End If
             ' When you implement humidity and temperature, then the output lines must look like this:   Data += "Step 1 Weighing Environment -     Humidity: " & Experiment(batch).DryingTimes(0).Humidity.ToString & "      Temperature: " & Experiment(batch).DryingTimes(0).Temperature.ToString & vbCrLf
-            Data += "Step 1 Weighing Environment -     Humidity: " & Format(Experiment(batch).DryingTimes(0).Humidity, "0.0") & "      Temperature: " & Format(Experiment(batch).DryingTimes(0).Temperature, "0.0") & vbCrLf
-            Data += "Step 2 Weighing Environment -     Humidity: " & Format(Experiment(batch).DryingTimes(1).Humidity, "0.0") & "      Temperature: " & Format(Experiment(batch).DryingTimes(1).Temperature, "0.0") & vbCrLf
+            Data += "Step 1 Weighing Environment -     Humidity: " & Format(Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Humidity, "0.0") & "      Temperature: " & Format(Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Temperature, "0.0") & vbCrLf
+            Data += "Step 2 Weighing Environment -     Humidity: " & Format(Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Humidity, "0.0") & "      Temperature: " & Format(Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Temperature, "0.0") & vbCrLf
             If Experiment(batch).WeighingStep > 2 Then
-               Data += "Step 3 Weighing Environment -     Humidity: " & Format(Experiment(batch).DryingTimes(2).Humidity, "0.0") & "      Temperature: " & Format(Experiment(batch).DryingTimes(2).Temperature, "0.0") & vbCrLf
+               Data += "Step 3 Weighing Environment -     Humidity: " & Format(Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Humidity, "0.0") & "      Temperature: " & Format(Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Temperature, "0.0") & vbCrLf
             End If
             Data += vbCrLf & "Filter" & "," & "Bar Code #" & "," & "Blank?" & "," & "Blank Corrected From" & "," & "Tare Weight (mg)" & _
                "," & "Weight 1 (mg)" & "," & "Weight 2 (mg)" & "," & "Weight 3 (mg)" & "," & "Selected Weight (mg)" & _
@@ -1272,10 +1257,10 @@ Public Class frmMain
                Data += "Step 3 Oven Drying Times -     Start: " & Experiment(batch).DryingTimes(2).StartTime.ToShortDateString & "   " & Experiment(batch).DryingTimes(2).StartTime.ToLongTimeString & "      End: " & Experiment(batch).DryingTimes(2).StopTime.ToShortDateString & "   " & Experiment(batch).DryingTimes(2).StopTime.ToLongTimeString & vbCrLf
             End If
             ' When you implement humidity and temperature, then the output lines must look like this:   Data += "Step 1 Weighing Environment -     Humidity: " & Experiment(batch).DryingTimes(0).Humidity.ToString & "      Temperature: " & Experiment(batch).DryingTimes(0).Temperature.ToString & vbCrLf
-            Data += "Step 1 Weighing Environment -     Humidity: " & Format(Experiment(batch).DryingTimes(0).Humidity, "0.0") & "      Temperature: " & Format(Experiment(batch).DryingTimes(0).Temperature, "0.0") & vbCrLf
-            Data += "Step 2 Weighing Environment -     Humidity: " & Format(Experiment(batch).DryingTimes(1).Humidity, "0.0") & "      Temperature: " & Format(Experiment(batch).DryingTimes(1).Temperature, "0.0") & vbCrLf
+            Data += "Step 1 Weighing Environment -     Humidity: " & Format(Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Humidity, "0.0") & "      Temperature: " & Format(Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Temperature, "0.0") & vbCrLf
+            Data += "Step 2 Weighing Environment -     Humidity: " & Format(Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Humidity, "0.0") & "      Temperature: " & Format(Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Temperature, "0.0") & vbCrLf
             If Experiment(batch).WeighingStep > 2 Then
-               Data += "Step 3 Weighing Environment -     Humidity: " & Format(Experiment(batch).DryingTimes(2).Humidity, "0.0") & "      Temperature: " & Format(Experiment(batch).DryingTimes(2).Temperature, "0.0") & vbCrLf
+               Data += "Step 3 Weighing Environment -     Humidity: " & Format(Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Humidity, "0.0") & "      Temperature: " & Format(Experiment(batch).DryingTimes(Experiment(batch).WeighingStep).Temperature, "0.0") & vbCrLf
             End If
             Data += vbCrLf & "Filter" & "," & "Bar Code #" & "," & "Weight 1 (mg)" & "," & "Weight 2 (mg)" & "," & "Weight 3 (mg)" & vbCrLf
             For Pass = 1 To Experiment(batch).TotalSamples

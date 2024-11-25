@@ -56,7 +56,12 @@
       End If
       AbortRequested = False
       UpdatePosition()
+      cbxBalance.SelectedIndex = 0
+      If Balance.BalanceSwitchEnabled = False Then
+         ckbDisableSwitch.Checked = True
+      End If
 
+      AddHandler ckbDisableSwitch.CheckedChanged, AddressOf ckbDisableSwitch_CheckedChanged
       AddHandler ckbOverride1.CheckedChanged, AddressOf ckbOverride1_CheckedChanged
       AddHandler ckbOverride2.CheckedChanged, AddressOf ckbOverride2_CheckedChanged
       AddHandler ckbOverride3.CheckedChanged, AddressOf ckbOverride3_CheckedChanged
@@ -977,5 +982,66 @@
             txbUCoordinate.Text = Format(ArmPoint.U, "0.000")
          End If
       End If
+   End Sub
+
+   Private Sub btnGoBalance_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnGoBalance.Click
+      Dim Rack As Int32
+
+      Try
+         Rack = cbxBalance.SelectedIndex + 1
+         MessageBox.Show("Place a filter in Position 1 of Rack " & Rack.ToString & " then click the OK button to start the test.", "Balance Test", MessageBoxButtons.OK, MessageBoxIcon.Hand, MessageBoxDefaultButton.Button1)
+         DisableGroupBoxes()
+         Carosel.Home()
+         Carosel.GetFilter(Rack, 1)
+         Balance.DropOffFilter()
+         MessageBox.Show("Click OK to pick up filter.", "Filter Test", MessageBoxButtons.OK, MessageBoxIcon.Information, MessageBoxDefaultButton.Button1)
+         Balance.PickUpFilter()
+         Carosel.PutFilter(Rack, 1)
+         EnableGroupBoxes()
+      Catch ex As Exception
+         EnableGroupBoxes()
+         AbortRequested = False
+         UpdatePosition()
+      End Try
+   End Sub
+
+   Private Sub btnTestSwitch_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnTestSwitch.Click
+      Dim Reply As String
+      Dim Pass As Int32
+      Dim IsOpen As Boolean = False
+
+      If lblBalance.Text.Contains("Closed") Then
+         Reply = Balance.SendMyCommand("WS 2") 'Open door
+         If Reply = "A" Then
+            For Pass = 0 To 10
+               DelayMS(300)
+               Reply = Balance.SendMyCommand("WS")  'Request percent door open
+               If Reply = "A 2" Then
+                  If Balance.MyDriver.GetInput(3) = JkemMotorDef.InputState.Low Then   'Switch goes low when door is open
+                     IsOpen = True
+                     lblBalance.Text = "Balance is Open"
+                  End If
+                  Exit For
+               End If
+            Next
+         End If
+         If IsOpen = False Then
+            MessageBox.Show("The balance door switch has not been closed.", "Oh Darn!", MessageBoxButtons.OK, MessageBoxIcon.Information, MessageBoxDefaultButton.Button1)
+            Balance.CloseDoor()
+         End If
+      Else
+         Balance.CloseDoor()
+         lblBalance.Text = "Door is Closed"
+      End If
+
+   End Sub
+
+   Private Sub ckbDisableSwitch_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs)
+      If ckbDisableSwitch.Checked = True Then
+         Balance.BalanceSwitchEnabled = False
+      Else
+         Balance.BalanceSwitchEnabled = True
+      End If
+      frmMain.SaveSpecialSettings()
    End Sub
 End Class
