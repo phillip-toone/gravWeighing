@@ -1,0 +1,1774 @@
+C:\Users\FilterLab\Desktop\OSHA 6_19_10\OSHA Weighing\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 6_19_10\OSHA Weighing\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 6_19_10\OSHA Weighing\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 6_19_10\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 6_19_10\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 6_19_10\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 6_19_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Users\FilterLab\Desktop\OSHA 6_19_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 6_19_10\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 6_19_10\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 6_19_10\OSHA Weighing\bin\Debug\SpelNetLib.dll
+C:\Users\FilterLab\Desktop\OSHA 6_19_10\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Users\FilterLab\Desktop\OSHA 6_19_10\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Users\FilterLab\Desktop\OSHA 6_19_10\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Users\FilterLab\Desktop\OSHA 6_19_10\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Users\FilterLab\Desktop\OSHA 6_19_10\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FilterLab\Desktop\OSHA 6_19_10\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Users\FilterLab\Desktop\OSHA 6_19_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Users\FilterLab\Desktop\OSHA 6_19_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Users\FilterLab\Desktop\OSHA 6_19_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Users\FilterLab\Desktop\OSHA 6_19_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Users\FilterLab\Desktop\OSHA 6_19_10\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Users\FilterLab\Desktop\OSHA 6_19_10\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Users\FilterLab\Desktop\OSHA 7_28_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Users\FilterLab\Desktop\OSHA 7_28_10\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 7_28_10\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 7_28_10\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 7_28_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 7_28_10\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 7_28_10\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 7_28_10\OSHA Weighing\bin\Debug\SpelNetLib.dll
+C:\Users\FilterLab\Desktop\OSHA 7_28_10\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Users\FilterLab\Desktop\OSHA 7_28_10\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Users\FilterLab\Desktop\OSHA 7_28_10\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Users\FilterLab\Desktop\OSHA 7_28_10\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Users\FilterLab\Desktop\OSHA 7_28_10\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FilterLab\Desktop\OSHA 7_28_10\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Users\FilterLab\Desktop\OSHA 7_28_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Users\FilterLab\Desktop\OSHA 7_28_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Users\FilterLab\Desktop\OSHA 7_28_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Users\FilterLab\Desktop\OSHA 7_28_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Users\FilterLab\Desktop\OSHA 7_28_10\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Users\FilterLab\Desktop\OSHA 7_28_10\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Users\FilterLab\Desktop\OSHA 7_28_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Users\FilterLab\Desktop\OSHA 9_13_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Users\FilterLab\Desktop\OSHA 9_13_10\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 9_13_10\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 9_13_10\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 9_13_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 9_13_10\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 9_13_10\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 9_13_10\OSHA Weighing\bin\Debug\SpelNetLib.dll
+C:\Users\FilterLab\Desktop\OSHA 9_13_10\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Users\FilterLab\Desktop\OSHA 9_13_10\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Users\FilterLab\Desktop\OSHA 9_13_10\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Users\FilterLab\Desktop\OSHA 9_13_10\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Users\FilterLab\Desktop\OSHA 9_13_10\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FilterLab\Desktop\OSHA 9_13_10\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Users\FilterLab\Desktop\OSHA 9_13_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Users\FilterLab\Desktop\OSHA 9_13_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Users\FilterLab\Desktop\OSHA 9_13_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Users\FilterLab\Desktop\OSHA 9_13_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Users\FilterLab\Desktop\OSHA 9_13_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Users\FilterLab\Desktop\OSHA 9_13_10\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Users\FilterLab\Desktop\OSHA 9_13_10\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Users\FilterLab\Desktop\OSHA 9_28_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Users\FilterLab\Desktop\OSHA 9_28_10\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 9_28_10\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 9_28_10\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 9_28_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 9_28_10\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 9_28_10\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 9_28_10\OSHA Weighing\bin\Debug\SpelNetLib.dll
+C:\Users\FilterLab\Desktop\OSHA 9_28_10\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Users\FilterLab\Desktop\OSHA 9_28_10\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Users\FilterLab\Desktop\OSHA 9_28_10\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Users\FilterLab\Desktop\OSHA 9_28_10\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Users\FilterLab\Desktop\OSHA 9_28_10\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FilterLab\Desktop\OSHA 9_28_10\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Users\FilterLab\Desktop\OSHA 9_28_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Users\FilterLab\Desktop\OSHA 9_28_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Users\FilterLab\Desktop\OSHA 9_28_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Users\FilterLab\Desktop\OSHA 9_28_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Users\FilterLab\Desktop\OSHA 9_28_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Users\FilterLab\Desktop\OSHA 9_28_10\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Users\FilterLab\Desktop\OSHA 9_28_10\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Users\FilterLab\Desktop\OSHA 11_10!0\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Users\FilterLab\Desktop\OSHA 11_10!0\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 11_10!0\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 11_10!0\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 11_10!0\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 11_10!0\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 11_10!0\OSHA Weighing\bin\Debug\SpelNetLib.dll
+C:\Users\FilterLab\Desktop\OSHA 11_10!0\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Users\FilterLab\Desktop\OSHA 11_10!0\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Users\FilterLab\Desktop\OSHA 11_10!0\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Users\FilterLab\Desktop\OSHA 11_10!0\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Users\FilterLab\Desktop\OSHA 11_10!0\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FilterLab\Desktop\OSHA 11_10!0\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Users\FilterLab\Desktop\OSHA 11_10!0\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Users\FilterLab\Desktop\OSHA 11_10!0\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Users\FilterLab\Desktop\OSHA 11_10!0\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Users\FilterLab\Desktop\OSHA 11_10!0\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Users\FilterLab\Desktop\OSHA 11_10!0\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Users\FilterLab\Desktop\OSHA 11_10!0\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Users\FilterLab\Desktop\OSHA 11_10!0\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Users\FilterLab\Desktop\OSHA 11_10!0\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Documents and Settings\Bob\Desktop\OSHA 11_10!0\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Documents and Settings\Bob\Desktop\OSHA 11_10!0\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Documents and Settings\Bob\Desktop\OSHA 11_10!0\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Documents and Settings\Bob\Desktop\OSHA 11_10!0\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 11_28_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Users\FilterLab\Desktop\OSHA 11_28_10\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 11_28_10\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 11_28_10\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 11_28_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 11_28_10\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 11_28_10\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 11_28_10\OSHA Weighing\bin\Debug\SpelNetLib.dll
+C:\Users\FilterLab\Desktop\OSHA 11_28_10\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Users\FilterLab\Desktop\OSHA 11_28_10\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Users\FilterLab\Desktop\OSHA 11_28_10\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Users\FilterLab\Desktop\OSHA 11_28_10\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Users\FilterLab\Desktop\OSHA 11_28_10\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FilterLab\Desktop\OSHA 11_28_10\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Users\FilterLab\Desktop\OSHA 11_28_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Users\FilterLab\Desktop\OSHA 11_28_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Users\FilterLab\Desktop\OSHA 11_28_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Users\FilterLab\Desktop\OSHA 11_28_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Users\FilterLab\Desktop\OSHA 11_28_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Users\FilterLab\Desktop\OSHA 11_28_10\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Users\FilterLab\Desktop\OSHA 11_28_10\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Users\FilterLab\Desktop\OSHA 12_1_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Users\FilterLab\Desktop\OSHA 12_1_10\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 12_1_10\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 12_1_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 12_1_10\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 12_1_10\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 12_1_10\OSHA Weighing\bin\Debug\SpelNetLib.dll
+C:\Users\FilterLab\Desktop\OSHA 12_1_10\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Users\FilterLab\Desktop\OSHA 12_1_10\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Users\FilterLab\Desktop\OSHA 12_1_10\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Users\FilterLab\Desktop\OSHA 12_1_10\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Users\FilterLab\Desktop\OSHA 12_1_10\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FilterLab\Desktop\OSHA 12_1_10\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Users\FilterLab\Desktop\OSHA 12_1_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Users\FilterLab\Desktop\OSHA 12_1_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Users\FilterLab\Desktop\OSHA 12_1_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Users\FilterLab\Desktop\OSHA 12_1_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Users\FilterLab\Desktop\OSHA 12_1_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Users\FilterLab\Desktop\OSHA 12_1_10\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Users\FilterLab\Desktop\OSHA 12_1_10\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Users\FilterLab\Desktop\OSHA 12_1_10\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Documents and Settings\Bob\Desktop\OSHA 12_2_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Documents and Settings\Bob\Desktop\OSHA 12_2_10\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Documents and Settings\Bob\Desktop\OSHA 12_2_10\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\Bob\Desktop\OSHA 12_2_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Documents and Settings\Bob\Desktop\OSHA 12_2_10\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\Bob\Desktop\OSHA 12_2_10\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Documents and Settings\Bob\Desktop\OSHA 12_2_10\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_2_10\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_2_10\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_2_10\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_2_10\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Bob\Desktop\OSHA 12_2_10\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_2_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_2_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_2_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_2_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_2_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_2_10\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_2_10\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Bob\Desktop\OSHA 12_2_10\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 12_3_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Users\FilterLab\Desktop\OSHA 12_3_10\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 12_3_10\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 12_3_10\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\Bob\Desktop\OSHA 12_4_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Documents and Settings\Bob\Desktop\OSHA 12_4_10\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Documents and Settings\Bob\Desktop\OSHA 12_4_10\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Documents and Settings\Bob\Desktop\OSHA 12_4_10\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\Bob\Desktop\OSHA 12_4_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Documents and Settings\Bob\Desktop\OSHA 12_4_10\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\Bob\Desktop\OSHA 12_4_10\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Documents and Settings\Bob\Desktop\OSHA 12_4_10\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_4_10\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_4_10\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_4_10\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_4_10\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Bob\Desktop\OSHA 12_4_10\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_4_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_4_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_4_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_4_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_4_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_4_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_4_10\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_4_10\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Bob\Desktop\Copy of OSHA 12_4_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Documents and Settings\Bob\Desktop\Copy of OSHA 12_4_10\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Documents and Settings\Bob\Desktop\Copy of OSHA 12_4_10\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Documents and Settings\Bob\Desktop\Copy of OSHA 12_4_10\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\Bob\Desktop\Copy of OSHA 12_4_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Documents and Settings\Bob\Desktop\Copy of OSHA 12_4_10\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\Bob\Desktop\Copy of OSHA 12_4_10\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Documents and Settings\Bob\Desktop\Copy of OSHA 12_4_10\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Documents and Settings\Bob\Desktop\Copy of OSHA 12_4_10\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Documents and Settings\Bob\Desktop\Copy of OSHA 12_4_10\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Documents and Settings\Bob\Desktop\Copy of OSHA 12_4_10\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Documents and Settings\Bob\Desktop\Copy of OSHA 12_4_10\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Bob\Desktop\Copy of OSHA 12_4_10\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Documents and Settings\Bob\Desktop\Copy of OSHA 12_4_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Documents and Settings\Bob\Desktop\Copy of OSHA 12_4_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Documents and Settings\Bob\Desktop\Copy of OSHA 12_4_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Documents and Settings\Bob\Desktop\Copy of OSHA 12_4_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Documents and Settings\Bob\Desktop\Copy of OSHA 12_4_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Documents and Settings\Bob\Desktop\Copy of OSHA 12_4_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Documents and Settings\Bob\Desktop\Copy of OSHA 12_4_10\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Documents and Settings\Bob\Desktop\Copy of OSHA 12_4_10\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Bob\Desktop\OSHA 12_5_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Documents and Settings\Bob\Desktop\OSHA 12_5_10\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Documents and Settings\Bob\Desktop\OSHA 12_5_10\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Documents and Settings\Bob\Desktop\OSHA 12_5_10\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\Bob\Desktop\OSHA 12_5_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Documents and Settings\Bob\Desktop\OSHA 12_5_10\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\Bob\Desktop\OSHA 12_5_10\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Documents and Settings\Bob\Desktop\OSHA 12_5_10\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_5_10\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_5_10\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_5_10\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_5_10\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Bob\Desktop\OSHA 12_5_10\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_5_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_5_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_5_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_5_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_5_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_5_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_5_10\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_5_10\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Users\FilterLab\Desktop\OSHA 12_5_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Users\FilterLab\Desktop\OSHA 12_5_10\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 12_5_10\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 12_5_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 12_5_10\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 12_5_10\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 12_5_10\OSHA Weighing\bin\Debug\SpelNetLib.dll
+C:\Users\FilterLab\Desktop\OSHA 12_5_10\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Users\FilterLab\Desktop\OSHA 12_5_10\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Users\FilterLab\Desktop\OSHA 12_5_10\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Users\FilterLab\Desktop\OSHA 12_5_10\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Users\FilterLab\Desktop\OSHA 12_5_10\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FilterLab\Desktop\OSHA 12_5_10\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Users\FilterLab\Desktop\OSHA 12_5_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Users\FilterLab\Desktop\OSHA 12_5_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Users\FilterLab\Desktop\OSHA 12_5_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Users\FilterLab\Desktop\OSHA 12_5_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Users\FilterLab\Desktop\OSHA 12_5_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Users\FilterLab\Desktop\OSHA 12_5_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Users\FilterLab\Desktop\OSHA 12_5_10\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Users\FilterLab\Desktop\OSHA 12_5_10\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Users\FilterLab\Desktop\OSHA 12_5_10\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Documents and Settings\Bob\Desktop\OSHA 12_6_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Documents and Settings\Bob\Desktop\OSHA 12_6_10\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Documents and Settings\Bob\Desktop\OSHA 12_6_10\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Documents and Settings\Bob\Desktop\OSHA 12_6_10\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\Bob\Desktop\OSHA 12_6_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Documents and Settings\Bob\Desktop\OSHA 12_6_10\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\Bob\Desktop\OSHA 12_6_10\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Documents and Settings\Bob\Desktop\OSHA 12_6_10\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_6_10\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_6_10\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_6_10\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_6_10\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Bob\Desktop\OSHA 12_6_10\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_6_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_6_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_6_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_6_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_6_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_6_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_6_10\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_6_10\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Users\FilterLab\Desktop\OSHA 12_6_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Users\FilterLab\Desktop\OSHA 12_6_10\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 12_6_10\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 12_6_10\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 12_6_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 12_6_10\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 12_6_10\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 12_6_10\OSHA Weighing\bin\Debug\SpelNetLib.dll
+C:\Users\FilterLab\Desktop\OSHA 12_6_10\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Users\FilterLab\Desktop\OSHA 12_6_10\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Users\FilterLab\Desktop\OSHA 12_6_10\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Users\FilterLab\Desktop\OSHA 12_6_10\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Users\FilterLab\Desktop\OSHA 12_6_10\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FilterLab\Desktop\OSHA 12_6_10\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Users\FilterLab\Desktop\OSHA 12_6_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Users\FilterLab\Desktop\OSHA 12_6_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Users\FilterLab\Desktop\OSHA 12_6_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Users\FilterLab\Desktop\OSHA 12_6_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Users\FilterLab\Desktop\OSHA 12_6_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Users\FilterLab\Desktop\OSHA 12_6_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Users\FilterLab\Desktop\OSHA 12_6_10\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Users\FilterLab\Desktop\OSHA 12_6_10\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\J-KEM Robot Code\OSHA 12_8_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\J-KEM Robot Code\OSHA 12_8_10\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\J-KEM Robot Code\OSHA 12_8_10\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\SpelNetLib.dll
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\AxPROGEDITLib.dll
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\AxPROPGRIDLib.dll
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\PROPGRIDLib.dll
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinGrid.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinDock.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\RCSVIDEOLib.dll
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\Infragistics2.Win.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTree.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\SPELPARSERMODLib.dll
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\Infragistics2.Shared.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\WBPROXYLib.dll
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\AxRCSVIDEOLib.dll
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\UPNPLib.dll
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\PROGEDITLib.dll
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinChart.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Bob\Desktop\osha project\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\SpelNetLib.dll
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.1.dll
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\AxPROGEDITLib.dll
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\AxPROPGRIDLib.dll
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\PROPGRIDLib.dll
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinGrid.v8.1.dll
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinDock.v8.1.dll
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\RCSVIDEOLib.dll
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.1.dll
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.1.dll
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\Infragistics2.Win.v8.1.dll
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTree.v8.1.dll
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\SPELPARSERMODLib.dll
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\Infragistics2.Shared.v8.1.dll
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\WBPROXYLib.dll
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\AxRCSVIDEOLib.dll
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\UPNPLib.dll
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.1.dll
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\PROGEDITLib.dll
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinChart.v8.1.dll
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 12_9_10\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Documents and Settings\Bob\Desktop\OSHA 12_10_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Documents and Settings\Bob\Desktop\OSHA 12_10_10\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Documents and Settings\Bob\Desktop\OSHA 12_10_10\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\bin\Debug\AxPROGEDITLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\bin\Debug\AxPROPGRIDLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\bin\Debug\PROPGRIDLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinGrid.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinDock.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\bin\Debug\RCSVIDEOLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\bin\Debug\Infragistics2.Win.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTree.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\bin\Debug\SPELPARSERMODLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\bin\Debug\Infragistics2.Shared.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\bin\Debug\WBPROXYLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\bin\Debug\AxRCSVIDEOLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\bin\Debug\UPNPLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\bin\Debug\PROGEDITLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinChart.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13_10\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 12_13a_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Users\FilterLab\Desktop\OSHA 12_13a_10\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 12_13a_10\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 12_13a_10\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 12_13a_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 12_13a_10\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 12_13a_10\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 12_13a_10\OSHA Weighing\bin\Debug\SpelNetLib.dll
+C:\Users\FilterLab\Desktop\OSHA 12_13a_10\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Users\FilterLab\Desktop\OSHA 12_13a_10\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Users\FilterLab\Desktop\OSHA 12_13a_10\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Users\FilterLab\Desktop\OSHA 12_13a_10\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Users\FilterLab\Desktop\OSHA 12_13a_10\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FilterLab\Desktop\OSHA 12_13a_10\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Users\FilterLab\Desktop\OSHA 12_13a_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Users\FilterLab\Desktop\OSHA 12_13a_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Users\FilterLab\Desktop\OSHA 12_13a_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Users\FilterLab\Desktop\OSHA 12_13a_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Users\FilterLab\Desktop\OSHA 12_13a_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Users\FilterLab\Desktop\OSHA 12_13a_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Users\FilterLab\Desktop\OSHA 12_13a_10\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Users\FilterLab\Desktop\OSHA 12_13a_10\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Users\FilterLab\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Users\FilterLab\Desktop\OSHA 12_13b_10\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 12_13b_10\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 12_13b_10\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\SpelNetLib.dll
+C:\Users\FilterLab\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Users\FilterLab\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Users\FilterLab\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Users\FilterLab\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Users\FilterLab\Desktop\OSHA 12_13b_10\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FilterLab\Desktop\OSHA 12_13b_10\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Users\FilterLab\Desktop\OSHA 12_13b_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Users\FilterLab\Desktop\OSHA 12_13b_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Users\FilterLab\Desktop\OSHA 12_13b_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Users\FilterLab\Desktop\OSHA 12_13b_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Users\FilterLab\Desktop\OSHA 12_13b_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Users\FilterLab\Desktop\OSHA 12_13b_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Users\FilterLab\Desktop\OSHA 12_13b_10\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Users\FilterLab\Desktop\OSHA 12_13b_10\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\AxPROGEDITLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\AxPROPGRIDLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\PROPGRIDLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinGrid.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinDock.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\RCSVIDEOLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\Infragistics2.Win.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTree.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\SPELPARSERMODLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\Infragistics2.Shared.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\WBPROXYLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\AxRCSVIDEOLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\UPNPLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\PROGEDITLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinChart.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13b_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\bin\Debug\AxPROGEDITLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\bin\Debug\AxPROPGRIDLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\bin\Debug\PROPGRIDLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinGrid.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinDock.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\bin\Debug\RCSVIDEOLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\bin\Debug\Infragistics2.Win.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTree.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\bin\Debug\SPELPARSERMODLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\bin\Debug\Infragistics2.Shared.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\bin\Debug\WBPROXYLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\bin\Debug\AxRCSVIDEOLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\bin\Debug\UPNPLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\bin\Debug\PROGEDITLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinChart.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13c_10\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\bin\Debug\AxPROGEDITLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\bin\Debug\AxPROPGRIDLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\bin\Debug\PROPGRIDLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinGrid.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinDock.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\bin\Debug\RCSVIDEOLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\bin\Debug\Infragistics2.Win.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTree.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\bin\Debug\SPELPARSERMODLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\bin\Debug\Infragistics2.Shared.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\bin\Debug\WBPROXYLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\bin\Debug\AxRCSVIDEOLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\bin\Debug\UPNPLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\bin\Debug\PROGEDITLib.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinChart.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Documents and Settings\Bob\Desktop\OSHA 12_13d_10\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Users\FilterLab\Desktop\OSHA 12_14_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Users\FilterLab\Desktop\OSHA 12_14_10\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 12_14_10\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 12_14_10\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 12_14_10\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 12_14_10\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 12_14_10\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 12_14_10\OSHA Weighing\bin\Debug\SpelNetLib.dll
+C:\Users\FilterLab\Desktop\OSHA 12_14_10\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Users\FilterLab\Desktop\OSHA 12_14_10\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Users\FilterLab\Desktop\OSHA 12_14_10\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Users\FilterLab\Desktop\OSHA 12_14_10\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Users\FilterLab\Desktop\OSHA 12_14_10\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FilterLab\Desktop\OSHA 12_14_10\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Users\FilterLab\Desktop\OSHA 12_14_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Users\FilterLab\Desktop\OSHA 12_14_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Users\FilterLab\Desktop\OSHA 12_14_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\Users\FilterLab\Desktop\OSHA 12_14_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Users\FilterLab\Desktop\OSHA 12_14_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Users\FilterLab\Desktop\OSHA 12_14_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Users\FilterLab\Desktop\OSHA 12_14_10\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Users\FilterLab\Desktop\OSHA 12_14_10\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Users\FilterLab\Desktop\OSHA 12_14_10\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Users\FilterLab\Desktop\OSHA 2_24_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Users\FilterLab\Desktop\OSHA 2_24_11\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 2_24_11\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 2_24_11\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 2_24_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 2_24_11\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 2_24_11\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 2_24_11\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FilterLab\Desktop\OSHA 2_24_11\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Users\FilterLab\Desktop\OSHA 2_24_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Users\FilterLab\Desktop\OSHA 2_24_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Users\FilterLab\Desktop\OSHA 2_24_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\Users\FilterLab\Desktop\OSHA 2_24_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Users\FilterLab\Desktop\OSHA 2_24_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Users\FilterLab\Desktop\OSHA 2_24_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Users\FilterLab\Desktop\OSHA 2_24_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Users\FilterLab\Desktop\OSHA 2_24_11\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Users\FilterLab\Desktop\OSHA 2_24_11\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Users\FilterLab\Desktop\OSHA 2_25_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Users\FilterLab\Desktop\OSHA 2_25_11\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 2_25_11\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 2_25_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 2_25_11\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 2_25_11\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 2_25_11\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FilterLab\Desktop\OSHA 2_25_11\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Users\FilterLab\Desktop\OSHA 2_25_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Users\FilterLab\Desktop\OSHA 2_25_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Users\FilterLab\Desktop\OSHA 2_25_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\Users\FilterLab\Desktop\OSHA 2_25_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Users\FilterLab\Desktop\OSHA 2_25_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Users\FilterLab\Desktop\OSHA 2_25_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Users\FilterLab\Desktop\OSHA 2_25_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Users\FilterLab\Desktop\OSHA 2_25_11\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Users\FilterLab\Desktop\OSHA 2_25_11\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Users\FilterLab\Desktop\OSHA 2_25_11\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\bin\Debug\AxPROGEDITLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\bin\Debug\AxPROPGRIDLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\bin\Debug\PROPGRIDLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinGrid.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinDock.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\bin\Debug\RCSVIDEOLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\bin\Debug\Infragistics2.Win.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTree.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\bin\Debug\SPELPARSERMODLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\bin\Debug\Infragistics2.Shared.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\bin\Debug\WBPROXYLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\bin\Debug\AxRCSVIDEOLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\bin\Debug\UPNPLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\bin\Debug\PROGEDITLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinChart.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_25_11\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 2_26_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Users\FilterLab\Desktop\OSHA 2_26_11\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 2_26_11\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 2_26_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 2_26_11\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 2_26_11\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 2_26_11\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FilterLab\Desktop\OSHA 2_26_11\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Users\FilterLab\Desktop\OSHA 2_26_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Users\FilterLab\Desktop\OSHA 2_26_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Users\FilterLab\Desktop\OSHA 2_26_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\Users\FilterLab\Desktop\OSHA 2_26_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Users\FilterLab\Desktop\OSHA 2_26_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Users\FilterLab\Desktop\OSHA 2_26_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Users\FilterLab\Desktop\OSHA 2_26_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Users\FilterLab\Desktop\OSHA 2_26_11\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Users\FilterLab\Desktop\OSHA 2_26_11\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Users\FilterLab\Desktop\OSHA 2_26_11\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\bin\Debug\AxPROGEDITLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\bin\Debug\AxPROPGRIDLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\bin\Debug\PROPGRIDLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinGrid.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinDock.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\bin\Debug\RCSVIDEOLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\bin\Debug\Infragistics2.Win.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTree.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\bin\Debug\SPELPARSERMODLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\bin\Debug\Infragistics2.Shared.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\bin\Debug\WBPROXYLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\bin\Debug\AxRCSVIDEOLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\bin\Debug\UPNPLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\bin\Debug\PROGEDITLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinChart.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 2_26_11\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 2_26_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 2_26_11\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 2_26_11\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Pheonex 2_00\Rima, OSHA\Software\J-KEM Robot Code\OSHA 2_26_11\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_08_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_08_11\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_08_11\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_08_11\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_09_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_09_11\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_09_11\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_09_11\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 3_09_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Users\FilterLab\Desktop\OSHA 3_09_11\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 3_09_11\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 3_09_11\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 3_09_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 3_09_11\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 3_09_11\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 3_09_11\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FilterLab\Desktop\OSHA 3_09_11\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Users\FilterLab\Desktop\OSHA 3_09_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Users\FilterLab\Desktop\OSHA 3_09_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Users\FilterLab\Desktop\OSHA 3_09_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\Users\FilterLab\Desktop\OSHA 3_09_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Users\FilterLab\Desktop\OSHA 3_09_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Users\FilterLab\Desktop\OSHA 3_09_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Users\FilterLab\Desktop\OSHA 3_09_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Users\FilterLab\Desktop\OSHA 3_09_11\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Users\FilterLab\Desktop\OSHA 3_09_11\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Users\FilterLab\Desktop\OSHA 3_10_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Users\FilterLab\Desktop\OSHA 3_10_11\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 3_10_11\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 3_10_11\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 3_10_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 3_10_11\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 3_10_11\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 3_10_11\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FilterLab\Desktop\OSHA 3_10_11\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Users\FilterLab\Desktop\OSHA 3_10_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Users\FilterLab\Desktop\OSHA 3_10_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Users\FilterLab\Desktop\OSHA 3_10_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\Users\FilterLab\Desktop\OSHA 3_10_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Users\FilterLab\Desktop\OSHA 3_10_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Users\FilterLab\Desktop\OSHA 3_10_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Users\FilterLab\Desktop\OSHA 3_10_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Users\FilterLab\Desktop\OSHA 3_10_11\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Users\FilterLab\Desktop\OSHA 3_10_11\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\J-KEM Robot Code\OSHA 3_10_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\J-KEM Robot Code\OSHA 3_10_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\J-KEM Robot Code\OSHA 3_10_11\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\J-KEM Robot Code\OSHA 3_10_11\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\J-KEM Robot Code\OSHA 3_10_11\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\J-KEM Robot Code\OSHA 3_10_11\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\J-KEM Robot Code\OSHA 3_10_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\J-KEM Robot Code\OSHA 3_10_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\J-KEM Robot Code\OSHA 3_10_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\J-KEM Robot Code\OSHA 3_10_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\J-KEM Robot Code\OSHA 3_10_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\J-KEM Robot Code\OSHA 3_10_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\J-KEM Robot Code\OSHA 3_10_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\J-KEM Robot Code\OSHA 3_10_11\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\J-KEM Robot Code\OSHA 3_10_11\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\J-KEM Robot Code\OSHA 3_10_11\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\J-KEM Robot Code\OSHA 3_10_11\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\J-KEM Robot Code\OSHA 3_10_11\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\SpelNetLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\AxPROGEDITLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\AxPROPGRIDLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\PROPGRIDLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinGrid.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinDock.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\RCSVIDEOLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\Infragistics2.Win.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTree.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\SPELPARSERMODLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\Infragistics2.Shared.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\WBPROXYLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\AxRCSVIDEOLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\UPNPLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\PROGEDITLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinChart.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\AxPROGEDITLib.dll
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\AxPROPGRIDLib.dll
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\PROPGRIDLib.dll
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinGrid.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinDock.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\RCSVIDEOLib.dll
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\Infragistics2.Win.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTree.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\SPELPARSERMODLib.dll
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\Infragistics2.Shared.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\WBPROXYLib.dll
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\AxRCSVIDEOLib.dll
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\UPNPLib.dll
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\PROGEDITLib.dll
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinChart.v8.1.dll
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Documents and Settings\Bob\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+E:\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+E:\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+E:\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+E:\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\AxPROGEDITLib.dll
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\AxPROPGRIDLib.dll
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\PROPGRIDLib.dll
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinGrid.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinDock.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\RCSVIDEOLib.dll
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\Infragistics2.Win.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTree.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\SPELPARSERMODLib.dll
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\Infragistics2.Shared.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\WBPROXYLib.dll
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\AxRCSVIDEOLib.dll
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\UPNPLib.dll
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\PROGEDITLib.dll
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinChart.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Documents and Settings\The Firm\Desktop\OHSA NextGen Code.  Install on next trip\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Documents and Settings\The Firm\Desktop\OSHA 4_1_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Documents and Settings\The Firm\Desktop\OSHA 4_1_11\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Documents and Settings\The Firm\Desktop\OSHA 4_1_11\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\bin\Debug\SpelNetLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\bin\Debug\AxPROGEDITLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\bin\Debug\AxPROPGRIDLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\bin\Debug\PROPGRIDLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinGrid.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinDock.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\bin\Debug\RCSVIDEOLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\bin\Debug\Infragistics2.Win.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTree.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\bin\Debug\SPELPARSERMODLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\bin\Debug\Infragistics2.Shared.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\bin\Debug\WBPROXYLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\bin\Debug\AxRCSVIDEOLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\bin\Debug\UPNPLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\bin\Debug\PROGEDITLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinChart.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_1_11\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\bin\Debug\SpelNetLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\bin\Debug\AxPROGEDITLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\bin\Debug\AxPROPGRIDLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\bin\Debug\PROPGRIDLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinGrid.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinDock.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\bin\Debug\RCSVIDEOLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\bin\Debug\Infragistics2.Win.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTree.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\bin\Debug\SPELPARSERMODLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\bin\Debug\Infragistics2.Shared.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\bin\Debug\WBPROXYLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\bin\Debug\AxRCSVIDEOLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\bin\Debug\UPNPLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\bin\Debug\PROGEDITLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinChart.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_27_11\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\bin\Debug\SpelNetLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\bin\Debug\AxPROGEDITLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\bin\Debug\AxPROPGRIDLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\bin\Debug\PROPGRIDLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinGrid.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinDock.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\bin\Debug\RCSVIDEOLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\bin\Debug\Infragistics2.Win.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTree.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\bin\Debug\SPELPARSERMODLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\bin\Debug\Infragistics2.Shared.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\bin\Debug\WBPROXYLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\bin\Debug\AxRCSVIDEOLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\bin\Debug\UPNPLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\bin\Debug\PROGEDITLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinChart.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 5_10_11\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\bin\Debug\SpelNetLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\bin\Debug\AxPROGEDITLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\bin\Debug\AxPROPGRIDLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\bin\Debug\PROPGRIDLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinGrid.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinDock.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\bin\Debug\RCSVIDEOLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\bin\Debug\Infragistics2.Win.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTree.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\bin\Debug\SPELPARSERMODLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\bin\Debug\Infragistics2.Shared.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\bin\Debug\WBPROXYLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\bin\Debug\AxRCSVIDEOLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\bin\Debug\UPNPLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\bin\Debug\PROGEDITLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinChart.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_9_11\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\OSHA 7_9_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\OSHA 7_9_11\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\OSHA 7_9_11\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\OSHA 7_9_11\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\OSHA 7_9_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\OSHA 7_9_11\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\OSHA 7_9_11\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\OSHA 7_9_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.1.dll
+C:\OSHA 7_9_11\OSHA Weighing\bin\Debug\erc50main.dll
+C:\OSHA 7_9_11\OSHA Weighing\bin\Debug\AxPROGEDITLib.dll
+C:\OSHA 7_9_11\OSHA Weighing\bin\Debug\AxPROPGRIDLib.dll
+C:\OSHA 7_9_11\OSHA Weighing\bin\Debug\PROPGRIDLib.dll
+C:\OSHA 7_9_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinGrid.v8.1.dll
+C:\OSHA 7_9_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinDock.v8.1.dll
+C:\OSHA 7_9_11\OSHA Weighing\bin\Debug\RCSVIDEOLib.dll
+C:\OSHA 7_9_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.1.dll
+C:\OSHA 7_9_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.1.dll
+C:\OSHA 7_9_11\OSHA Weighing\bin\Debug\Infragistics2.Win.v8.1.dll
+C:\OSHA 7_9_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTree.v8.1.dll
+C:\OSHA 7_9_11\OSHA Weighing\bin\Debug\SPELPARSERMODLib.dll
+C:\OSHA 7_9_11\OSHA Weighing\bin\Debug\erc50util.dll
+C:\OSHA 7_9_11\OSHA Weighing\bin\Debug\Infragistics2.Shared.v8.1.dll
+C:\OSHA 7_9_11\OSHA Weighing\bin\Debug\WBPROXYLib.dll
+C:\OSHA 7_9_11\OSHA Weighing\bin\Debug\AxRCSVIDEOLib.dll
+C:\OSHA 7_9_11\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\OSHA 7_9_11\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\OSHA 7_9_11\OSHA Weighing\bin\Debug\UPNPLib.dll
+C:\OSHA 7_9_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.1.dll
+C:\OSHA 7_9_11\OSHA Weighing\bin\Debug\PROGEDITLib.dll
+C:\OSHA 7_9_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinChart.v8.1.dll
+C:\OSHA 7_9_11\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\OSHA 7_9_11\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\OSHA 7_9_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\OSHA 7_9_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\OSHA 7_9_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\OSHA 7_9_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\OSHA 7_9_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\OSHA 7_9_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\OSHA 7_9_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\OSHA 7_9_11\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\OSHA 7_9_11\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\bin\Debug\SpelNetLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\bin\Debug\AxPROGEDITLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\bin\Debug\AxPROPGRIDLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\bin\Debug\PROPGRIDLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinGrid.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinDock.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\bin\Debug\RCSVIDEOLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\bin\Debug\Infragistics2.Win.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTree.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\bin\Debug\SPELPARSERMODLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\bin\Debug\Infragistics2.Shared.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\bin\Debug\WBPROXYLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\bin\Debug\AxRCSVIDEOLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\bin\Debug\UPNPLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\bin\Debug\PROGEDITLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinChart.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 7_29_11\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\bin\Debug\SpelNetLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\bin\Debug\AxPROGEDITLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\bin\Debug\AxPROPGRIDLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\bin\Debug\PROPGRIDLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinGrid.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinDock.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\bin\Debug\RCSVIDEOLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\bin\Debug\Infragistics2.Win.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTree.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\bin\Debug\SPELPARSERMODLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\bin\Debug\Infragistics2.Shared.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\bin\Debug\WBPROXYLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\bin\Debug\AxRCSVIDEOLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\bin\Debug\UPNPLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\bin\Debug\PROGEDITLib.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinChart.v8.1.dll
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 9_19_11\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\J-KEM Robot Code\OSHA 9_19_11 - Copy\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\J-KEM Robot Code\OSHA 9_19_11 - Copy\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\J-KEM Robot Code\OSHA 9_19_11 - Copy\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\J-KEM Robot Code\OSHA 9_19_11 - Copy\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\J-KEM Robot Code\OSHA 9_19_11 - Copy\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\J-KEM Robot Code\OSHA 9_19_11 - Copy\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\J-KEM Robot Code\OSHA 9_19_11 - Copy\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\J-KEM Robot Code\OSHA 9_19_11 - Copy\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\J-KEM Robot Code\OSHA 9_19_11 - Copy\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\J-KEM Robot Code\OSHA 9_19_11 - Copy\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\J-KEM Robot Code\OSHA 9_19_11 - Copy\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\J-KEM Robot Code\OSHA 9_19_11 - Copy\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\J-KEM Robot Code\OSHA 9_19_11 - Copy\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\J-KEM Robot Code\OSHA 9_19_11 - Copy\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\J-KEM Robot Code\OSHA 9_19_11 - Copy\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\J-KEM Robot Code\OSHA 9_19_11 - Copy\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\J-KEM Robot Code\OSHA 9_19_11 - Copy\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\J-KEM Robot Code\OSHA 9_19_11 - Copy\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\bin\Debug\AxPROGEDITLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\bin\Debug\AxPROPGRIDLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\bin\Debug\PROPGRIDLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinGrid.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinDock.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\bin\Debug\RCSVIDEOLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\bin\Debug\Infragistics2.Win.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTree.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\bin\Debug\SPELPARSERMODLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\bin\Debug\Infragistics2.Shared.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\bin\Debug\WBPROXYLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\bin\Debug\AxRCSVIDEOLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\bin\Debug\UPNPLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\bin\Debug\PROGEDITLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinChart.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_12_12\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\bin\Debug\AxPROGEDITLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\bin\Debug\AxPROPGRIDLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\bin\Debug\PROPGRIDLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinGrid.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinDock.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\bin\Debug\RCSVIDEOLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\bin\Debug\Infragistics2.Win.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTree.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\bin\Debug\SPELPARSERMODLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\bin\Debug\Infragistics2.Shared.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\bin\Debug\WBPROXYLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\bin\Debug\AxRCSVIDEOLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\bin\Debug\UPNPLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\bin\Debug\PROGEDITLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinChart.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA 3_13_12\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\J-KEM Robot Code\OSHA 3_13_12\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\J-KEM Robot Code\OSHA 3_13_12\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\J-KEM Robot Code\OSHA 3_13_12\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\J-KEM Robot Code\OSHA 3_13_12\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\J-KEM Robot Code\OSHA 3_13_12\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\J-KEM Robot Code\OSHA 3_13_12\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\J-KEM Robot Code\OSHA 3_13_12\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\J-KEM Robot Code\OSHA 3_13_12\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\J-KEM Robot Code\OSHA 3_13_12\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\J-KEM Robot Code\OSHA 3_13_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\J-KEM Robot Code\OSHA 3_13_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\J-KEM Robot Code\OSHA 3_13_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\J-KEM Robot Code\OSHA 3_13_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\J-KEM Robot Code\OSHA 3_13_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\J-KEM Robot Code\OSHA 3_13_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\J-KEM Robot Code\OSHA 3_13_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\J-KEM Robot Code\OSHA 3_13_12\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\J-KEM Robot Code\OSHA 3_13_12\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\J-KEM Robot Code\OSHA 3_13_12 - Copy\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\J-KEM Robot Code\OSHA 3_13_12 - Copy\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\J-KEM Robot Code\OSHA 3_13_12 - Copy\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\J-KEM Robot Code\OSHA 3_13_12 - Copy\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\J-KEM Robot Code\OSHA 3_13_12 - Copy\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\J-KEM Robot Code\OSHA 3_13_12 - Copy\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\J-KEM Robot Code\OSHA 3_13_12 - Copy\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\J-KEM Robot Code\OSHA 3_13_12 - Copy\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\J-KEM Robot Code\OSHA 3_13_12 - Copy\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\J-KEM Robot Code\OSHA 3_13_12 - Copy\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\J-KEM Robot Code\OSHA 3_13_12 - Copy\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\J-KEM Robot Code\OSHA 3_13_12 - Copy\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\J-KEM Robot Code\OSHA 3_13_12 - Copy\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\J-KEM Robot Code\OSHA 3_13_12 - Copy\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\J-KEM Robot Code\OSHA 3_13_12 - Copy\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\J-KEM Robot Code\OSHA 3_13_12 - Copy\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\J-KEM Robot Code\OSHA 3_13_12 - Copy\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\J-KEM Robot Code\OSHA 3_13_12 - Copy\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\J-KEM Robot Code\OSHA 3_14_12\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\J-KEM Robot Code\OSHA 3_14_12\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\J-KEM Robot Code\OSHA 3_14_12\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\J-KEM Robot Code\OSHA 3_14_12\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\J-KEM Robot Code\OSHA 3_14_12\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\J-KEM Robot Code\OSHA 3_14_12\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\J-KEM Robot Code\OSHA 3_14_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\J-KEM Robot Code\OSHA 3_14_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\J-KEM Robot Code\OSHA 3_14_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\J-KEM Robot Code\OSHA 3_14_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\J-KEM Robot Code\OSHA 3_14_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\J-KEM Robot Code\OSHA 3_14_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\J-KEM Robot Code\OSHA 3_14_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\J-KEM Robot Code\OSHA 3_14_12\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\J-KEM Robot Code\OSHA 3_14_12\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\J-KEM Robot Code\OSHA 3_14_12\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\J-KEM Robot Code\OSHA 3_14_12\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\J-KEM Robot Code\OSHA 3_14_12\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\J-KEM Robot Code\OSHA 10-26_12\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\J-KEM Robot Code\OSHA 10-26_12\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\J-KEM Robot Code\OSHA 10-26_12\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\J-KEM Robot Code\OSHA 10-26_12\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\J-KEM Robot Code\OSHA 10-26_12\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\J-KEM Robot Code\OSHA 10-26_12\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\J-KEM Robot Code\OSHA 10-26_12\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\J-KEM Robot Code\OSHA 10-26_12\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\J-KEM Robot Code\OSHA 10-26_12\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\J-KEM Robot Code\OSHA 10-26_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\J-KEM Robot Code\OSHA 10-26_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\J-KEM Robot Code\OSHA 10-26_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\J-KEM Robot Code\OSHA 10-26_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\J-KEM Robot Code\OSHA 10-26_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\J-KEM Robot Code\OSHA 10-26_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\J-KEM Robot Code\OSHA 10-26_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\J-KEM Robot Code\OSHA 10-26_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmTesting.resources
+C:\J-KEM Robot Code\OSHA 10-26_12\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\J-KEM Robot Code\OSHA 10-26_12\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\bin\Debug\AxPROGEDITLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\bin\Debug\AxPROPGRIDLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\bin\Debug\PROPGRIDLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinGrid.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinDock.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\bin\Debug\RCSVIDEOLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\bin\Debug\Infragistics2.Win.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTree.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\bin\Debug\SPELPARSERMODLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\bin\Debug\Infragistics2.Shared.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\bin\Debug\WBPROXYLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\bin\Debug\AxRCSVIDEOLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\bin\Debug\UPNPLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\bin\Debug\PROGEDITLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinChart.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\obj\Debug\OSHA_Weighing.frmTesting.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA\OSHA 10-26_12\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\bin\Debug\AxPROGEDITLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\bin\Debug\AxPROPGRIDLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\bin\Debug\PROPGRIDLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinGrid.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinDock.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\bin\Debug\RCSVIDEOLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\bin\Debug\Infragistics2.Win.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTree.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\bin\Debug\SPELPARSERMODLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\bin\Debug\Infragistics2.Shared.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\bin\Debug\WBPROXYLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\bin\Debug\AxRCSVIDEOLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\bin\Debug\UPNPLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\bin\Debug\PROGEDITLib.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinChart.v8.1.dll
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA_Weighing.frmTesting.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Documents and Settings\The Firm\Desktop\OSHA Code\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\J-KEM Robot Code\OSHA 6_17_13\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\J-KEM Robot Code\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\J-KEM Robot Code\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\J-KEM Robot Code\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\J-KEM Robot Code\OSHA 6_17_13\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\J-KEM Robot Code\OSHA 6_17_13\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\J-KEM Robot Code\OSHA 6_17_13\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\J-KEM Robot Code\OSHA 6_17_13\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\J-KEM Robot Code\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\J-KEM Robot Code\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\J-KEM Robot Code\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\J-KEM Robot Code\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\J-KEM Robot Code\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\J-KEM Robot Code\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\J-KEM Robot Code\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\J-KEM Robot Code\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\J-KEM Robot Code\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA_Weighing.frmTesting.resources
+C:\J-KEM Robot Code\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\J-KEM Robot Code\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Users\FilterLab\Desktop\OSHA 6_17_13\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Users\FilterLab\Desktop\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 6_17_13\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Users\FilterLab\Desktop\OSHA 6_17_13\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Users\FilterLab\Desktop\OSHA 6_17_13\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Users\FilterLab\Desktop\OSHA 6_17_13\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FilterLab\Desktop\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Users\FilterLab\Desktop\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Users\FilterLab\Desktop\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Users\FilterLab\Desktop\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\Users\FilterLab\Desktop\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Users\FilterLab\Desktop\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Users\FilterLab\Desktop\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Users\FilterLab\Desktop\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Users\FilterLab\Desktop\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA_Weighing.frmTesting.resources
+C:\Users\FilterLab\Desktop\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Users\FilterLab\Desktop\OSHA 6_17_13\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\J-KEM Robot Code\OSHA 2_3_2014\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\J-KEM Robot Code\OSHA 2_3_2014\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\J-KEM Robot Code\OSHA 2_3_2014\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\J-KEM Robot Code\OSHA 2_3_2014\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\J-KEM Robot Code\OSHA 2_3_2014\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\J-KEM Robot Code\OSHA 2_3_2014\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\J-KEM Robot Code\OSHA 2_3_2014\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\J-KEM Robot Code\OSHA 2_3_2014\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\J-KEM Robot Code\OSHA 2_3_2014\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\J-KEM Robot Code\OSHA 2_3_2014\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\J-KEM Robot Code\OSHA 2_3_2014\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\J-KEM Robot Code\OSHA 2_3_2014\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\J-KEM Robot Code\OSHA 2_3_2014\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\J-KEM Robot Code\OSHA 2_3_2014\OSHA Weighing\obj\Debug\OSHA_Weighing.frmTesting.resources
+C:\J-KEM Robot Code\OSHA 2_3_2014\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\J-KEM Robot Code\OSHA 2_3_2014\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\J-KEM Robot Code\OSHA 2_3_2014\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\J-KEM Robot Code\OSHA 2_3_2014\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\J-KEM Robot Code\OSHA 2_3_2014\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\J-KEM Robot Code\OSHA 10_3_2014\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\J-KEM Robot Code\OSHA 10_3_2014\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\J-KEM Robot Code\OSHA 10_3_2014\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\J-KEM Robot Code\OSHA 10_3_2014\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\J-KEM Robot Code\OSHA 10_3_2014\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\J-KEM Robot Code\OSHA 10_3_2014\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\J-KEM Robot Code\OSHA 10_3_2014\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\J-KEM Robot Code\OSHA 10_3_2014\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\J-KEM Robot Code\OSHA 10_3_2014\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\J-KEM Robot Code\OSHA 10_3_2014\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\J-KEM Robot Code\OSHA 10_3_2014\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\J-KEM Robot Code\OSHA 10_3_2014\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\J-KEM Robot Code\OSHA 10_3_2014\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\J-KEM Robot Code\OSHA 10_3_2014\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\J-KEM Robot Code\OSHA 10_3_2014\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\J-KEM Robot Code\OSHA 10_3_2014\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\J-KEM Robot Code\OSHA 10_3_2014\OSHA Weighing\obj\Debug\OSHA_Weighing.frmTesting.resources
+C:\J-KEM Robot Code\OSHA 10_3_2014\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\J-KEM Robot Code\OSHA 10_3_2014\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\J-KEM Robot Code\OSHA 11_3_2014\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\J-KEM Robot Code\OSHA 11_3_2014\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\J-KEM Robot Code\OSHA 11_3_2014\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\J-KEM Robot Code\OSHA 11_3_2014\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\J-KEM Robot Code\OSHA 11_3_2014\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\J-KEM Robot Code\OSHA 11_3_2014\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\J-KEM Robot Code\OSHA 11_3_2014\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\J-KEM Robot Code\OSHA 11_3_2014\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\J-KEM Robot Code\OSHA 11_3_2014\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\J-KEM Robot Code\OSHA 11_3_2014\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\J-KEM Robot Code\OSHA 11_3_2014\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\J-KEM Robot Code\OSHA 11_3_2014\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\J-KEM Robot Code\OSHA 11_3_2014\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\J-KEM Robot Code\OSHA 11_3_2014\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\J-KEM Robot Code\OSHA 11_3_2014\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\J-KEM Robot Code\OSHA 11_3_2014\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSerialCommunications.resources
+C:\J-KEM Robot Code\OSHA 11_3_2014\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\J-KEM Robot Code\OSHA 11_3_2014\OSHA Weighing\obj\Debug\OSHA_Weighing.frmTesting.resources
+C:\J-KEM Robot Code\OSHA 11_3_2014\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\J-KEM Robot Code\OSHA 11_3_2014\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\J-KEM Robot Code\OSHA 4_28_2016\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\J-KEM Robot Code\OSHA 4_28_2016\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\J-KEM Robot Code\OSHA 4_28_2016\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\J-KEM Robot Code\OSHA 4_28_2016\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSerialCommunications.resources
+C:\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmTesting.resources
+C:\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\bin\Debug\SpelNetLib.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.1.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\bin\Debug\AxPROGEDITLib.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\bin\Debug\AxPROPGRIDLib.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\bin\Debug\PROPGRIDLib.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinGrid.v8.1.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinDock.v8.1.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\bin\Debug\RCSVIDEOLib.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.1.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.1.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\bin\Debug\Infragistics2.Win.v8.1.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTree.v8.1.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\bin\Debug\SPELPARSERMODLib.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\bin\Debug\Infragistics2.Shared.v8.1.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\bin\Debug\WBPROXYLib.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\bin\Debug\AxRCSVIDEOLib.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\bin\Debug\UPNPLib.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.1.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\bin\Debug\PROGEDITLib.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinChart.v8.1.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSerialCommunications.resources
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmTesting.resources
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 3_15_2017\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\bin\Debug\SpelNetLib.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTabControl.v8.1.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\bin\Debug\erc50main.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\bin\Debug\AxPROGEDITLib.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\bin\Debug\AxPROPGRIDLib.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\bin\Debug\PROPGRIDLib.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinGrid.v8.1.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinDock.v8.1.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\bin\Debug\RCSVIDEOLib.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinToolbars.v8.1.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v8.1.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\bin\Debug\Infragistics2.Win.v8.1.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinTree.v8.1.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\bin\Debug\SPELPARSERMODLib.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\bin\Debug\erc50util.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\bin\Debug\Infragistics2.Shared.v8.1.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\bin\Debug\WBPROXYLib.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\bin\Debug\AxRCSVIDEOLib.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\bin\Debug\erc50GUI.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\bin\Debug\erc50VG.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\bin\Debug\UPNPLib.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinEditors.v8.1.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\bin\Debug\PROGEDITLib.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\bin\Debug\Infragistics2.Win.UltraWinChart.v8.1.dll
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSerialCommunications.resources
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmTesting.resources
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Users\Bobs Office\Desktop\Programing Items\Pheonex 2_00\Completed Projects\OSHA, Rima\Software\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSerialCommunications.resources
+C:\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmTesting.resources
+C:\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\J-KEM Robot Code\OSHA 4_12_2017\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\J-KEM Robot Code\OSHA 4_25_2017\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\J-KEM Robot Code\OSHA 4_25_2017\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\J-KEM Robot Code\OSHA 4_25_2017\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\J-KEM Robot Code\OSHA 4_25_2017\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\J-KEM Robot Code\OSHA 4_25_2017\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\J-KEM Robot Code\OSHA 4_25_2017\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\J-KEM Robot Code\OSHA 4_25_2017\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\J-KEM Robot Code\OSHA 4_25_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\J-KEM Robot Code\OSHA 4_25_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\J-KEM Robot Code\OSHA 4_25_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\J-KEM Robot Code\OSHA 4_25_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\J-KEM Robot Code\OSHA 4_25_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\J-KEM Robot Code\OSHA 4_25_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\J-KEM Robot Code\OSHA 4_25_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\J-KEM Robot Code\OSHA 4_25_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSerialCommunications.resources
+C:\J-KEM Robot Code\OSHA 4_25_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\J-KEM Robot Code\OSHA 4_25_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmTesting.resources
+C:\J-KEM Robot Code\OSHA 4_25_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\J-KEM Robot Code\OSHA 4_25_2017\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\J-KEM Robot Code\OSHA 4_25_2017\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\J-KEM Robot Code\OSHA 5_5_2017\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\J-KEM Robot Code\OSHA 5_5_2017\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\J-KEM Robot Code\OSHA 5_5_2017\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\J-KEM Robot Code\OSHA 5_5_2017\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\J-KEM Robot Code\OSHA 5_5_2017\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\J-KEM Robot Code\OSHA 5_5_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\J-KEM Robot Code\OSHA 5_5_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\J-KEM Robot Code\OSHA 5_5_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\J-KEM Robot Code\OSHA 5_5_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\J-KEM Robot Code\OSHA 5_5_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\J-KEM Robot Code\OSHA 5_5_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\J-KEM Robot Code\OSHA 5_5_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\J-KEM Robot Code\OSHA 5_5_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSerialCommunications.resources
+C:\J-KEM Robot Code\OSHA 5_5_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\J-KEM Robot Code\OSHA 5_5_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.frmTesting.resources
+C:\J-KEM Robot Code\OSHA 5_5_2017\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\J-KEM Robot Code\OSHA 5_5_2017\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\J-KEM Robot Code\OSHA 5_5_2017\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\J-KEM Robot Code\OSHA 5_5_2017\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\J-KEM Robot Code\OSHA 5_5_2017\OSHA Weighing\obj\Debug\OSHA Weighing.pdb

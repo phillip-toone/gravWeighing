@@ -1,0 +1,15 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\OSHA_Weighing.frmMain.resources
+obj\Debug\OSHA_Weighing.Resources.resources
+obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+bin\Debug\OSHA Weighing.exe
+bin\Debug\OSHA Weighing.pdb
+bin\Debug\OSHA Weighing.xml
+bin\Debug\SpelNetLib.dll
+bin\Debug\erc50main.dll
+bin\Debug\erc50util.dll
+bin\Debug\erc50GUI.dll
+bin\Debug\erc50VG.dll
+obj\Debug\OSHA Weighing.exe
+obj\Debug\OSHA Weighing.xml
+obj\Debug\OSHA Weighing.pdb
