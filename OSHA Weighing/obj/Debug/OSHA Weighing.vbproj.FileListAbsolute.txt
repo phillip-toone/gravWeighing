@@ -1875,3 +1875,24 @@ C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 6_22_20\OSHA Weighing\obj\D
 C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 6_22_20\OSHA Weighing\obj\Debug\OSHA_Weighing.frmTesting.resources
 C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 6_22_20\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
 C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 6_22_20\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 10_28_20\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 10_28_20\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 10_28_20\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 10_28_20\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 10_28_20\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 10_28_20\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 10_28_20\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 10_28_20\OSHA Weighing\bin\Debug\SpelNetLib_x64.dll
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 10_28_20\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 10_28_20\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 10_28_20\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 10_28_20\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 10_28_20\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 10_28_20\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 10_28_20\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 10_28_20\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 10_28_20\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSerialCommunications.resources
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 10_28_20\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 10_28_20\OSHA Weighing\obj\Debug\OSHA_Weighing.frmTesting.resources
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 10_28_20\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 10_28_20\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache

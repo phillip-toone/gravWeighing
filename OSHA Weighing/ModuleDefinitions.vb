@@ -334,7 +334,7 @@ Public Module ModuleDefinitions
             MyPoint = ThisOven.MoveOut(MyPoint, 15.0)   'Come out of the oven by 5 mm
             Arm.GoToPoint(MyPoint)
             MyADC = Gripper.ReadSensorAverage
-            If MyADC < (frmMain.LastAirADCReading - 10) Then
+            If MyADC < (frmMain.LastAirADCReading - frmMain.OpticalSensor3mmDrop \ 2) Then
                'Filter is stuck to gripper
                MyPoint = ThisOven.GetFilterLocation(pos)
                MyPoint = ThisOven.MoveIn(MyPoint, 12.0)   'Come out of the oven by 5 mm
@@ -342,7 +342,7 @@ Public Module ModuleDefinitions
                Arm.GoToPoint(MyPoint)
                MyPoint = ThisOven.MoveOut(MyPoint, 30.0)   'Come out of the oven by 5 mm
                Arm.GoToPoint(MyPoint)
-               If Gripper.ReadSensorAverage < (frmMain.LastAirADCReading - 10) Then
+               If Gripper.ReadSensorAverage < (frmMain.LastAirADCReading - frmMain.OpticalSensor3mmDrop \ 2) Then
                   'Filter is stuck to gripper
                   MyPoint = ThisOven.MoveIn(MyPoint, 35.0)   'Come out of the oven by 5 mm
                   Arm.GoToPoint(MyPoint)
@@ -403,7 +403,7 @@ Public Module ModuleDefinitions
             '10/25/2012  Gripper read 900 when it was open and 802 when it was 2mm over the filter
             '11/3/2014  The reading dropped 23 when it was 2mm over the edge.
             MyPoint = ThisOven.GetFilterLocation(pos)
-            MyPoint = ThisOven.MoveIn(MyPoint, 3.0) 'take the gripper 2mm over the filter
+            MyPoint = ThisOven.MoveIn(MyPoint, 3.0) 'take the gripper 3mm over the filter
             Arm.GoToPoint(MyPoint)
             ADC = Gripper.ReadSensorAverage
 
@@ -411,8 +411,7 @@ Public Module ModuleDefinitions
             'the starting location of the filter.
             FilterLocated = False
             For Pass = 1 To 12
-               If ADC > (AirADC - 9) Then 'The ADC reading drops by about 100 counts when you are 2mm over the filter edge
-                  'Get filter when ADC drops 9.  6_22_2020
+               If ADC > (AirADC - frmMain.OpticalSensor3mmDrop) Then 'The ADC reading drops by about 70 counts when you are 3mm over the filter edge
                   MyPoint = ThisOven.MoveIn(MyPoint, 0.5)
                   Arm.GoToPoint(MyPoint)
                   ADC = Gripper.ReadSensorAverage
@@ -1480,21 +1479,10 @@ Public Module ModuleDefinitions
             MyPoint = MoveOut(rack, MyPoint, 100.0)
             Arm.GoToPoint(MyPoint)
 
-
-            'Search for the edge of the filter.   Here are the ADC readings based on condition.
-            'Gripper open, sensor unblocked = 681,  Gripper at the filter edge= 645
-            'Sensor over filter by 2mm = 578,      3mm = 511
-            'On 2/2014.   Edge= 607, 1mm= 605,  2mm= 596,  3mm= 582
-
-            '12_13_10 At OSHA, the light bar was reading 594 when open and 248 when fully blocked
-            '10/25/12 the gripper read 903 when open
-            '11/3/2014  Air produced a reading of 931.   The reading dropped 23 when it was 2mm over the edge.
-            '4_2016   Air = 850, Filter edge=838, 
             AirADC = Gripper.ReadSensorAverage
             frmMain.LastAirADCReading = AirADC  'Save the last reading.  It is used as a test to make sure the gripper released the filter later
             MyPoint = GetFilterLocation(rack, cell)
-            MyPoint = MoveIn(rack, MyPoint, 2.0) 'take the gripper 2mm over the filter
-            'MyPoint = MoveIn(rack, MyPoint, 0.0)   'This line is only used when you are getting the filter edge optical reading during calibration.
+            MyPoint = MoveIn(rack, MyPoint, 3.0) 'take the gripper 3mm over the filter
             Arm.GoToPoint(MyPoint)
 5:
             ADC = Gripper.ReadSensorAverage
@@ -1502,9 +1490,7 @@ Public Module ModuleDefinitions
             'the starting location of the filter.
             FilterLocated = False
             For Pass = 1 To 8
-               If ADC > (AirADC - 9) Then 'The ADC reading drops by about 90-100 counts when you are 2mm over the filter edge.  2013.
-                  'The ADC needs to drop by about 25.  4_2016
-                  'ADC needs to drop by 10. 6_22_2020
+               If ADC > (AirADC - frmMain.OpticalSensor3mmDrop) Then 'The ADC reading drops by about 90-100 counts when you are 2mm over the filter edge.  2013.
                   MyPoint = MoveIn(rack, MyPoint, 0.5)
                   Arm.GoToPoint(MyPoint)
                   ADC = Gripper.ReadSensorAverage
@@ -1577,7 +1563,7 @@ Public Module ModuleDefinitions
             MyPoint = MoveOut(rack, MyPoint, 12.0)
             Arm.GoToPoint(MyPoint)
             MyADC = Gripper.ReadSensorAverage
-            If MyADC < (frmMain.LastAirADCReading - 10) Then
+            If MyADC < (frmMain.LastAirADCReading - frmMain.OpticalSensor3mmDrop \ 2) Then
                MyPoint = Me.MoveIn(rack, MyPoint, 15.0)
                MyPoint.Z += 4.0
                Arm.GoToPoint(MyPoint)
@@ -2156,7 +2142,7 @@ Public Module ModuleDefinitions
          MyPoint.Y = Me.Location.Y + 15.0
          Arm.GoToPoint(MyPoint)
          'Check to see if the filter is stuck to the gripper
-         If Gripper.ReadSensorAverage < (frmMain.LastAirADCReading - 10) Then
+         If Gripper.ReadSensorAverage < (frmMain.LastAirADCReading - frmMain.OpticalSensor3mmDrop \ 2) Then
             MyPoint.Z = Me.Location.Z + 3.0
             Arm.GoToPoint(MyPoint)
             Success = False
@@ -2206,7 +2192,7 @@ Public Module ModuleDefinitions
          'If you don't have enough drop in the ADC, then continue to move the gripper into the oven.   You can go a maximum of 10mm pas
          'the starting location of the filter.
          For Pass = 1 To 8
-            If ADC > (AirADC - 25) Then 'The ADC reading drops by about 100 counts when you are 2mm over the filter edge
+            If ADC > (AirADC - frmMain.OpticalSensor3mmDrop) Then 'The ADC reading drops by about 100 counts when you are 2mm over the filter edge
                MyPoint.Y -= 0.5
                Arm.GoToPoint(MyPoint)
                ADC = Gripper.ReadSensorAverage
@@ -2809,7 +2795,7 @@ Public Module ModuleDefinitions
          MyPoint.Y = Me.Location.Y + 15.0
          Arm.GoToPoint(MyPoint)
          'Check to see if the filter is stuck to the gripper
-         If Gripper.ReadSensorAverage < (frmMain.LastAirADCReading - 10) Then
+         If Gripper.ReadSensorAverage < (frmMain.LastAirADCReading - frmMain.OpticalSensor3mmDrop \ 2) Then
             MyPoint.Z = Me.Location.Z + 3.0
             Arm.GoToPoint(MyPoint)
             Success = False
@@ -2852,7 +2838,7 @@ Public Module ModuleDefinitions
 12:      AirADC = Gripper.ReadSensorAverage
          frmMain.LastAirADCReading = AirADC
          MyPoint = Me.Location
-         MyPoint.Y -= 2.0
+         MyPoint.Y -= 3.0
          Arm.GoToPoint(MyPoint)
          MyPoint.Z += 1.5   'Its good to be 1.5mm high on the Z axis
          Arm.GoToPoint(MyPoint)
@@ -2861,7 +2847,7 @@ Public Module ModuleDefinitions
          'If you don't have enough drop in the ADC, then continue to move the gripper into the oven.   You can go a maximum of 10mm pas
          'the starting location of the filter.
          For Pass = 1 To 8
-            If ADC > (AirADC - 25) Then 'The ADC reading drops by about 100 counts when you are 2mm over the filter edge
+            If ADC > (AirADC - frmMain.OpticalSensor3mmDrop) Then 'The ADC reading drops by about 100 counts when you are 2mm over the filter edge
                MyPoint.Y -= 0.5
                Arm.GoToPoint(MyPoint)
                ADC = Gripper.ReadSensorAverage
@@ -3342,7 +3328,7 @@ Public Module ModuleDefinitions
          MyPoint.Y = Me.Location.Y + 15.0
          Arm.GoToPoint(MyPoint)
          'Check to see if the filter is stuck to the gripper
-         If Gripper.ReadSensorAverage < (frmMain.LastAirADCReading - 10) Then
+         If Gripper.ReadSensorAverage < (frmMain.LastAirADCReading - frmMain.OpticalSensor3mmDrop \ 2) Then
             MyPoint.Z = Me.Location.Z + 3.0
             Arm.GoToPoint(MyPoint)
             Success = False
@@ -3385,7 +3371,7 @@ Public Module ModuleDefinitions
 12:      AirADC = Gripper.ReadSensorAverage
          frmMain.LastAirADCReading = AirADC
          MyPoint = Me.Location
-         MyPoint.Y -= 2.0
+         MyPoint.Y -= 3.0
          Arm.GoToPoint(MyPoint)
          MyPoint.Z += 1.5   'Its good to be 1.5mm high on the Z axis
          Arm.GoToPoint(MyPoint)
@@ -3394,7 +3380,7 @@ Public Module ModuleDefinitions
          'If you don't have enough drop in the ADC, then continue to move the gripper into the oven.   You can go a maximum of 10mm pas
          'the starting location of the filter.
          For Pass = 1 To 8
-            If ADC > (AirADC - 25) Then 'The ADC reading drops by about 100 counts when you are 2mm over the filter edge
+            If ADC > (AirADC - frmMain.OpticalSensor3mmDrop) Then 'The ADC reading drops by about 100 counts when you are 2mm over the filter edge
                MyPoint.Y -= 0.5
                Arm.GoToPoint(MyPoint)
                ADC = Gripper.ReadSensorAverage

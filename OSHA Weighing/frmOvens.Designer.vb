@@ -23,6 +23,7 @@ Partial Class frmOvens
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
       Me.gbxOven1 = New System.Windows.Forms.GroupBox
+      Me.lblDeactive1 = New System.Windows.Forms.Label
       Me.GroupBox1 = New System.Windows.Forms.GroupBox
       Me.Label13 = New System.Windows.Forms.Label
       Me.btnTestAll = New System.Windows.Forms.Button
@@ -37,7 +38,12 @@ Partial Class frmOvens
       Me.btnSetPress1 = New System.Windows.Forms.Button
       Me.btnClose1 = New System.Windows.Forms.Button
       Me.btnOpen1 = New System.Windows.Forms.Button
+      Me.MenuStrip1 = New System.Windows.Forms.MenuStrip
+      Me.OvenSettignsToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
+      Me.DeactivateOvenToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
+      Me.ActivateOvenToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
       Me.gbxOven2 = New System.Windows.Forms.GroupBox
+      Me.lblDeactive2 = New System.Windows.Forms.Label
       Me.GroupBox2 = New System.Windows.Forms.GroupBox
       Me.btnTest4CornersOven2 = New System.Windows.Forms.Button
       Me.Label4 = New System.Windows.Forms.Label
@@ -49,7 +55,12 @@ Partial Class frmOvens
       Me.btnSetPress2 = New System.Windows.Forms.Button
       Me.btnClose2 = New System.Windows.Forms.Button
       Me.btnOpen2 = New System.Windows.Forms.Button
+      Me.MenuStrip2 = New System.Windows.Forms.MenuStrip
+      Me.OvenSettingsToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
+      Me.DeActivateOvenToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem
+      Me.ActivateOvenToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem
       Me.gbxOven3 = New System.Windows.Forms.GroupBox
+      Me.lblDeactive3 = New System.Windows.Forms.Label
       Me.GroupBox3 = New System.Windows.Forms.GroupBox
       Me.btnTest4CornersOven3 = New System.Windows.Forms.Button
       Me.Label6 = New System.Windows.Forms.Label
@@ -61,7 +72,12 @@ Partial Class frmOvens
       Me.btnSetPress3 = New System.Windows.Forms.Button
       Me.btnClose3 = New System.Windows.Forms.Button
       Me.btnOpen3 = New System.Windows.Forms.Button
+      Me.MenuStrip3 = New System.Windows.Forms.MenuStrip
+      Me.OvenSettingsToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem
+      Me.DeactivateOvenToolStripMenuItem2 = New System.Windows.Forms.ToolStripMenuItem
+      Me.ActivateOveToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
       Me.gbxOven4 = New System.Windows.Forms.GroupBox
+      Me.lblDeactive4 = New System.Windows.Forms.Label
       Me.GroupBox4 = New System.Windows.Forms.GroupBox
       Me.btnTest4CornersOven4 = New System.Windows.Forms.Button
       Me.Label8 = New System.Windows.Forms.Label
@@ -73,7 +89,12 @@ Partial Class frmOvens
       Me.btnSetPress4 = New System.Windows.Forms.Button
       Me.btnClose4 = New System.Windows.Forms.Button
       Me.btnOpen4 = New System.Windows.Forms.Button
+      Me.MenuStrip4 = New System.Windows.Forms.MenuStrip
+      Me.OvenSettingsToolStripMenuItem2 = New System.Windows.Forms.ToolStripMenuItem
+      Me.DeactivateOvenToolStripMenuItem3 = New System.Windows.Forms.ToolStripMenuItem
+      Me.ActivateOvenToolStripMenuItem2 = New System.Windows.Forms.ToolStripMenuItem
       Me.gbxOven5 = New System.Windows.Forms.GroupBox
+      Me.lblDeactive5 = New System.Windows.Forms.Label
       Me.GroupBox5 = New System.Windows.Forms.GroupBox
       Me.btnTest4CornersOven5 = New System.Windows.Forms.Button
       Me.Label10 = New System.Windows.Forms.Label
@@ -85,6 +106,10 @@ Partial Class frmOvens
       Me.btnSetPress5 = New System.Windows.Forms.Button
       Me.btnClose5 = New System.Windows.Forms.Button
       Me.btnOpen5 = New System.Windows.Forms.Button
+      Me.MenuStrip5 = New System.Windows.Forms.MenuStrip
+      Me.OvenSettingsToolStripMenuItem3 = New System.Windows.Forms.ToolStripMenuItem
+      Me.DeactivateOvenToolStripMenuItem4 = New System.Windows.Forms.ToolStripMenuItem
+      Me.ActivateOvenToolStripMenuItem3 = New System.Windows.Forms.ToolStripMenuItem
       Me.btnGo = New System.Windows.Forms.Button
       Me.Label1 = New System.Windows.Forms.Label
       Me.btnAbort = New System.Windows.Forms.Button
@@ -97,48 +122,30 @@ Partial Class frmOvens
       Me.btnReadSensor = New System.Windows.Forms.Button
       Me.btnClose = New System.Windows.Forms.Button
       Me.btnOpen = New System.Windows.Forms.Button
-      Me.MenuStrip1 = New System.Windows.Forms.MenuStrip
-      Me.OvenSettignsToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
-      Me.MenuStrip2 = New System.Windows.Forms.MenuStrip
-      Me.OvenSettingsToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
-      Me.MenuStrip3 = New System.Windows.Forms.MenuStrip
-      Me.MenuStrip4 = New System.Windows.Forms.MenuStrip
-      Me.MenuStrip5 = New System.Windows.Forms.MenuStrip
-      Me.OvenSettingsToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem
-      Me.OvenSettingsToolStripMenuItem2 = New System.Windows.Forms.ToolStripMenuItem
-      Me.OvenSettingsToolStripMenuItem3 = New System.Windows.Forms.ToolStripMenuItem
-      Me.DeactivateOvenToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
-      Me.ActivateOvenToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
-      Me.DeActivateOvenToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem
-      Me.ActivateOvenToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem
-      Me.DeactivateOvenToolStripMenuItem2 = New System.Windows.Forms.ToolStripMenuItem
-      Me.ActivateOveToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem
-      Me.DeactivateOvenToolStripMenuItem3 = New System.Windows.Forms.ToolStripMenuItem
-      Me.ActivateOvenToolStripMenuItem2 = New System.Windows.Forms.ToolStripMenuItem
-      Me.DeactivateOvenToolStripMenuItem4 = New System.Windows.Forms.ToolStripMenuItem
-      Me.ActivateOvenToolStripMenuItem3 = New System.Windows.Forms.ToolStripMenuItem
-      Me.lblDeactive1 = New System.Windows.Forms.Label
-      Me.lblDeactive2 = New System.Windows.Forms.Label
-      Me.lblDeactive3 = New System.Windows.Forms.Label
-      Me.lblDeactive4 = New System.Windows.Forms.Label
-      Me.lblDeactive5 = New System.Windows.Forms.Label
+      Me.GroupBox7 = New System.Windows.Forms.GroupBox
+      Me.btnStartOpticalTest = New System.Windows.Forms.Button
+      Me.Label16 = New System.Windows.Forms.Label
+      Me.txbOpticalAir = New System.Windows.Forms.TextBox
+      Me.txbOptical3mm = New System.Windows.Forms.TextBox
+      Me.Label17 = New System.Windows.Forms.Label
       Me.gbxOven1.SuspendLayout()
       Me.GroupBox1.SuspendLayout()
+      Me.MenuStrip1.SuspendLayout()
       Me.gbxOven2.SuspendLayout()
       Me.GroupBox2.SuspendLayout()
+      Me.MenuStrip2.SuspendLayout()
       Me.gbxOven3.SuspendLayout()
       Me.GroupBox3.SuspendLayout()
+      Me.MenuStrip3.SuspendLayout()
       Me.gbxOven4.SuspendLayout()
       Me.GroupBox4.SuspendLayout()
+      Me.MenuStrip4.SuspendLayout()
       Me.gbxOven5.SuspendLayout()
       Me.GroupBox5.SuspendLayout()
+      Me.MenuStrip5.SuspendLayout()
       Me.gbxBalance.SuspendLayout()
       Me.GroupBox6.SuspendLayout()
-      Me.MenuStrip1.SuspendLayout()
-      Me.MenuStrip2.SuspendLayout()
-      Me.MenuStrip3.SuspendLayout()
-      Me.MenuStrip4.SuspendLayout()
-      Me.MenuStrip5.SuspendLayout()
+      Me.GroupBox7.SuspendLayout()
       Me.SuspendLayout()
       '
       'gbxOven1
@@ -163,6 +170,19 @@ Partial Class frmOvens
       Me.gbxOven1.TabIndex = 0
       Me.gbxOven1.TabStop = False
       Me.gbxOven1.Text = "Oven 1"
+      '
+      'lblDeactive1
+      '
+      Me.lblDeactive1.AutoSize = True
+      Me.lblDeactive1.BackColor = System.Drawing.Color.Black
+      Me.lblDeactive1.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+      Me.lblDeactive1.ForeColor = System.Drawing.Color.Lime
+      Me.lblDeactive1.Location = New System.Drawing.Point(112, 56)
+      Me.lblDeactive1.Name = "lblDeactive1"
+      Me.lblDeactive1.Size = New System.Drawing.Size(114, 17)
+      Me.lblDeactive1.TabIndex = 12
+      Me.lblDeactive1.Text = "DEACTIVATED"
+      Me.lblDeactive1.Visible = False
       '
       'GroupBox1
       '
@@ -306,6 +326,34 @@ Partial Class frmOvens
       Me.btnOpen1.Text = "Open Door"
       Me.btnOpen1.UseVisualStyleBackColor = False
       '
+      'MenuStrip1
+      '
+      Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.OvenSettignsToolStripMenuItem})
+      Me.MenuStrip1.Location = New System.Drawing.Point(3, 16)
+      Me.MenuStrip1.Name = "MenuStrip1"
+      Me.MenuStrip1.Size = New System.Drawing.Size(226, 24)
+      Me.MenuStrip1.TabIndex = 11
+      Me.MenuStrip1.Text = "MenuStrip1"
+      '
+      'OvenSettignsToolStripMenuItem
+      '
+      Me.OvenSettignsToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.DeactivateOvenToolStripMenuItem, Me.ActivateOvenToolStripMenuItem})
+      Me.OvenSettignsToolStripMenuItem.Name = "OvenSettignsToolStripMenuItem"
+      Me.OvenSettignsToolStripMenuItem.Size = New System.Drawing.Size(92, 20)
+      Me.OvenSettignsToolStripMenuItem.Text = "Oven Settings"
+      '
+      'DeactivateOvenToolStripMenuItem
+      '
+      Me.DeactivateOvenToolStripMenuItem.Name = "DeactivateOvenToolStripMenuItem"
+      Me.DeactivateOvenToolStripMenuItem.Size = New System.Drawing.Size(160, 22)
+      Me.DeactivateOvenToolStripMenuItem.Text = "Deactivate Oven"
+      '
+      'ActivateOvenToolStripMenuItem
+      '
+      Me.ActivateOvenToolStripMenuItem.Name = "ActivateOvenToolStripMenuItem"
+      Me.ActivateOvenToolStripMenuItem.Size = New System.Drawing.Size(160, 22)
+      Me.ActivateOvenToolStripMenuItem.Text = "Activate Oven"
+      '
       'gbxOven2
       '
       Me.gbxOven2.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
@@ -328,6 +376,19 @@ Partial Class frmOvens
       Me.gbxOven2.TabIndex = 1
       Me.gbxOven2.TabStop = False
       Me.gbxOven2.Text = "Oven 2"
+      '
+      'lblDeactive2
+      '
+      Me.lblDeactive2.AutoSize = True
+      Me.lblDeactive2.BackColor = System.Drawing.Color.Black
+      Me.lblDeactive2.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+      Me.lblDeactive2.ForeColor = System.Drawing.Color.Lime
+      Me.lblDeactive2.Location = New System.Drawing.Point(112, 56)
+      Me.lblDeactive2.Name = "lblDeactive2"
+      Me.lblDeactive2.Size = New System.Drawing.Size(114, 17)
+      Me.lblDeactive2.TabIndex = 15
+      Me.lblDeactive2.Text = "DEACTIVATED"
+      Me.lblDeactive2.Visible = False
       '
       'GroupBox2
       '
@@ -436,6 +497,34 @@ Partial Class frmOvens
       Me.btnOpen2.Text = "Open Door"
       Me.btnOpen2.UseVisualStyleBackColor = False
       '
+      'MenuStrip2
+      '
+      Me.MenuStrip2.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.OvenSettingsToolStripMenuItem})
+      Me.MenuStrip2.Location = New System.Drawing.Point(3, 16)
+      Me.MenuStrip2.Name = "MenuStrip2"
+      Me.MenuStrip2.Size = New System.Drawing.Size(226, 24)
+      Me.MenuStrip2.TabIndex = 14
+      Me.MenuStrip2.Text = "MenuStrip2"
+      '
+      'OvenSettingsToolStripMenuItem
+      '
+      Me.OvenSettingsToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.DeActivateOvenToolStripMenuItem1, Me.ActivateOvenToolStripMenuItem1})
+      Me.OvenSettingsToolStripMenuItem.Name = "OvenSettingsToolStripMenuItem"
+      Me.OvenSettingsToolStripMenuItem.Size = New System.Drawing.Size(92, 20)
+      Me.OvenSettingsToolStripMenuItem.Text = "Oven Settings"
+      '
+      'DeActivateOvenToolStripMenuItem1
+      '
+      Me.DeActivateOvenToolStripMenuItem1.Name = "DeActivateOvenToolStripMenuItem1"
+      Me.DeActivateOvenToolStripMenuItem1.Size = New System.Drawing.Size(160, 22)
+      Me.DeActivateOvenToolStripMenuItem1.Text = "Deactivate Oven"
+      '
+      'ActivateOvenToolStripMenuItem1
+      '
+      Me.ActivateOvenToolStripMenuItem1.Name = "ActivateOvenToolStripMenuItem1"
+      Me.ActivateOvenToolStripMenuItem1.Size = New System.Drawing.Size(160, 22)
+      Me.ActivateOvenToolStripMenuItem1.Text = "Activate Oven"
+      '
       'gbxOven3
       '
       Me.gbxOven3.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
@@ -458,6 +547,19 @@ Partial Class frmOvens
       Me.gbxOven3.TabIndex = 2
       Me.gbxOven3.TabStop = False
       Me.gbxOven3.Text = "Oven 3"
+      '
+      'lblDeactive3
+      '
+      Me.lblDeactive3.AutoSize = True
+      Me.lblDeactive3.BackColor = System.Drawing.Color.Black
+      Me.lblDeactive3.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+      Me.lblDeactive3.ForeColor = System.Drawing.Color.Lime
+      Me.lblDeactive3.Location = New System.Drawing.Point(112, 56)
+      Me.lblDeactive3.Name = "lblDeactive3"
+      Me.lblDeactive3.Size = New System.Drawing.Size(114, 17)
+      Me.lblDeactive3.TabIndex = 16
+      Me.lblDeactive3.Text = "DEACTIVATED"
+      Me.lblDeactive3.Visible = False
       '
       'GroupBox3
       '
@@ -566,6 +668,34 @@ Partial Class frmOvens
       Me.btnOpen3.Text = "Open Door"
       Me.btnOpen3.UseVisualStyleBackColor = False
       '
+      'MenuStrip3
+      '
+      Me.MenuStrip3.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.OvenSettingsToolStripMenuItem1})
+      Me.MenuStrip3.Location = New System.Drawing.Point(3, 16)
+      Me.MenuStrip3.Name = "MenuStrip3"
+      Me.MenuStrip3.Size = New System.Drawing.Size(226, 24)
+      Me.MenuStrip3.TabIndex = 15
+      Me.MenuStrip3.Text = "MenuStrip3"
+      '
+      'OvenSettingsToolStripMenuItem1
+      '
+      Me.OvenSettingsToolStripMenuItem1.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.DeactivateOvenToolStripMenuItem2, Me.ActivateOveToolStripMenuItem})
+      Me.OvenSettingsToolStripMenuItem1.Name = "OvenSettingsToolStripMenuItem1"
+      Me.OvenSettingsToolStripMenuItem1.Size = New System.Drawing.Size(92, 20)
+      Me.OvenSettingsToolStripMenuItem1.Text = "Oven Settings"
+      '
+      'DeactivateOvenToolStripMenuItem2
+      '
+      Me.DeactivateOvenToolStripMenuItem2.Name = "DeactivateOvenToolStripMenuItem2"
+      Me.DeactivateOvenToolStripMenuItem2.Size = New System.Drawing.Size(160, 22)
+      Me.DeactivateOvenToolStripMenuItem2.Text = "Deactivate Oven"
+      '
+      'ActivateOveToolStripMenuItem
+      '
+      Me.ActivateOveToolStripMenuItem.Name = "ActivateOveToolStripMenuItem"
+      Me.ActivateOveToolStripMenuItem.Size = New System.Drawing.Size(160, 22)
+      Me.ActivateOveToolStripMenuItem.Text = "Activate Oven"
+      '
       'gbxOven4
       '
       Me.gbxOven4.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
@@ -588,6 +718,19 @@ Partial Class frmOvens
       Me.gbxOven4.TabIndex = 3
       Me.gbxOven4.TabStop = False
       Me.gbxOven4.Text = "Oven 4"
+      '
+      'lblDeactive4
+      '
+      Me.lblDeactive4.AutoSize = True
+      Me.lblDeactive4.BackColor = System.Drawing.Color.Black
+      Me.lblDeactive4.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+      Me.lblDeactive4.ForeColor = System.Drawing.Color.Lime
+      Me.lblDeactive4.Location = New System.Drawing.Point(112, 56)
+      Me.lblDeactive4.Name = "lblDeactive4"
+      Me.lblDeactive4.Size = New System.Drawing.Size(114, 17)
+      Me.lblDeactive4.TabIndex = 17
+      Me.lblDeactive4.Text = "DEACTIVATED"
+      Me.lblDeactive4.Visible = False
       '
       'GroupBox4
       '
@@ -696,6 +839,34 @@ Partial Class frmOvens
       Me.btnOpen4.Text = "Open Door"
       Me.btnOpen4.UseVisualStyleBackColor = False
       '
+      'MenuStrip4
+      '
+      Me.MenuStrip4.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.OvenSettingsToolStripMenuItem2})
+      Me.MenuStrip4.Location = New System.Drawing.Point(3, 16)
+      Me.MenuStrip4.Name = "MenuStrip4"
+      Me.MenuStrip4.Size = New System.Drawing.Size(226, 24)
+      Me.MenuStrip4.TabIndex = 15
+      Me.MenuStrip4.Text = "MenuStrip4"
+      '
+      'OvenSettingsToolStripMenuItem2
+      '
+      Me.OvenSettingsToolStripMenuItem2.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.DeactivateOvenToolStripMenuItem3, Me.ActivateOvenToolStripMenuItem2})
+      Me.OvenSettingsToolStripMenuItem2.Name = "OvenSettingsToolStripMenuItem2"
+      Me.OvenSettingsToolStripMenuItem2.Size = New System.Drawing.Size(92, 20)
+      Me.OvenSettingsToolStripMenuItem2.Text = "Oven Settings"
+      '
+      'DeactivateOvenToolStripMenuItem3
+      '
+      Me.DeactivateOvenToolStripMenuItem3.Name = "DeactivateOvenToolStripMenuItem3"
+      Me.DeactivateOvenToolStripMenuItem3.Size = New System.Drawing.Size(160, 22)
+      Me.DeactivateOvenToolStripMenuItem3.Text = "Deactivate Oven"
+      '
+      'ActivateOvenToolStripMenuItem2
+      '
+      Me.ActivateOvenToolStripMenuItem2.Name = "ActivateOvenToolStripMenuItem2"
+      Me.ActivateOvenToolStripMenuItem2.Size = New System.Drawing.Size(160, 22)
+      Me.ActivateOvenToolStripMenuItem2.Text = "Activate Oven"
+      '
       'gbxOven5
       '
       Me.gbxOven5.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
@@ -718,6 +889,19 @@ Partial Class frmOvens
       Me.gbxOven5.TabIndex = 4
       Me.gbxOven5.TabStop = False
       Me.gbxOven5.Text = "Oven 5"
+      '
+      'lblDeactive5
+      '
+      Me.lblDeactive5.AutoSize = True
+      Me.lblDeactive5.BackColor = System.Drawing.Color.Black
+      Me.lblDeactive5.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+      Me.lblDeactive5.ForeColor = System.Drawing.Color.Lime
+      Me.lblDeactive5.Location = New System.Drawing.Point(112, 56)
+      Me.lblDeactive5.Name = "lblDeactive5"
+      Me.lblDeactive5.Size = New System.Drawing.Size(114, 17)
+      Me.lblDeactive5.TabIndex = 16
+      Me.lblDeactive5.Text = "DEACTIVATED"
+      Me.lblDeactive5.Visible = False
       '
       'GroupBox5
       '
@@ -826,6 +1010,34 @@ Partial Class frmOvens
       Me.btnOpen5.Text = "Open Door"
       Me.btnOpen5.UseVisualStyleBackColor = False
       '
+      'MenuStrip5
+      '
+      Me.MenuStrip5.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.OvenSettingsToolStripMenuItem3})
+      Me.MenuStrip5.Location = New System.Drawing.Point(3, 16)
+      Me.MenuStrip5.Name = "MenuStrip5"
+      Me.MenuStrip5.Size = New System.Drawing.Size(226, 24)
+      Me.MenuStrip5.TabIndex = 15
+      Me.MenuStrip5.Text = "MenuStrip5"
+      '
+      'OvenSettingsToolStripMenuItem3
+      '
+      Me.OvenSettingsToolStripMenuItem3.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.DeactivateOvenToolStripMenuItem4, Me.ActivateOvenToolStripMenuItem3})
+      Me.OvenSettingsToolStripMenuItem3.Name = "OvenSettingsToolStripMenuItem3"
+      Me.OvenSettingsToolStripMenuItem3.Size = New System.Drawing.Size(92, 20)
+      Me.OvenSettingsToolStripMenuItem3.Text = "Oven Settings"
+      '
+      'DeactivateOvenToolStripMenuItem4
+      '
+      Me.DeactivateOvenToolStripMenuItem4.Name = "DeactivateOvenToolStripMenuItem4"
+      Me.DeactivateOvenToolStripMenuItem4.Size = New System.Drawing.Size(160, 22)
+      Me.DeactivateOvenToolStripMenuItem4.Text = "Deactivate Oven"
+      '
+      'ActivateOvenToolStripMenuItem3
+      '
+      Me.ActivateOvenToolStripMenuItem3.Name = "ActivateOvenToolStripMenuItem3"
+      Me.ActivateOvenToolStripMenuItem3.Size = New System.Drawing.Size(160, 22)
+      Me.ActivateOvenToolStripMenuItem3.Text = "Activate Oven"
+      '
       'btnGo
       '
       Me.btnGo.BackColor = System.Drawing.Color.Lime
@@ -852,7 +1064,7 @@ Partial Class frmOvens
       '
       Me.btnAbort.BackColor = System.Drawing.Color.Red
       Me.btnAbort.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-      Me.btnAbort.Location = New System.Drawing.Point(932, 464)
+      Me.btnAbort.Location = New System.Drawing.Point(1078, 474)
       Me.btnAbort.Name = "btnAbort"
       Me.btnAbort.Size = New System.Drawing.Size(180, 40)
       Me.btnAbort.TabIndex = 7
@@ -896,6 +1108,7 @@ Partial Class frmOvens
       'GroupBox6
       '
       Me.GroupBox6.BackColor = System.Drawing.Color.Thistle
+      Me.GroupBox6.Controls.Add(Me.GroupBox7)
       Me.GroupBox6.Controls.Add(Me.Label15)
       Me.GroupBox6.Controls.Add(Me.txbSensor)
       Me.GroupBox6.Controls.Add(Me.btnReadSensor)
@@ -904,7 +1117,7 @@ Partial Class frmOvens
       Me.GroupBox6.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
       Me.GroupBox6.Location = New System.Drawing.Point(520, 408)
       Me.GroupBox6.Name = "GroupBox6"
-      Me.GroupBox6.Size = New System.Drawing.Size(296, 140)
+      Me.GroupBox6.Size = New System.Drawing.Size(548, 140)
       Me.GroupBox6.TabIndex = 54
       Me.GroupBox6.TabStop = False
       Me.GroupBox6.Text = "Gripper Controls"
@@ -913,7 +1126,7 @@ Partial Class frmOvens
       '
       Me.Label15.AutoSize = True
       Me.Label15.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-      Me.Label15.Location = New System.Drawing.Point(192, 112)
+      Me.Label15.Location = New System.Drawing.Point(170, 115)
       Me.Label15.Name = "Label15"
       Me.Label15.Size = New System.Drawing.Size(84, 13)
       Me.Label15.TabIndex = 4
@@ -922,7 +1135,7 @@ Partial Class frmOvens
       'txbSensor
       '
       Me.txbSensor.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-      Me.txbSensor.Location = New System.Drawing.Point(192, 80)
+      Me.txbSensor.Location = New System.Drawing.Point(170, 83)
       Me.txbSensor.Name = "txbSensor"
       Me.txbSensor.Size = New System.Drawing.Size(76, 26)
       Me.txbSensor.TabIndex = 3
@@ -933,7 +1146,7 @@ Partial Class frmOvens
       Me.btnReadSensor.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
       Me.btnReadSensor.Location = New System.Drawing.Point(20, 80)
       Me.btnReadSensor.Name = "btnReadSensor"
-      Me.btnReadSensor.Size = New System.Drawing.Size(156, 32)
+      Me.btnReadSensor.Size = New System.Drawing.Size(139, 32)
       Me.btnReadSensor.TabIndex = 2
       Me.btnReadSensor.Text = "Read Optical Sensor"
       Me.btnReadSensor.UseVisualStyleBackColor = False
@@ -941,9 +1154,9 @@ Partial Class frmOvens
       'btnClose
       '
       Me.btnClose.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer), CType(CType(128, Byte), Integer))
-      Me.btnClose.Location = New System.Drawing.Point(164, 28)
+      Me.btnClose.Location = New System.Drawing.Point(114, 30)
       Me.btnClose.Name = "btnClose"
-      Me.btnClose.Size = New System.Drawing.Size(108, 32)
+      Me.btnClose.Size = New System.Drawing.Size(72, 32)
       Me.btnClose.TabIndex = 1
       Me.btnClose.Text = "Close"
       Me.btnClose.UseVisualStyleBackColor = False
@@ -953,222 +1166,73 @@ Partial Class frmOvens
       Me.btnOpen.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
       Me.btnOpen.Location = New System.Drawing.Point(24, 28)
       Me.btnOpen.Name = "btnOpen"
-      Me.btnOpen.Size = New System.Drawing.Size(108, 32)
+      Me.btnOpen.Size = New System.Drawing.Size(77, 32)
       Me.btnOpen.TabIndex = 0
       Me.btnOpen.Text = "Open"
       Me.btnOpen.UseVisualStyleBackColor = False
       '
-      'MenuStrip1
+      'GroupBox7
       '
-      Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.OvenSettignsToolStripMenuItem})
-      Me.MenuStrip1.Location = New System.Drawing.Point(3, 16)
-      Me.MenuStrip1.Name = "MenuStrip1"
-      Me.MenuStrip1.Size = New System.Drawing.Size(226, 24)
-      Me.MenuStrip1.TabIndex = 11
-      Me.MenuStrip1.Text = "MenuStrip1"
+      Me.GroupBox7.Controls.Add(Me.txbOptical3mm)
+      Me.GroupBox7.Controls.Add(Me.Label17)
+      Me.GroupBox7.Controls.Add(Me.txbOpticalAir)
+      Me.GroupBox7.Controls.Add(Me.Label16)
+      Me.GroupBox7.Controls.Add(Me.btnStartOpticalTest)
+      Me.GroupBox7.Location = New System.Drawing.Point(283, 23)
+      Me.GroupBox7.Name = "GroupBox7"
+      Me.GroupBox7.Size = New System.Drawing.Size(245, 110)
+      Me.GroupBox7.TabIndex = 5
+      Me.GroupBox7.TabStop = False
+      Me.GroupBox7.Text = "Test Optical Sensor"
       '
-      'OvenSettignsToolStripMenuItem
+      'btnStartOpticalTest
       '
-      Me.OvenSettignsToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.DeactivateOvenToolStripMenuItem, Me.ActivateOvenToolStripMenuItem})
-      Me.OvenSettignsToolStripMenuItem.Name = "OvenSettignsToolStripMenuItem"
-      Me.OvenSettignsToolStripMenuItem.Size = New System.Drawing.Size(92, 20)
-      Me.OvenSettignsToolStripMenuItem.Text = "Oven Settings"
+      Me.btnStartOpticalTest.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
+      Me.btnStartOpticalTest.Location = New System.Drawing.Point(72, 24)
+      Me.btnStartOpticalTest.Name = "btnStartOpticalTest"
+      Me.btnStartOpticalTest.Size = New System.Drawing.Size(106, 27)
+      Me.btnStartOpticalTest.TabIndex = 6
+      Me.btnStartOpticalTest.Text = "Start Test"
+      Me.btnStartOpticalTest.UseVisualStyleBackColor = False
       '
-      'MenuStrip2
+      'Label16
       '
-      Me.MenuStrip2.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.OvenSettingsToolStripMenuItem})
-      Me.MenuStrip2.Location = New System.Drawing.Point(3, 16)
-      Me.MenuStrip2.Name = "MenuStrip2"
-      Me.MenuStrip2.Size = New System.Drawing.Size(226, 24)
-      Me.MenuStrip2.TabIndex = 14
-      Me.MenuStrip2.Text = "MenuStrip2"
+      Me.Label16.AutoSize = True
+      Me.Label16.Location = New System.Drawing.Point(21, 61)
+      Me.Label16.Name = "Label16"
+      Me.Label16.Size = New System.Drawing.Size(58, 13)
+      Me.Label16.TabIndex = 7
+      Me.Label16.Text = "Air Value"
       '
-      'OvenSettingsToolStripMenuItem
+      'txbOpticalAir
       '
-      Me.OvenSettingsToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.DeActivateOvenToolStripMenuItem1, Me.ActivateOvenToolStripMenuItem1})
-      Me.OvenSettingsToolStripMenuItem.Name = "OvenSettingsToolStripMenuItem"
-      Me.OvenSettingsToolStripMenuItem.Size = New System.Drawing.Size(92, 20)
-      Me.OvenSettingsToolStripMenuItem.Text = "Oven Settings"
+      Me.txbOpticalAir.Location = New System.Drawing.Point(83, 57)
+      Me.txbOpticalAir.Name = "txbOpticalAir"
+      Me.txbOpticalAir.Size = New System.Drawing.Size(67, 20)
+      Me.txbOpticalAir.TabIndex = 8
       '
-      'MenuStrip3
+      'txbOptical3mm
       '
-      Me.MenuStrip3.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.OvenSettingsToolStripMenuItem1})
-      Me.MenuStrip3.Location = New System.Drawing.Point(3, 16)
-      Me.MenuStrip3.Name = "MenuStrip3"
-      Me.MenuStrip3.Size = New System.Drawing.Size(226, 24)
-      Me.MenuStrip3.TabIndex = 15
-      Me.MenuStrip3.Text = "MenuStrip3"
+      Me.txbOptical3mm.Location = New System.Drawing.Point(84, 81)
+      Me.txbOptical3mm.Name = "txbOptical3mm"
+      Me.txbOptical3mm.Size = New System.Drawing.Size(67, 20)
+      Me.txbOptical3mm.TabIndex = 10
       '
-      'MenuStrip4
+      'Label17
       '
-      Me.MenuStrip4.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.OvenSettingsToolStripMenuItem2})
-      Me.MenuStrip4.Location = New System.Drawing.Point(3, 16)
-      Me.MenuStrip4.Name = "MenuStrip4"
-      Me.MenuStrip4.Size = New System.Drawing.Size(226, 24)
-      Me.MenuStrip4.TabIndex = 15
-      Me.MenuStrip4.Text = "MenuStrip4"
-      '
-      'MenuStrip5
-      '
-      Me.MenuStrip5.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.OvenSettingsToolStripMenuItem3})
-      Me.MenuStrip5.Location = New System.Drawing.Point(3, 16)
-      Me.MenuStrip5.Name = "MenuStrip5"
-      Me.MenuStrip5.Size = New System.Drawing.Size(226, 24)
-      Me.MenuStrip5.TabIndex = 15
-      Me.MenuStrip5.Text = "MenuStrip5"
-      '
-      'OvenSettingsToolStripMenuItem1
-      '
-      Me.OvenSettingsToolStripMenuItem1.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.DeactivateOvenToolStripMenuItem2, Me.ActivateOveToolStripMenuItem})
-      Me.OvenSettingsToolStripMenuItem1.Name = "OvenSettingsToolStripMenuItem1"
-      Me.OvenSettingsToolStripMenuItem1.Size = New System.Drawing.Size(92, 20)
-      Me.OvenSettingsToolStripMenuItem1.Text = "Oven Settings"
-      '
-      'OvenSettingsToolStripMenuItem2
-      '
-      Me.OvenSettingsToolStripMenuItem2.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.DeactivateOvenToolStripMenuItem3, Me.ActivateOvenToolStripMenuItem2})
-      Me.OvenSettingsToolStripMenuItem2.Name = "OvenSettingsToolStripMenuItem2"
-      Me.OvenSettingsToolStripMenuItem2.Size = New System.Drawing.Size(92, 20)
-      Me.OvenSettingsToolStripMenuItem2.Text = "Oven Settings"
-      '
-      'OvenSettingsToolStripMenuItem3
-      '
-      Me.OvenSettingsToolStripMenuItem3.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.DeactivateOvenToolStripMenuItem4, Me.ActivateOvenToolStripMenuItem3})
-      Me.OvenSettingsToolStripMenuItem3.Name = "OvenSettingsToolStripMenuItem3"
-      Me.OvenSettingsToolStripMenuItem3.Size = New System.Drawing.Size(92, 20)
-      Me.OvenSettingsToolStripMenuItem3.Text = "Oven Settings"
-      '
-      'DeactivateOvenToolStripMenuItem
-      '
-      Me.DeactivateOvenToolStripMenuItem.Name = "DeactivateOvenToolStripMenuItem"
-      Me.DeactivateOvenToolStripMenuItem.Size = New System.Drawing.Size(160, 22)
-      Me.DeactivateOvenToolStripMenuItem.Text = "Deactivate Oven"
-      '
-      'ActivateOvenToolStripMenuItem
-      '
-      Me.ActivateOvenToolStripMenuItem.Name = "ActivateOvenToolStripMenuItem"
-      Me.ActivateOvenToolStripMenuItem.Size = New System.Drawing.Size(160, 22)
-      Me.ActivateOvenToolStripMenuItem.Text = "Activate Oven"
-      '
-      'DeActivateOvenToolStripMenuItem1
-      '
-      Me.DeActivateOvenToolStripMenuItem1.Name = "DeActivateOvenToolStripMenuItem1"
-      Me.DeActivateOvenToolStripMenuItem1.Size = New System.Drawing.Size(160, 22)
-      Me.DeActivateOvenToolStripMenuItem1.Text = "Deactivate Oven"
-      '
-      'ActivateOvenToolStripMenuItem1
-      '
-      Me.ActivateOvenToolStripMenuItem1.Name = "ActivateOvenToolStripMenuItem1"
-      Me.ActivateOvenToolStripMenuItem1.Size = New System.Drawing.Size(160, 22)
-      Me.ActivateOvenToolStripMenuItem1.Text = "Activate Oven"
-      '
-      'DeactivateOvenToolStripMenuItem2
-      '
-      Me.DeactivateOvenToolStripMenuItem2.Name = "DeactivateOvenToolStripMenuItem2"
-      Me.DeactivateOvenToolStripMenuItem2.Size = New System.Drawing.Size(160, 22)
-      Me.DeactivateOvenToolStripMenuItem2.Text = "Deactivate Oven"
-      '
-      'ActivateOveToolStripMenuItem
-      '
-      Me.ActivateOveToolStripMenuItem.Name = "ActivateOveToolStripMenuItem"
-      Me.ActivateOveToolStripMenuItem.Size = New System.Drawing.Size(160, 22)
-      Me.ActivateOveToolStripMenuItem.Text = "Activate Oven"
-      '
-      'DeactivateOvenToolStripMenuItem3
-      '
-      Me.DeactivateOvenToolStripMenuItem3.Name = "DeactivateOvenToolStripMenuItem3"
-      Me.DeactivateOvenToolStripMenuItem3.Size = New System.Drawing.Size(160, 22)
-      Me.DeactivateOvenToolStripMenuItem3.Text = "Deactivate Oven"
-      '
-      'ActivateOvenToolStripMenuItem2
-      '
-      Me.ActivateOvenToolStripMenuItem2.Name = "ActivateOvenToolStripMenuItem2"
-      Me.ActivateOvenToolStripMenuItem2.Size = New System.Drawing.Size(160, 22)
-      Me.ActivateOvenToolStripMenuItem2.Text = "Activate Oven"
-      '
-      'DeactivateOvenToolStripMenuItem4
-      '
-      Me.DeactivateOvenToolStripMenuItem4.Name = "DeactivateOvenToolStripMenuItem4"
-      Me.DeactivateOvenToolStripMenuItem4.Size = New System.Drawing.Size(160, 22)
-      Me.DeactivateOvenToolStripMenuItem4.Text = "Deactivate Oven"
-      '
-      'ActivateOvenToolStripMenuItem3
-      '
-      Me.ActivateOvenToolStripMenuItem3.Name = "ActivateOvenToolStripMenuItem3"
-      Me.ActivateOvenToolStripMenuItem3.Size = New System.Drawing.Size(160, 22)
-      Me.ActivateOvenToolStripMenuItem3.Text = "Activate Oven"
-      '
-      'lblDeactive1
-      '
-      Me.lblDeactive1.AutoSize = True
-      Me.lblDeactive1.BackColor = System.Drawing.Color.Black
-      Me.lblDeactive1.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-      Me.lblDeactive1.ForeColor = System.Drawing.Color.Lime
-      Me.lblDeactive1.Location = New System.Drawing.Point(112, 56)
-      Me.lblDeactive1.Name = "lblDeactive1"
-      Me.lblDeactive1.Size = New System.Drawing.Size(114, 17)
-      Me.lblDeactive1.TabIndex = 12
-      Me.lblDeactive1.Text = "DEACTIVATED"
-      Me.lblDeactive1.Visible = False
-      '
-      'lblDeactive2
-      '
-      Me.lblDeactive2.AutoSize = True
-      Me.lblDeactive2.BackColor = System.Drawing.Color.Black
-      Me.lblDeactive2.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-      Me.lblDeactive2.ForeColor = System.Drawing.Color.Lime
-      Me.lblDeactive2.Location = New System.Drawing.Point(112, 56)
-      Me.lblDeactive2.Name = "lblDeactive2"
-      Me.lblDeactive2.Size = New System.Drawing.Size(114, 17)
-      Me.lblDeactive2.TabIndex = 15
-      Me.lblDeactive2.Text = "DEACTIVATED"
-      Me.lblDeactive2.Visible = False
-      '
-      'lblDeactive3
-      '
-      Me.lblDeactive3.AutoSize = True
-      Me.lblDeactive3.BackColor = System.Drawing.Color.Black
-      Me.lblDeactive3.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-      Me.lblDeactive3.ForeColor = System.Drawing.Color.Lime
-      Me.lblDeactive3.Location = New System.Drawing.Point(112, 56)
-      Me.lblDeactive3.Name = "lblDeactive3"
-      Me.lblDeactive3.Size = New System.Drawing.Size(114, 17)
-      Me.lblDeactive3.TabIndex = 16
-      Me.lblDeactive3.Text = "DEACTIVATED"
-      Me.lblDeactive3.Visible = False
-      '
-      'lblDeactive4
-      '
-      Me.lblDeactive4.AutoSize = True
-      Me.lblDeactive4.BackColor = System.Drawing.Color.Black
-      Me.lblDeactive4.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-      Me.lblDeactive4.ForeColor = System.Drawing.Color.Lime
-      Me.lblDeactive4.Location = New System.Drawing.Point(112, 56)
-      Me.lblDeactive4.Name = "lblDeactive4"
-      Me.lblDeactive4.Size = New System.Drawing.Size(114, 17)
-      Me.lblDeactive4.TabIndex = 17
-      Me.lblDeactive4.Text = "DEACTIVATED"
-      Me.lblDeactive4.Visible = False
-      '
-      'lblDeactive5
-      '
-      Me.lblDeactive5.AutoSize = True
-      Me.lblDeactive5.BackColor = System.Drawing.Color.Black
-      Me.lblDeactive5.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-      Me.lblDeactive5.ForeColor = System.Drawing.Color.Lime
-      Me.lblDeactive5.Location = New System.Drawing.Point(112, 56)
-      Me.lblDeactive5.Name = "lblDeactive5"
-      Me.lblDeactive5.Size = New System.Drawing.Size(114, 17)
-      Me.lblDeactive5.TabIndex = 16
-      Me.lblDeactive5.Text = "DEACTIVATED"
-      Me.lblDeactive5.Visible = False
+      Me.Label17.AutoSize = True
+      Me.Label17.Location = New System.Drawing.Point(9, 84)
+      Me.Label17.Name = "Label17"
+      Me.Label17.Size = New System.Drawing.Size(68, 13)
+      Me.Label17.TabIndex = 9
+      Me.Label17.Text = "3mm Value"
       '
       'frmOvens
       '
       Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
       Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
       Me.BackColor = System.Drawing.Color.Gainsboro
-      Me.ClientSize = New System.Drawing.Size(1273, 567)
+      Me.ClientSize = New System.Drawing.Size(1521, 567)
       Me.Controls.Add(Me.GroupBox6)
       Me.Controls.Add(Me.gbxBalance)
       Me.Controls.Add(Me.btnAbort)
@@ -1186,32 +1250,34 @@ Partial Class frmOvens
       Me.gbxOven1.PerformLayout()
       Me.GroupBox1.ResumeLayout(False)
       Me.GroupBox1.PerformLayout()
+      Me.MenuStrip1.ResumeLayout(False)
+      Me.MenuStrip1.PerformLayout()
       Me.gbxOven2.ResumeLayout(False)
       Me.gbxOven2.PerformLayout()
       Me.GroupBox2.ResumeLayout(False)
+      Me.MenuStrip2.ResumeLayout(False)
+      Me.MenuStrip2.PerformLayout()
       Me.gbxOven3.ResumeLayout(False)
       Me.gbxOven3.PerformLayout()
       Me.GroupBox3.ResumeLayout(False)
+      Me.MenuStrip3.ResumeLayout(False)
+      Me.MenuStrip3.PerformLayout()
       Me.gbxOven4.ResumeLayout(False)
       Me.gbxOven4.PerformLayout()
       Me.GroupBox4.ResumeLayout(False)
+      Me.MenuStrip4.ResumeLayout(False)
+      Me.MenuStrip4.PerformLayout()
       Me.gbxOven5.ResumeLayout(False)
       Me.gbxOven5.PerformLayout()
       Me.GroupBox5.ResumeLayout(False)
+      Me.MenuStrip5.ResumeLayout(False)
+      Me.MenuStrip5.PerformLayout()
       Me.gbxBalance.ResumeLayout(False)
       Me.gbxBalance.PerformLayout()
       Me.GroupBox6.ResumeLayout(False)
       Me.GroupBox6.PerformLayout()
-      Me.MenuStrip1.ResumeLayout(False)
-      Me.MenuStrip1.PerformLayout()
-      Me.MenuStrip2.ResumeLayout(False)
-      Me.MenuStrip2.PerformLayout()
-      Me.MenuStrip3.ResumeLayout(False)
-      Me.MenuStrip3.PerformLayout()
-      Me.MenuStrip4.ResumeLayout(False)
-      Me.MenuStrip4.PerformLayout()
-      Me.MenuStrip5.ResumeLayout(False)
-      Me.MenuStrip5.PerformLayout()
+      Me.GroupBox7.ResumeLayout(False)
+      Me.GroupBox7.PerformLayout()
       Me.ResumeLayout(False)
       Me.PerformLayout()
 
@@ -1316,4 +1382,10 @@ Partial Class frmOvens
    Friend WithEvents lblDeactive3 As System.Windows.Forms.Label
    Friend WithEvents lblDeactive4 As System.Windows.Forms.Label
    Friend WithEvents lblDeactive5 As System.Windows.Forms.Label
+   Friend WithEvents GroupBox7 As System.Windows.Forms.GroupBox
+   Friend WithEvents txbOptical3mm As System.Windows.Forms.TextBox
+   Friend WithEvents Label17 As System.Windows.Forms.Label
+   Friend WithEvents txbOpticalAir As System.Windows.Forms.TextBox
+   Friend WithEvents Label16 As System.Windows.Forms.Label
+   Friend WithEvents btnStartOpticalTest As System.Windows.Forms.Button
 End Class

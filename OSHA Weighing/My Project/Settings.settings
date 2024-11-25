@@ -23,5 +23,8 @@
     <Setting Name="DefaultFileExtension" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">1</Value>
     </Setting>
+    <Setting Name="OpticalSensorDrop" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">69</Value>
+    </Setting>
   </Settings>
 </SettingsFile>

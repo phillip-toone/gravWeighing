@@ -345,12 +345,6 @@
       myfrmCountDownTimer = Nothing
    End Sub
 
-   ''' <summary>
-   ''' Extracts the first numeric value it finds in a string including decimal point and decimals
-   ''' </summary>
-   ''' <param name="myString">String to extact the number from</param>
-   ''' <returns>The extracted number as a string</returns>
-   ''' <remarks></remarks>
    Function ExtractNumberFromString(ByRef myString As String) As String
       Dim MyChars() As Char
       Dim Pass As Int32
@@ -408,7 +402,6 @@
 
       Return MyReturn
    End Function
-
 
 #Region "BIT manupulation functions"
 

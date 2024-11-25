@@ -109,6 +109,7 @@ Public Class frmMain
    Public LastAirADCReading As Int32
    Dim RunStepLockoutFlag As Boolean   'Prevents entry into a run step if the user is manually operating the ovens.
    Dim ManualDoorOpenRequest As Int32  'Holds the over number that the user has issued a manual request to open
+   Public OpticalSensor3mmDrop As Int32  'The amount of optical drop ot be expected when the gripper is 3mm over the filter
 
 
 
@@ -171,6 +172,7 @@ Public Class frmMain
          CaroselPort.PortName = Data(5)
          BarCodePort.PortName = Data(6)
          BalancePort.PortName = Data(7)
+         OpticalSensor3mmDrop = CInt(Data(8))
       Catch ex As Exception
          Oven1Port.PortName = "COM7"
          Oven2Port.PortName = "COM8"
@@ -180,6 +182,7 @@ Public Class frmMain
          CaroselPort.PortName = "COM6"
          BarCodePort.PortName = "COM16"
          BalancePort.PortName = "COM5"
+         OpticalSensor3mmDrop = 69
          SaveSettings()
       End Try
    End Sub
@@ -195,6 +198,7 @@ Public Class frmMain
       Data += CaroselPort.PortName & ","
       Data += BarCodePort.PortName & ","
       Data += BalancePort.PortName & ","
+      Data += OpticalSensor3mmDrop.ToString & ","
       Try
          FileIO.WriteTextFile(BaseInfoPath & "\PortData.txt", Data)
       Catch ex As Exception

@@ -5,6 +5,7 @@ Public Class frmJkemDriverConfiguration
    Dim DataChanged As Boolean
    Dim Address As Int32 = 1  'There is only one J-KEM motor driver in this system, and it has an address of 1
    Dim MyDriver As JkemMotorDef
+   Dim ArmPoint As Point4D
 
 
 
@@ -23,6 +24,14 @@ Public Class frmJkemDriverConfiguration
       Me.txbGroupAddress.Text = MyDriver.SendLiteral(":" & Address.ToString & "GA")
       Me.lsbReply.SelectedIndex = CType(MyDriver.SendLiteral(":" & Address.ToString & "AR"), Int32)
       DataChanged = False
+      ArmPoint.X = Arm.Position.X
+      ArmPoint.Y = Arm.Position.Y
+      ArmPoint.Z = Arm.Position.Z
+      ArmPoint.U = Arm.Position.U
+      txbXCoordinate.Text = Format(ArmPoint.X, "0.000")
+      txbYCoordinate.Text = Format(ArmPoint.Y, "0.000")
+      txbZCoordinate.Text = Format(ArmPoint.Z, "0.000")
+      txbZCoordinate.Text = Format(ArmPoint.U, "0.000")
    End Sub
 
 
@@ -185,4 +194,15 @@ Public Class frmJkemDriverConfiguration
       Carosel.Move(Carosel.RackOrigin(Position).OriginX)
       txbPosition.Text = MyDriver.Position.ToString
    End Sub
+
+   Private Sub lblX_N5_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles lblX_N100.Click, lblX_N25.Click, lblX_N5.Click, lblX_N1.Click, lblX_N05.Click, _
+               lblX_N02.Click, lblX_N01.Click, lblX_P01.Click, lblX_P02.Click, lblX_P05.Click, lblX_P1.Click, lblX_P5.Click, lblX_P25.Click, lblX_P100.Click
+      Dim Offset As String
+
+      Offset = ExtractNumberFromString(CType(sender, Label).Text)
+      ArmPoint.X += CDbl(Offset)
+      Arm.GoToPoint(ArmPoint)
+      txbXCoordinate.Text = Format(ArmPoint.X, "0.000")
+   End Sub
+
 End Class

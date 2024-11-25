@@ -6,7 +6,13 @@ OSHAWeighing
 </name>
 </assembly>
 <members>
-<member name="P:OSHA_Weighing.My.Resources.Resources.ResourceManager">
+<member name="M:OSHA_Weighing.Epson.EpsonArm.GoToPoint(OSHA_Weighing.Point4D)">
+	<summary>
+ Moves the Epson arm to the 4-coordinate point
+ </summary>
+	<param name="point">4 coordinate point to move to.</param>
+	<remarks></remarks>
+</member><member name="P:OSHA_Weighing.My.Resources.Resources.ResourceManager">
 	<summary>
   Returns the cached ResourceManager instance used by this class.
 </summary>
@@ -36,13 +42,6 @@ OSHAWeighing
 	<param name="min">The minimum allowed value</param>
 	<param name="max">The maximum allowed value</param>
 	<returns></returns>
-	<remarks></remarks>
-</member><member name="M:OSHA_Weighing.HelperFunctions.ExtractNumberFromString(System.String@)">
-	<summary>
- Extracts the first numeric value it finds in a string including decimal point and decimals
- </summary>
-	<param name="myString">String to extact the number from</param>
-	<returns>The extracted number as a string</returns>
 	<remarks></remarks>
 </member><member name="M:OSHA_Weighing.HelperFunctions.ClearBit(System.Int32@,System.Int32)">
 	<summary>
@@ -81,88 +80,80 @@ OSHAWeighing
 	<param name="shiftSet">State of the ShiftKey.  Does not check for Cap Lock</param>
 	<returns>Ascii value of the key.   0 if the key is not defined.</returns>
 	<remarks></remarks>
-</member><member name="M:OSHA_Weighing.DGVSupport.ReturnTable(System.String,System.String)">
+</member><member name="M:OSHA_Weighing.frmBlankPicker.SetRackGraphicOrigin(System.Int32,System.Int32)">
 	<summary>
- Returns the cell content of the specified DGV table, recalled from a text file
+ Set the display origin of the graphical rack repesentation
  </summary>
-	<param name="filepath">Fully qualified file path to the data file</param>
-	<param name="identifier">Name of the identifier for the method.
- If an identifer is not specifed, a list of all available methods is displayed for the user to select from.</param>
+	<param name="myX">X origin</param>
+	<param name="myY">Y origin</param>
+	<remarks></remarks>
+</member><member name="M:OSHA_Weighing.frmBlankPicker.SetRackGraphicSize(System.Int32,System.Int32)">
+	<summary>
+ Sets the size of the graphic that represents the plate.  Cellsize and cellseperation are set to best fit within
+ the defined rectangle.  Only the width or height needs to be passed in the function.  If both are passed, the 
+ rectangle size is determined by the value passed for the width.
+ </summary>
+	<param name="myWidth">Optimal width of the plate</param>
+	<param name="myHeight">Optimal height of the plate</param>
+	<remarks></remarks>
+</member><member name="M:OSHA_Weighing.FileIO.CreateDataFileFolders(System.String@)">
+	<summary>
+ If the application data folder does not exist it creates it and copies all files in the application startup path with the extension of '.kem' to the data folder.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:OSHA_Weighing.FileIO.WriteTextFile(System.String,System.String@,System.Boolean,System.Boolean)">
+	<summary>
+ Writes a string to a text file with the extension .txt
+ </summary>
+	<param name="filepath">The fully qualified file path.</param>
+	<param name="text">The text string to write.</param>
+	<param name="overWrite">Overwrite the file with the new string if the file exists.</param>
+	<param name="Append">Append the new string to the existing file.</param>
+	<returns>Returns True of False depending on successful completion of the task</returns>
+	<remarks></remarks>
+</member><member name="M:OSHA_Weighing.FileIO.ReadTextFile(System.String)">
+	<summary>
+ Reads and returns the content of a file on disk
+ </summary>
+	<param name="path">The fully qualified path name of the file</param>
+	<returns>The text in the file.  If the file does not exist, it returns nothing</returns>
+	<remarks></remarks>
+</member><member name="M:OSHA_Weighing.FileIO.GetFileName(System.Boolean,System.String,System.Boolean)">
+	<summary>
+ Either returns the fully qualified file name of an existing or a new file
+ </summary>
+	<param name="mustExist">If the file MustExist, it only returns the name of an existing file.  If not, then it only returns the name of a new file.</param>
+	<returns>Fully qualified file path.</returns>
+	<remarks></remarks>
+</member><member name="M:OSHA_Weighing.FileIO.GetDataTitles(System.String)">
+	<summary>
+ This function returns the names for the input file that contain the qualifier passed to the function
+ </summary>
+	<param name="filepath">The full file path to the data file</param>
 	<returns></returns>
 	<remarks></remarks>
-</member><member name="M:OSHA_Weighing.DGVSupport.PopulateTable(System.Windows.Forms.DataGridView@,System.String,System.String)">
+</member><member name="M:OSHA_Weighing.FileIO.GetDataBlock(System.String,System.String)">
 	<summary>
- Populates the cells of the passed table with the data in the specifed method.
+ This function returns the entire block of data from one qualifer to the next qualifer.
+ It also returns the datablock name following the qualifer.
  </summary>
-	<param name="thisDGV">Reference to the table to populate.</param>
-	<param name="filepath">Fully qualified path to the data file.</param>
-	<param name="identifier">Optional method name.  If not supplied, the function displays a list of methods
- contained in the method file.</param>
-	<returns>True if the method was found and the data was loaded properly.</returns>
+	<param name="dataName">Method data qualifer text</param>
+	<param name="filepath">Full file path to the file</param>
+	<returns>Associated data, includeing the method name, in a collection</returns>
 	<remarks></remarks>
-</member><member name="M:OSHA_Weighing.DGVSupport.SaveTable(System.Windows.Forms.DataGridView@,System.String,System.String,System.Boolean)">
+</member><member name="M:OSHA_Weighing.FileIO.DeleteDataBlock(System.String,System.String)">
 	<summary>
- Saves data from the specifed DGV table to a text file in a format the supports the other DGVSupport functions.
+ Deletes the block of data specifed from the data file
  </summary>
-	<param name="table">A reference to that table containing the data to save.</param>
-	<param name="filepath">A fully qualified file path.  If the file doesn't exist, it is created.</param>
-	<param name="identifier">A string identifier for the saved data.</param>
-	<param name="overRideNotice">Optionally, if data with the passed identifer is found, a message box appears to
- verify if the old data shoudl be overwritten with the new data.</param>
+	<param name="dataName">Title fo the block to delete</param>
+	<param name="filepath">Full file path</param>
 	<remarks></remarks>
-</member><member name="M:OSHA_Weighing.DGVSupport.GetTableNames(System.String)">
+</member><member name="M:OSHA_Weighing.FileIO.WriteDataBlock(System.String[]@,System.String)">
 	<summary>
- Returns a list of all the method identifier contained in the file.   File must be created by DGVSupport functions
+ Writes the data passed to data block file.   This sub appends CrLf to the end of each line
  </summary>
-	<param name="fullpath">A fully qualified file name with complete path</param>
-	<remarks>Only file created by the DGVSupport fuctions can be accessed using this function</remarks>
-</member><member name="M:OSHA_Weighing.DGVSupport.DisplayTableNames(System.String)">
-	<summary>
- Displays all the method identifiers contained in the file
- </summary>
-	<param name="filepath">Fully qualifed file path</param>
-	<remarks></remarks>
-</member><member name="M:OSHA_Weighing.DGVSupport.SizeTable(System.Windows.Forms.DataGridView@,System.Int32,System.Int32)">
-	<summary>
- Sizes the DGV table to fit the height and width of the data in the table
- </summary>
-	<param name="myDGV">A reference to the DGV table to be resized</param>
-	<param name="rowsDisplayed">The number of rows to fit in the resized table</param>
-	<param name="colsDisplayed">The number of columns to fit in the resized table</param>
-	<remarks></remarks>
-</member><member name="M:OSHA_Weighing.DGVSupport.GetSize(System.Windows.Forms.DataGridView@,System.Int32,System.Int32,System.Int32,System.Int32)">
-	<summary>
- Returns the size of the DGV table
- </summary>
-	<param name="myDGV">Reference to the DGV table</param>
-	<param name="startingRow">Row to start from in the calculation</param>
-	<param name="endingRow">Row to end with in the calculation</param>
-	<param name="startingColumn">Column to start with in the calculation</param>
-	<param name="endingColumn">Column to end with in the calculation</param>
-	<returns>Returns the size of the table</returns>
-	<remarks></remarks>
-</member><member name="M:OSHA_Weighing.DGVSupport.ClearAllCells(System.Windows.Forms.DataGridView@)">
-	<summary>
- Clears the value of every cell in the table and sets its value to nothing
- </summary>
-	<param name="myDGV">Referecne to the DataGridView Table to Operate on.</param>
-	<remarks></remarks>
-</member><member name="M:OSHA_Weighing.DGVSupport.SetCellColor(System.Windows.Forms.DataGridView@,System.Int32,System.Int32,System.Drawing.Color)">
-	<summary>
- Sets the referenced table cell to the specified color
- </summary>
-	<param name="myDGV">Reference to the table to operate on</param>
-	<param name="row">Table Row</param>
-	<param name="col">Table column</param>
-	<param name="mycolor">Color of cell</param>
-	<remarks></remarks>
-</member><member name="M:OSHA_Weighing.DGVSupport.SetRowBackColor(System.Windows.Forms.DataGridView@,System.Int32,System.Drawing.Color)">
-	<summary>
- Sets the backcolor to the color specified
- </summary>
-	<param name="myDGV">Reference to the DGV table to operate on</param>
-	<param name="myRow">Row of the table to operate on.  Rows are 0 based.</param>
-	<param name="myColor">Color to set</param>
+	<param name="data">Data as a string array</param>
+	<param name="filepath">Full file path</param>
 	<remarks></remarks>
 </member><member name="M:OSHA_Weighing.ModuleDefinitions.OvenDef.GotoSafeOpenDoorPosition(System.Int32)">
 	<summary>
@@ -502,86 +493,88 @@ OSHAWeighing
  </summary>
 	<param name="mypoint">Rack origin</param>
 	<remarks></remarks>
-</member><member name="M:OSHA_Weighing.Epson.EpsonArm.GoToPoint(OSHA_Weighing.Point4D)">
+</member><member name="M:OSHA_Weighing.DGVSupport.ReturnTable(System.String,System.String)">
 	<summary>
- Moves the Epson arm to the 4-coordinate point
+ Returns the cell content of the specified DGV table, recalled from a text file
  </summary>
-	<param name="point">4 coordinate point to move to.</param>
-	<remarks></remarks>
-</member><member name="M:OSHA_Weighing.FileIO.CreateDataFileFolders(System.String@)">
-	<summary>
- If the application data folder does not exist it creates it and copies all files in the application startup path with the extension of '.kem' to the data folder.
- </summary>
-	<remarks></remarks>
-</member><member name="M:OSHA_Weighing.FileIO.WriteTextFile(System.String,System.String@,System.Boolean,System.Boolean)">
-	<summary>
- Writes a string to a text file with the extension .txt
- </summary>
-	<param name="filepath">The fully qualified file path.</param>
-	<param name="text">The text string to write.</param>
-	<param name="overWrite">Overwrite the file with the new string if the file exists.</param>
-	<param name="Append">Append the new string to the existing file.</param>
-	<returns>Returns True of False depending on successful completion of the task</returns>
-	<remarks></remarks>
-</member><member name="M:OSHA_Weighing.FileIO.ReadTextFile(System.String)">
-	<summary>
- Reads and returns the content of a file on disk
- </summary>
-	<param name="path">The fully qualified path name of the file</param>
-	<returns>The text in the file.  If the file does not exist, it returns nothing</returns>
-	<remarks></remarks>
-</member><member name="M:OSHA_Weighing.FileIO.GetFileName(System.Boolean,System.String,System.Boolean)">
-	<summary>
- Either returns the fully qualified file name of an existing or a new file
- </summary>
-	<param name="mustExist">If the file MustExist, it only returns the name of an existing file.  If not, then it only returns the name of a new file.</param>
-	<returns>Fully qualified file path.</returns>
-	<remarks></remarks>
-</member><member name="M:OSHA_Weighing.FileIO.GetDataTitles(System.String)">
-	<summary>
- This function returns the names for the input file that contain the qualifier passed to the function
- </summary>
-	<param name="filepath">The full file path to the data file</param>
+	<param name="filepath">Fully qualified file path to the data file</param>
+	<param name="identifier">Name of the identifier for the method.
+ If an identifer is not specifed, a list of all available methods is displayed for the user to select from.</param>
 	<returns></returns>
 	<remarks></remarks>
-</member><member name="M:OSHA_Weighing.FileIO.GetDataBlock(System.String,System.String)">
+</member><member name="M:OSHA_Weighing.DGVSupport.PopulateTable(System.Windows.Forms.DataGridView@,System.String,System.String)">
 	<summary>
- This function returns the entire block of data from one qualifer to the next qualifer.
- It also returns the datablock name following the qualifer.
+ Populates the cells of the passed table with the data in the specifed method.
  </summary>
-	<param name="dataName">Method data qualifer text</param>
-	<param name="filepath">Full file path to the file</param>
-	<returns>Associated data, includeing the method name, in a collection</returns>
+	<param name="thisDGV">Reference to the table to populate.</param>
+	<param name="filepath">Fully qualified path to the data file.</param>
+	<param name="identifier">Optional method name.  If not supplied, the function displays a list of methods
+ contained in the method file.</param>
+	<returns>True if the method was found and the data was loaded properly.</returns>
 	<remarks></remarks>
-</member><member name="M:OSHA_Weighing.FileIO.DeleteDataBlock(System.String,System.String)">
+</member><member name="M:OSHA_Weighing.DGVSupport.SaveTable(System.Windows.Forms.DataGridView@,System.String,System.String,System.Boolean)">
 	<summary>
- Deletes the block of data specifed from the data file
+ Saves data from the specifed DGV table to a text file in a format the supports the other DGVSupport functions.
  </summary>
-	<param name="dataName">Title fo the block to delete</param>
-	<param name="filepath">Full file path</param>
+	<param name="table">A reference to that table containing the data to save.</param>
+	<param name="filepath">A fully qualified file path.  If the file doesn't exist, it is created.</param>
+	<param name="identifier">A string identifier for the saved data.</param>
+	<param name="overRideNotice">Optionally, if data with the passed identifer is found, a message box appears to
+ verify if the old data shoudl be overwritten with the new data.</param>
 	<remarks></remarks>
-</member><member name="M:OSHA_Weighing.FileIO.WriteDataBlock(System.String[]@,System.String)">
+</member><member name="M:OSHA_Weighing.DGVSupport.GetTableNames(System.String)">
 	<summary>
- Writes the data passed to data block file.   This sub appends CrLf to the end of each line
+ Returns a list of all the method identifier contained in the file.   File must be created by DGVSupport functions
  </summary>
-	<param name="data">Data as a string array</param>
-	<param name="filepath">Full file path</param>
+	<param name="fullpath">A fully qualified file name with complete path</param>
+	<remarks>Only file created by the DGVSupport fuctions can be accessed using this function</remarks>
+</member><member name="M:OSHA_Weighing.DGVSupport.DisplayTableNames(System.String)">
+	<summary>
+ Displays all the method identifiers contained in the file
+ </summary>
+	<param name="filepath">Fully qualifed file path</param>
 	<remarks></remarks>
-</member><member name="M:OSHA_Weighing.frmBlankPicker.SetRackGraphicOrigin(System.Int32,System.Int32)">
+</member><member name="M:OSHA_Weighing.DGVSupport.SizeTable(System.Windows.Forms.DataGridView@,System.Int32,System.Int32)">
 	<summary>
- Set the display origin of the graphical rack repesentation
+ Sizes the DGV table to fit the height and width of the data in the table
  </summary>
-	<param name="myX">X origin</param>
-	<param name="myY">Y origin</param>
+	<param name="myDGV">A reference to the DGV table to be resized</param>
+	<param name="rowsDisplayed">The number of rows to fit in the resized table</param>
+	<param name="colsDisplayed">The number of columns to fit in the resized table</param>
 	<remarks></remarks>
-</member><member name="M:OSHA_Weighing.frmBlankPicker.SetRackGraphicSize(System.Int32,System.Int32)">
+</member><member name="M:OSHA_Weighing.DGVSupport.GetSize(System.Windows.Forms.DataGridView@,System.Int32,System.Int32,System.Int32,System.Int32)">
 	<summary>
- Sets the size of the graphic that represents the plate.  Cellsize and cellseperation are set to best fit within
- the defined rectangle.  Only the width or height needs to be passed in the function.  If both are passed, the 
- rectangle size is determined by the value passed for the width.
+ Returns the size of the DGV table
  </summary>
-	<param name="myWidth">Optimal width of the plate</param>
-	<param name="myHeight">Optimal height of the plate</param>
+	<param name="myDGV">Reference to the DGV table</param>
+	<param name="startingRow">Row to start from in the calculation</param>
+	<param name="endingRow">Row to end with in the calculation</param>
+	<param name="startingColumn">Column to start with in the calculation</param>
+	<param name="endingColumn">Column to end with in the calculation</param>
+	<returns>Returns the size of the table</returns>
+	<remarks></remarks>
+</member><member name="M:OSHA_Weighing.DGVSupport.ClearAllCells(System.Windows.Forms.DataGridView@)">
+	<summary>
+ Clears the value of every cell in the table and sets its value to nothing
+ </summary>
+	<param name="myDGV">Referecne to the DataGridView Table to Operate on.</param>
+	<remarks></remarks>
+</member><member name="M:OSHA_Weighing.DGVSupport.SetCellColor(System.Windows.Forms.DataGridView@,System.Int32,System.Int32,System.Drawing.Color)">
+	<summary>
+ Sets the referenced table cell to the specified color
+ </summary>
+	<param name="myDGV">Reference to the table to operate on</param>
+	<param name="row">Table Row</param>
+	<param name="col">Table column</param>
+	<param name="mycolor">Color of cell</param>
+	<remarks></remarks>
+</member><member name="M:OSHA_Weighing.DGVSupport.SetRowBackColor(System.Windows.Forms.DataGridView@,System.Int32,System.Drawing.Color)">
+	<summary>
+ Sets the backcolor to the color specified
+ </summary>
+	<param name="myDGV">Reference to the DGV table to operate on</param>
+	<param name="myRow">Row of the table to operate on.  Rows are 0 based.</param>
+	<param name="myColor">Color to set</param>
 	<remarks></remarks>
 </member>
 </members>
