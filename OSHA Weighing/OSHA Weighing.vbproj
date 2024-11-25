@@ -28,6 +28,7 @@
     <OutputPath>bin\Debug\</OutputPath>
     <DocumentationFile>OSHA Weighing.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>AnyCPU</PlatformTarget>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -37,6 +38,7 @@
     <OutputPath>bin\Debug\</OutputPath>
     <DocumentationFile>OSHA Weighing.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>AnyCPU</PlatformTarget>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="SpelNetLib_x64, Version=5.3.4.0, Culture=neutral, PublicKeyToken=0487594b04a8fcc0, processorArchitecture=AMD64">

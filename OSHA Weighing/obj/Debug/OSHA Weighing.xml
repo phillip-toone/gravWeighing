@@ -6,26 +6,7 @@ OSHAWeighing
 </name>
 </assembly>
 <members>
-<member name="M:OSHA_Weighing.Epson.EpsonArm.GoToPoint(OSHA_Weighing.Point4D)">
-	<summary>
- Moves the Epson arm to the 4-coordinate point
- </summary>
-	<param name="point">4 coordinate point to move to.</param>
-	<remarks></remarks>
-</member><member name="P:OSHA_Weighing.My.Resources.Resources.ResourceManager">
-	<summary>
-  Returns the cached ResourceManager instance used by this class.
-</summary>
-</member><member name="P:OSHA_Weighing.My.Resources.Resources.Culture">
-	<summary>
-  Overrides the current thread's CurrentUICulture property for all
-  resource lookups using this strongly typed resource class.
-</summary>
-</member><member name="T:OSHA_Weighing.My.Resources.Resources">
-	<summary>
-  A strongly-typed resource class, for looking up localized strings, etc.
-</summary>
-</member><member name="M:OSHA_Weighing.HelperFunctions.EnforceLimits(System.Int32@,System.Int32,System.Int32)">
+<member name="M:OSHA_Weighing.HelperFunctions.EnforceLimits(System.Int32@,System.Int32,System.Int32)">
 	<summary>
  Returns a value within the limits of min and max.
  </summary>
@@ -79,81 +60,6 @@ OSHAWeighing
 	<param name="keyValue">e.keyvalue of the key pressed.</param>
 	<param name="shiftSet">State of the ShiftKey.  Does not check for Cap Lock</param>
 	<returns>Ascii value of the key.   0 if the key is not defined.</returns>
-	<remarks></remarks>
-</member><member name="M:OSHA_Weighing.frmBlankPicker.SetRackGraphicOrigin(System.Int32,System.Int32)">
-	<summary>
- Set the display origin of the graphical rack repesentation
- </summary>
-	<param name="myX">X origin</param>
-	<param name="myY">Y origin</param>
-	<remarks></remarks>
-</member><member name="M:OSHA_Weighing.frmBlankPicker.SetRackGraphicSize(System.Int32,System.Int32)">
-	<summary>
- Sets the size of the graphic that represents the plate.  Cellsize and cellseperation are set to best fit within
- the defined rectangle.  Only the width or height needs to be passed in the function.  If both are passed, the 
- rectangle size is determined by the value passed for the width.
- </summary>
-	<param name="myWidth">Optimal width of the plate</param>
-	<param name="myHeight">Optimal height of the plate</param>
-	<remarks></remarks>
-</member><member name="M:OSHA_Weighing.FileIO.CreateDataFileFolders(System.String@)">
-	<summary>
- If the application data folder does not exist it creates it and copies all files in the application startup path with the extension of '.kem' to the data folder.
- </summary>
-	<remarks></remarks>
-</member><member name="M:OSHA_Weighing.FileIO.WriteTextFile(System.String,System.String@,System.Boolean,System.Boolean)">
-	<summary>
- Writes a string to a text file with the extension .txt
- </summary>
-	<param name="filepath">The fully qualified file path.</param>
-	<param name="text">The text string to write.</param>
-	<param name="overWrite">Overwrite the file with the new string if the file exists.</param>
-	<param name="Append">Append the new string to the existing file.</param>
-	<returns>Returns True of False depending on successful completion of the task</returns>
-	<remarks></remarks>
-</member><member name="M:OSHA_Weighing.FileIO.ReadTextFile(System.String)">
-	<summary>
- Reads and returns the content of a file on disk
- </summary>
-	<param name="path">The fully qualified path name of the file</param>
-	<returns>The text in the file.  If the file does not exist, it returns nothing</returns>
-	<remarks></remarks>
-</member><member name="M:OSHA_Weighing.FileIO.GetFileName(System.Boolean,System.String,System.Boolean)">
-	<summary>
- Either returns the fully qualified file name of an existing or a new file
- </summary>
-	<param name="mustExist">If the file MustExist, it only returns the name of an existing file.  If not, then it only returns the name of a new file.</param>
-	<returns>Fully qualified file path.</returns>
-	<remarks></remarks>
-</member><member name="M:OSHA_Weighing.FileIO.GetDataTitles(System.String)">
-	<summary>
- This function returns the names for the input file that contain the qualifier passed to the function
- </summary>
-	<param name="filepath">The full file path to the data file</param>
-	<returns></returns>
-	<remarks></remarks>
-</member><member name="M:OSHA_Weighing.FileIO.GetDataBlock(System.String,System.String)">
-	<summary>
- This function returns the entire block of data from one qualifer to the next qualifer.
- It also returns the datablock name following the qualifer.
- </summary>
-	<param name="dataName">Method data qualifer text</param>
-	<param name="filepath">Full file path to the file</param>
-	<returns>Associated data, includeing the method name, in a collection</returns>
-	<remarks></remarks>
-</member><member name="M:OSHA_Weighing.FileIO.DeleteDataBlock(System.String,System.String)">
-	<summary>
- Deletes the block of data specifed from the data file
- </summary>
-	<param name="dataName">Title fo the block to delete</param>
-	<param name="filepath">Full file path</param>
-	<remarks></remarks>
-</member><member name="M:OSHA_Weighing.FileIO.WriteDataBlock(System.String[]@,System.String)">
-	<summary>
- Writes the data passed to data block file.   This sub appends CrLf to the end of each line
- </summary>
-	<param name="data">Data as a string array</param>
-	<param name="filepath">Full file path</param>
 	<remarks></remarks>
 </member><member name="M:OSHA_Weighing.ModuleDefinitions.OvenDef.GotoSafeOpenDoorPosition(System.Int32)">
 	<summary>
@@ -251,6 +157,12 @@ OSHAWeighing
  Turns off all holding current in the motor driver
  </summary>
 	<remarks></remarks>
+</member><member name="M:OSHA_Weighing.ModuleDefinitions.CaroselDef.DetermineOpticalSensitivity">
+	<summary>
+ This function is used in the Manual Ovens screen only to determine the amount of ADC drop when the gripper is 3mm over a filter
+ </summary>
+	<returns>The value of hte ADC when it is 3mm over a filter.</returns>
+	<remarks></remarks>
 </member><member name="M:OSHA_Weighing.ModuleDefinitions.CaroselDef.GetFilter(System.Int32,System.Int32)">
 	<summary>
  Picks up a filter from the carosel.
@@ -289,7 +201,7 @@ OSHAWeighing
  </summary>
 	<param name="rack">Rack number, 1-5.</param>
 	<param name="point">The starting point of the move.</param>
-	<param name="amount">The number of millimeters to move the arm oiut of the oven.</param>
+	<param name="amount">The number of millimeters to move the arm out from the Carosel.</param>
 	<returns>The end point of the move.</returns>
 	<remarks></remarks>
 </member><member name="M:OSHA_Weighing.ModuleDefinitions.BarCodeDef.GoToReader">
@@ -493,6 +405,71 @@ OSHAWeighing
  </summary>
 	<param name="mypoint">Rack origin</param>
 	<remarks></remarks>
+</member><member name="M:OSHA_Weighing.FileIO.CreateDataFileFolders(System.String@)">
+	<summary>
+ If the application data folder does not exist it creates it and copies all files in the application startup path with the extension of '.kem' to the data folder.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:OSHA_Weighing.FileIO.WriteTextFile(System.String,System.String@,System.Boolean,System.Boolean)">
+	<summary>
+ Writes a string to a text file with the extension .txt
+ </summary>
+	<param name="filepath">The fully qualified file path.</param>
+	<param name="text">The text string to write.</param>
+	<param name="overWrite">Overwrite the file with the new string if the file exists.</param>
+	<param name="Append">Append the new string to the existing file.</param>
+	<returns>Returns True of False depending on successful completion of the task</returns>
+	<remarks></remarks>
+</member><member name="M:OSHA_Weighing.FileIO.ReadTextFile(System.String)">
+	<summary>
+ Reads and returns the content of a file on disk
+ </summary>
+	<param name="path">The fully qualified path name of the file</param>
+	<returns>The text in the file.  If the file does not exist, it returns nothing</returns>
+	<remarks></remarks>
+</member><member name="M:OSHA_Weighing.FileIO.GetFileName(System.Boolean,System.String,System.Boolean)">
+	<summary>
+ Either returns the fully qualified file name of an existing or a new file
+ </summary>
+	<param name="mustExist">If the file MustExist, it only returns the name of an existing file.  If not, then it only returns the name of a new file.</param>
+	<returns>Fully qualified file path.</returns>
+	<remarks></remarks>
+</member><member name="M:OSHA_Weighing.FileIO.GetDataTitles(System.String)">
+	<summary>
+ This function returns the names for the input file that contain the qualifier passed to the function
+ </summary>
+	<param name="filepath">The full file path to the data file</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:OSHA_Weighing.FileIO.GetDataBlock(System.String,System.String)">
+	<summary>
+ This function returns the entire block of data from one qualifer to the next qualifer.
+ It also returns the datablock name following the qualifer.
+ </summary>
+	<param name="dataName">Method data qualifer text</param>
+	<param name="filepath">Full file path to the file</param>
+	<returns>Associated data, includeing the method name, in a collection</returns>
+	<remarks></remarks>
+</member><member name="M:OSHA_Weighing.FileIO.DeleteDataBlock(System.String,System.String)">
+	<summary>
+ Deletes the block of data specifed from the data file
+ </summary>
+	<param name="dataName">Title fo the block to delete</param>
+	<param name="filepath">Full file path</param>
+	<remarks></remarks>
+</member><member name="M:OSHA_Weighing.FileIO.WriteDataBlock(System.String[]@,System.String)">
+	<summary>
+ Writes the data passed to data block file.   This sub appends CrLf to the end of each line
+ </summary>
+	<param name="data">Data as a string array</param>
+	<param name="filepath">Full file path</param>
+	<remarks></remarks>
+</member><member name="M:OSHA_Weighing.Epson.EpsonArm.GoToPoint(OSHA_Weighing.Point4D)">
+	<summary>
+ Moves the Epson arm to the 4-coordinate point
+ </summary>
+	<param name="point">4 coordinate point to move to.</param>
+	<remarks></remarks>
 </member><member name="M:OSHA_Weighing.DGVSupport.ReturnTable(System.String,System.String)">
 	<summary>
  Returns the cell content of the specified DGV table, recalled from a text file
@@ -575,6 +552,35 @@ OSHAWeighing
 	<param name="myDGV">Reference to the DGV table to operate on</param>
 	<param name="myRow">Row of the table to operate on.  Rows are 0 based.</param>
 	<param name="myColor">Color to set</param>
+	<remarks></remarks>
+</member><member name="P:OSHA_Weighing.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:OSHA_Weighing.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:OSHA_Weighing.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:OSHA_Weighing.frmBlankPicker.SetRackGraphicOrigin(System.Int32,System.Int32)">
+	<summary>
+ Set the display origin of the graphical rack repesentation
+ </summary>
+	<param name="myX">X origin</param>
+	<param name="myY">Y origin</param>
+	<remarks></remarks>
+</member><member name="M:OSHA_Weighing.frmBlankPicker.SetRackGraphicSize(System.Int32,System.Int32)">
+	<summary>
+ Sets the size of the graphic that represents the plate.  Cellsize and cellseperation are set to best fit within
+ the defined rectangle.  Only the width or height needs to be passed in the function.  If both are passed, the 
+ rectangle size is determined by the value passed for the width.
+ </summary>
+	<param name="myWidth">Optimal width of the plate</param>
+	<param name="myHeight">Optimal height of the plate</param>
 	<remarks></remarks>
 </member>
 </members>

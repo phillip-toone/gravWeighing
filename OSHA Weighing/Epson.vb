@@ -5,7 +5,7 @@ Module Epson
    Public Class EpsonArm
       Public WithEvents Spel As SpelNetLib.Spel
       Private MoveComplete As Boolean
-      Private EpsonTestMode As Boolean = True
+      Private EpsonTestMode As Boolean = False
       Private EmergencyStopIsActive As Boolean
       Private RequestedPosition As Point4D
       Public Position As Point4D    'Current arm position
@@ -35,6 +35,10 @@ Module Epson
             Spel.Reset()
             Spel.Project = "C:\epsonrc50\projects\epson_6_28_10\epson_6_28_10.sprj"
             Spel.Start(0)
+            Position.X = Spel.CX("Here")
+            Position.Y = Spel.CY("Here")
+            Position.Z = Spel.CZ("Here")
+            Position.U = Spel.CU("Here")
          Catch ex As Exception
             MessageBox.Show("An error occured initializing the Spel object.  The error message was: " & ex.Message, "Spel Initialization Error", MessageBoxButtons.OK, MessageBoxIcon.Error, MessageBoxDefaultButton.Button1)
             Spel.Reset()

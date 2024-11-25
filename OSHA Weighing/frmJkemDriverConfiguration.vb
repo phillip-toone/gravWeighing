@@ -31,7 +31,7 @@ Public Class frmJkemDriverConfiguration
       txbXCoordinate.Text = Format(ArmPoint.X, "0.000")
       txbYCoordinate.Text = Format(ArmPoint.Y, "0.000")
       txbZCoordinate.Text = Format(ArmPoint.Z, "0.000")
-      txbZCoordinate.Text = Format(ArmPoint.U, "0.000")
+      txbUCoordinate.Text = Format(ArmPoint.U, "0.000")
    End Sub
 
 
@@ -195,14 +195,149 @@ Public Class frmJkemDriverConfiguration
       txbPosition.Text = MyDriver.Position.ToString
    End Sub
 
-   Private Sub lblX_N5_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles lblX_N100.Click, lblX_N25.Click, lblX_N5.Click, lblX_N1.Click, lblX_N05.Click, _
+   Private Sub lblX_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles lblX_N100.Click, lblX_N25.Click, lblX_N5.Click, lblX_N1.Click, lblX_N05.Click, _
                lblX_N02.Click, lblX_N01.Click, lblX_P01.Click, lblX_P02.Click, lblX_P05.Click, lblX_P1.Click, lblX_P5.Click, lblX_P25.Click, lblX_P100.Click
-      Dim Offset As String
+      Dim Offset As Double
 
-      Offset = ExtractNumberFromString(CType(sender, Label).Text)
-      ArmPoint.X += CDbl(Offset)
-      Arm.GoToPoint(ArmPoint)
-      txbXCoordinate.Text = Format(ArmPoint.X, "0.000")
+      Try
+         Offset = CDbl(ExtractNumberFromString(CType(sender, Label).Text))
+         If (Offset + ArmPoint.X) < -740.0 Or (Offset + ArmPoint.X) > 750.0 Then
+            MessageBox.Show("This is an axis limit error.", "Axis Limit", MessageBoxButtons.OK, MessageBoxIcon.Exclamation, MessageBoxDefaultButton.Button1)
+            Exit Sub
+         End If
+         ArmPoint.X += Offset
+         Arm.GoToPoint(ArmPoint)
+         txbXCoordinate.Text = Format(ArmPoint.X, "0.000")
+      Catch ex As Exception
+      End Try
+   End Sub
+
+   Private Sub lblY_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles lblY_N100.Click, lblY_N25.Click, lblY_N5.Click, lblY_N1.Click, lblY_N05.Click, _
+            lblY_N02.Click, lblY_N01.Click, lblY_P01.Click, lblY_P02.Click, lblY_P05.Click, lblY_P1.Click, lblY_P5.Click, lblY_P25.Click, lblY_P100.Click
+      Dim Offset As Double
+
+      Try
+         Offset = CDbl(ExtractNumberFromString(CType(sender, Label).Text))
+         If (Offset + ArmPoint.Y) < -490.0 Or (Offset + ArmPoint.Y) > 790.0 Then
+            MessageBox.Show("This is an axis limit error.", "Axis Limit", MessageBoxButtons.OK, MessageBoxIcon.Exclamation, MessageBoxDefaultButton.Button1)
+            Exit Sub
+         End If
+         ArmPoint.Y += Offset
+         Arm.GoToPoint(ArmPoint)
+         txbYCoordinate.Text = Format(ArmPoint.Y, "0.000")
+      Catch ex As Exception
+      End Try
+   End Sub
+
+   Private Sub lblZ_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles lblZ_N100.Click, lblZ_N25.Click, lblZ_N5.Click, lblZ_N1.Click, lblZ_N05.Click, _
+         lblZ_N02.Click, lblZ_N01.Click, lblZ_P01.Click, lblZ_P02.Click, lblZ_P05.Click, lblZ_P1.Click, lblZ_P5.Click, lblZ_P25.Click, lblZ_P100.Click
+      Dim Offset As Double
+
+      Try
+         Offset = CDbl(ExtractNumberFromString(CType(sender, Label).Text))
+         If (Offset + ArmPoint.Z) < -410.0 Or (Offset + ArmPoint.Z) > 0.0 Then
+            MessageBox.Show("This is an axis limit error.", "Axis Limit", MessageBoxButtons.OK, MessageBoxIcon.Exclamation, MessageBoxDefaultButton.Button1)
+            Exit Sub
+         End If
+         ArmPoint.Z += Offset
+         Arm.GoToPoint(ArmPoint)
+         txbZCoordinate.Text = Format(ArmPoint.Z, "0.000")
+      Catch ex As Exception
+      End Try
+   End Sub
+
+   Private Sub lblU_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles lblU_N25.Click, lblU_N5.Click, lblU_N1.Click, lblU_N05.Click, _
+      lblU_N02.Click, lblU_N01.Click, lblU_N005.Click, lblU_P005.Click, lblU_P01.Click, lblU_P02.Click, lblU_P05.Click, lblU_P1.Click, lblU_P5.Click, lblU_P25.Click
+      Dim Offset As Double
+
+      Try
+         Offset = CDbl(ExtractNumberFromString(CType(sender, Label).Text))
+         If (Offset + ArmPoint.U) < 50.0 Or (Offset + ArmPoint.U) > 340.0 Then
+            MessageBox.Show("This is an axis limit error.", "Axis Limit", MessageBoxButtons.OK, MessageBoxIcon.Exclamation, MessageBoxDefaultButton.Button1)
+            Exit Sub
+         End If
+         ArmPoint.U += Offset
+         Arm.GoToPoint(ArmPoint)
+         txbUCoordinate.Text = Format(ArmPoint.U, "0.000")
+      Catch ex As Exception
+      End Try
+   End Sub
+
+
+   Private Sub txbXCoordinate_KeyDown(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles txbXCoordinate.KeyDown
+      If e.KeyCode = Keys.Enter Then
+         Dim Value As Double
+
+         If MessageBox.Show("Move to X coordinate " & txbXCoordinate.Text & "?", "X Axis Move", MessageBoxButtons.OKCancel, MessageBoxIcon.Question, MessageBoxDefaultButton.Button1) = Windows.Forms.DialogResult.OK Then
+            If IsDouble(txbXCoordinate.Text, -750.0, 760.0) Then
+               Value = CDbl(txbXCoordinate.Text)
+               ArmPoint.X = Value
+               Arm.GoToPoint(ArmPoint)
+               txbXCoordinate.Text = Format(ArmPoint.X, "0.000")
+            Else
+               txbXCoordinate.Text = Format(ArmPoint.X, "0.000")
+            End If
+         Else
+            txbXCoordinate.Text = Format(ArmPoint.X, "0.000")
+         End If
+      End If
+   End Sub
+
+   Private Sub txbYCoordinate_KeyDown(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles txbYCoordinate.KeyDown
+      If e.KeyCode = Keys.Enter Then
+         Dim Value As Double
+
+         If MessageBox.Show("Move to Y coordinate " & txbYCoordinate.Text & "?", "Y Axis Move", MessageBoxButtons.OKCancel, MessageBoxIcon.Question, MessageBoxDefaultButton.Button1) = Windows.Forms.DialogResult.OK Then
+            If IsDouble(txbYCoordinate.Text, -390.0, 790.0) Then
+               Value = CDbl(txbYCoordinate.Text)
+               ArmPoint.Y = Value
+               Arm.GoToPoint(ArmPoint)
+               txbYCoordinate.Text = Format(ArmPoint.Y, "0.000")
+            Else
+               txbYCoordinate.Text = Format(ArmPoint.Y, "0.000")
+            End If
+         Else
+            txbYCoordinate.Text = Format(ArmPoint.Y, "0.000")
+         End If
+      End If
+   End Sub
+
+   Private Sub txbZCoordinate_KeyDown(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles txbZCoordinate.KeyDown
+      If e.KeyCode = Keys.Enter Then
+         Dim Value As Double
+
+         If MessageBox.Show("Move to Z coordinate " & txbZCoordinate.Text & "?", "Z Axis Move", MessageBoxButtons.OKCancel, MessageBoxIcon.Question, MessageBoxDefaultButton.Button1) = Windows.Forms.DialogResult.OK Then
+            If IsDouble(txbZCoordinate.Text, -410.0, 0.0) Then
+               Value = CDbl(txbZCoordinate.Text)
+               ArmPoint.Z = Value
+               Arm.GoToPoint(ArmPoint)
+               txbZCoordinate.Text = Format(ArmPoint.Z, "0.000")
+            Else
+               txbZCoordinate.Text = Format(ArmPoint.Z, "0.000")
+            End If
+         Else
+            txbZCoordinate.Text = Format(ArmPoint.Z, "0.000")
+         End If
+      End If
+   End Sub
+
+   Private Sub txbUCoordinate_KeyDown(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles txbUCoordinate.KeyDown
+      If e.KeyCode = Keys.Enter Then
+         Dim Value As Double
+
+         If MessageBox.Show("Move to U coordinate " & txbUCoordinate.Text & "?", "U Axis Move", MessageBoxButtons.OKCancel, MessageBoxIcon.Question, MessageBoxDefaultButton.Button1) = Windows.Forms.DialogResult.OK Then
+            If IsDouble(txbUCoordinate.Text, 55.0, 340.0) Then
+               Value = CDbl(txbUCoordinate.Text)
+               ArmPoint.U = Value
+               Arm.GoToPoint(ArmPoint)
+               txbUCoordinate.Text = Format(ArmPoint.U, "0.000")
+            Else
+               txbUCoordinate.Text = Format(ArmPoint.U, "0.000")
+            End If
+         Else
+            txbUCoordinate.Text = Format(ArmPoint.U, "0.000")
+         End If
+      End If
    End Sub
 
 End Class

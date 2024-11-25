@@ -133,9 +133,7 @@ Public Class frmMain
          Carosel.Init()
          Balance.Init()
          lblInit.Visible = False
-         If CheckForPowerFailureRecovery() = True Then   'This returns true if the program exited normally.
-            Arm.Home()
-         Else
+         If CheckForPowerFailureRecovery() = False Then   'This returns true if the program exited normally.
             'If you just recovered from a power failure, you need to restart the master timer so that the program will service the running experiments
             MasterTimer.Start()
             MasterTimerIsActive = True
@@ -375,6 +373,14 @@ Public Class frmMain
       'Note on ovens.   To turn a nonfunctioning oven off, you must go into the SpecialSettings.txt file and set the oven of itnerest
       'to True or False, then resetart the program.
       '
+
+      If Arm.TestComms() = True Then
+         CommStatus(8) = True
+         Me.Invalidate()
+         OvenDef.GotoSafeOpenDoorPosition(0)
+         Application.DoEvents()
+      End If
+
       If Oven1.OvenActive = True Then
          If Oven1.Init() = True Then
             CommStatus(0) = True
@@ -480,12 +486,6 @@ Public Class frmMain
 
       If BarCode.Initialize() = True Then
          CommStatus(7) = True
-         Me.Invalidate()
-         Application.DoEvents()
-      End If
-
-      If Arm.TestComms() = True Then
-         CommStatus(8) = True
          Me.Invalidate()
          Application.DoEvents()
       End If
@@ -3246,7 +3246,7 @@ Public Class frmMain
          'This is a standard OSHA program that can not change its steps
          Experiment(batch).RunSteps(0).StepType = Tasks.TakeToOven
          Experiment(batch).RunSteps(0).StepDuration = TimeSpan.FromHours(36.0)
-         Experiment(batch).RunSteps(0).Temperature = 57.0
+         Experiment(batch).RunSteps(0).Temperature = 40.0
          Experiment(batch).RunSteps(1).StepType = Tasks.TakeToCarosel
          Experiment(batch).RunSteps(1).StepDuration = TimeSpan.FromHours(6.0)
          Experiment(batch).RunSteps(2).StepType = Tasks.WeighSamplesTakeToOven

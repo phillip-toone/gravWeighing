@@ -321,10 +321,8 @@ Public Module ModuleDefinitions
             MyPoint = ThisOven.MoveOut(MyPoint, 6.0)
             MyPoint.Z += 9.5
             Arm.GoToPoint(MyPoint)
-            MyPoint.Z -= 2.5
-            Arm.GoToPoint(MyPoint)
             MyPoint = ThisOven.GetFilterLocation(pos)
-            MyPoint = ThisOven.MoveIn(MyPoint, 5.5)  '2 - 3mm of the fiter are in the gripper jaws.  This positions the filter just slightly into the holder.
+            MyPoint = ThisOven.MoveIn(MyPoint, 5.5)  '3mm of the fiter are in the gripper jaws.  This positions the filter just slightly into the holder.
             MyPoint.Z += 2.0
             Arm.GoToPoint(MyPoint)
             MyPoint = ThisOven.MoveOut(MyPoint, 2.0)   'Come out of the oven by 5 mm
@@ -337,24 +335,31 @@ Public Module ModuleDefinitions
             If MyADC < (frmMain.LastAirADCReading - frmMain.OpticalSensor3mmDrop \ 2) Then
                'Filter is stuck to gripper
                MyPoint = ThisOven.GetFilterLocation(pos)
-               MyPoint = ThisOven.MoveIn(MyPoint, 12.0)   'Come out of the oven by 5 mm
-               MyPoint.Z += 0.6
+               MyPoint = ThisOven.MoveIn(MyPoint, 3.0)
+               MyPoint.Z += 4.0
+               Arm.GoToPoint(MyPoint)
+               MyPoint.Z -= 6.0
                Arm.GoToPoint(MyPoint)
                MyPoint = ThisOven.MoveOut(MyPoint, 30.0)   'Come out of the oven by 5 mm
                Arm.GoToPoint(MyPoint)
                If Gripper.ReadSensorAverage < (frmMain.LastAirADCReading - frmMain.OpticalSensor3mmDrop \ 2) Then
                   'Filter is stuck to gripper
-                  MyPoint = ThisOven.MoveIn(MyPoint, 35.0)   'Come out of the oven by 5 mm
+                  MyPoint = ThisOven.GetFilterLocation(pos)
+                  MyPoint.Z += 4.0
+                  MyPoint = ThisOven.MoveIn(MyPoint, 3.0)   'Come out of the oven by 5 mm
                   Arm.GoToPoint(MyPoint)
+                  MyPoint.Z -= 8.0
                   MyPoint = ThisOven.MoveOut(MyPoint, 50.0)   'Come out of the oven by 5 mm
                   Arm.GoToPoint(MyPoint)
                End If
-               frmMain.rtbMessages.Text += vbCrLf & "Filter " & pos.ToString & " on Oven " & ovenNum.ToString & " stuck to the gripper."
+               If Gripper.ReadSensorAverage < (frmMain.LastAirADCReading - frmMain.OpticalSensor3mmDrop \ 2) Then
+                  frmMain.rtbMessages.Text += vbCrLf & "Filter " & pos.ToString & " on Oven " & ovenNum.ToString & " stuck to the gripper."
+               End If
             End If
             Gripper.Close()
             MyPoint = ThisOven.GetFilterLocation(pos)
-            MyPoint = ThisOven.MoveOut(MyPoint, 5.0)   'Push the filter 1mm into the oven holder.
-            MyPoint.Z -= 6.0
+            MyPoint = ThisOven.MoveOut(MyPoint, 2.5)   'Push the filter 1mm into the oven holder.
+            MyPoint.Z -= 5.0
             Arm.GoToPoint(MyPoint)
             MyPoint = ThisOven.MoveOut(MyPoint, 250.0)
             Arm.GoToPoint(MyPoint)
@@ -425,7 +430,7 @@ Public Module ModuleDefinitions
                MyPoint.Z += 1   'Keep the gripper 1mm up
                Arm.GoToPoint(MyPoint)
                Gripper.Close()
-               MyPoint.Z += 5.0
+               MyPoint.Z += 7.0
                Arm.GoToPoint(MyPoint)
                MyPoint = ThisOven.MoveOut(MyPoint, 200.0)
                MyPoint.Z += 20.0
@@ -1455,6 +1460,41 @@ Public Module ModuleDefinitions
 
 
       ''' <summary>
+      ''' This function is used in the Manual Ovens screen only to determine the amount of ADC drop when the gripper is 3mm over a filter
+      ''' </summary>
+      ''' <returns>The value of hte ADC when it is 3mm over a filter.</returns>
+      ''' <remarks></remarks>
+      Public Function DetermineOpticalSensitivity() As Int32
+         Dim MyPoint As Point4D
+         Dim AirReading As Int32
+         Dim EdgeReading As Int32
+         Dim Pass As Int32
+
+         GoToCaroselSafePoint()
+         Gripper.Open()
+         MyPoint = GetFilterLocation(1, 1)
+         MyPoint = MoveOut(1, MyPoint, 2.0)
+         Arm.GoToPoint(MyPoint)
+         AirReading = Gripper.ReadSensorAverage
+         For Pass = 1 To 8
+            MyPoint = MoveIn(1, MyPoint, 0.5)
+            Arm.GoToPoint(MyPoint)
+            EdgeReading = Gripper.ReadSensorAverage
+            If EdgeReading < (AirReading - 6) Then
+               MyPoint = MoveIn(1, MyPoint, 2.75)
+               Arm.GoToPoint(MyPoint)
+               EdgeReading = Gripper.ReadSensorAverage
+               Exit For
+            End If
+         Next
+         MyPoint = MoveOut(1, MyPoint, 100.0)
+         Arm.GoToPoint(MyPoint)
+
+         Return EdgeReading
+      End Function
+
+
+      ''' <summary>
       ''' Picks up a filter from the carosel.
       ''' </summary>
       ''' <param name="rack">Carosel rack.  Range: 1-5</param>
@@ -1553,10 +1593,10 @@ Public Module ModuleDefinitions
             MyPoint.Z += 6.5
             MyPoint = Me.MoveIn(rack, MyPoint, 2.5)
             Arm.GoToPoint(MyPoint)
-            MyPoint.Z -= 2.0 '4.0
+            MyPoint.Z -= 3.0
             Arm.GoToPoint(MyPoint)
             Gripper.Open()
-            MyPoint.Z -= 2.0
+            MyPoint.Z -= 4.0
             Arm.GoToPoint(MyPoint)
             'This section tests to make sure the filter is not stuck to the gripper
             MyPoint = GetFilterLocation(rack, cell)
@@ -1564,15 +1604,20 @@ Public Module ModuleDefinitions
             Arm.GoToPoint(MyPoint)
             MyADC = Gripper.ReadSensorAverage
             If MyADC < (frmMain.LastAirADCReading - frmMain.OpticalSensor3mmDrop \ 2) Then
-               MyPoint = Me.MoveIn(rack, MyPoint, 15.0)
+               MyPoint = GetFilterLocation(rack, cell)
+               MyPoint = Me.MoveIn(rack, MyPoint, 2.0)
                MyPoint.Z += 4.0
                Arm.GoToPoint(MyPoint)
-               MyPoint.Z -= 4.0
+               MyPoint.Z -= 4.5
                Arm.GoToPoint(MyPoint)
                MyPoint = Me.MoveOut(rack, MyPoint, 15.0)
                Arm.GoToPoint(MyPoint)
-               If Gripper.ReadSensorAverage < (frmMain.LastAirADCReading - 10) Then
-                  MyPoint = Me.MoveIn(rack, MyPoint, 17.0)
+               If Gripper.ReadSensorAverage < (frmMain.OpticalSensor3mmDrop \ 2) Then
+                  MyPoint = GetFilterLocation(rack, cell)
+                  MyPoint = Me.MoveIn(rack, MyPoint, 2.0)
+                  MyPoint.Z += 4.0
+                  Arm.GoToPoint(MyPoint)
+                  MyPoint.Z -= 6.5
                   Arm.GoToPoint(MyPoint)
                   MyPoint = Me.MoveOut(rack, MyPoint, 20.0)
                   Arm.GoToPoint(MyPoint)
@@ -1581,15 +1626,8 @@ Public Module ModuleDefinitions
             End If
             Gripper.Close()
             MyPoint = GetFilterLocation(rack, cell)
-            MyPoint = MoveOut(rack, MyPoint, 12.0)
-            MyPoint.Z -= 4.0
-            Arm.GoToPoint(MyPoint)
-            MyPoint = MoveIn(rack, MyPoint, 4.5)
-            Arm.GoToPoint(MyPoint)
-            MyPoint = MoveOut(rack, MyPoint, 4.5)
-            MyPoint.Z -= 3.0
-            Arm.GoToPoint(MyPoint)
-            MyPoint = MoveIn(rack, MyPoint, 4.5)
+            MyPoint.Z -= 5.0
+            MyPoint = MoveOut(rack, MyPoint, 2.8)
             Arm.GoToPoint(MyPoint)
 
             MyPoint = GetFilterLocation(rack, cell)
@@ -1712,7 +1750,7 @@ Public Module ModuleDefinitions
       ''' </summary>
       ''' <param name="rack">Rack number, 1-5.</param>
       ''' <param name="point">The starting point of the move.</param>
-      ''' <param name="amount">The number of millimeters to move the arm oiut of the oven.</param>
+      ''' <param name="amount">The number of millimeters to move the arm out from the Carosel.</param>
       ''' <returns>The end point of the move.</returns>
       ''' <remarks></remarks>
       Private Function MoveOut(ByVal rack As Int32, ByVal point As Point4D, ByVal amount As Double) As Point4D
@@ -2131,7 +2169,7 @@ Public Module ModuleDefinitions
          Me.OpenDoor()
          MyPoint = Me.Location   'This loads the location of the balance pan
          MyPoint.Z = Me.Location.Z + 10.0
-         MyPoint.Y -= 2.0
+         MyPoint.Y -= 3.0
          Arm.GoToPoint(MyPoint)
          MyPoint.Z = Me.Location.Z + 3.0
          Arm.GoToPoint(MyPoint)

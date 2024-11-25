@@ -107,43 +107,63 @@ Partial Class frmJkemDriverConfiguration
       Me.Label38 = New System.Windows.Forms.Label
       Me.gbxMotorDriver = New System.Windows.Forms.GroupBox
       Me.GroupBox5 = New System.Windows.Forms.GroupBox
+      Me.Label84 = New System.Windows.Forms.Label
+      Me.Label83 = New System.Windows.Forms.Label
+      Me.Label82 = New System.Windows.Forms.Label
+      Me.Label81 = New System.Windows.Forms.Label
       Me.GroupBox9 = New System.Windows.Forms.GroupBox
+      Me.lblU_P005 = New System.Windows.Forms.Label
+      Me.lblU_N005 = New System.Windows.Forms.Label
+      Me.lblU_N25 = New System.Windows.Forms.Label
+      Me.lblU_P25 = New System.Windows.Forms.Label
       Me.txbUCoordinate = New System.Windows.Forms.TextBox
-      Me.Label59 = New System.Windows.Forms.Label
-      Me.Label60 = New System.Windows.Forms.Label
-      Me.Label61 = New System.Windows.Forms.Label
-      Me.Label62 = New System.Windows.Forms.Label
-      Me.Label63 = New System.Windows.Forms.Label
-      Me.Label64 = New System.Windows.Forms.Label
-      Me.Label65 = New System.Windows.Forms.Label
-      Me.Label66 = New System.Windows.Forms.Label
-      Me.Label67 = New System.Windows.Forms.Label
-      Me.Label68 = New System.Windows.Forms.Label
+      Me.lblU_N5 = New System.Windows.Forms.Label
+      Me.lblU_N1 = New System.Windows.Forms.Label
+      Me.lblU_N05 = New System.Windows.Forms.Label
+      Me.lblU_N02 = New System.Windows.Forms.Label
+      Me.lblU_N01 = New System.Windows.Forms.Label
+      Me.lblU_P5 = New System.Windows.Forms.Label
+      Me.lblU_P1 = New System.Windows.Forms.Label
+      Me.lblU_P05 = New System.Windows.Forms.Label
+      Me.lblU_P02 = New System.Windows.Forms.Label
+      Me.lblU_P01 = New System.Windows.Forms.Label
       Me.GroupBox8 = New System.Windows.Forms.GroupBox
+      Me.lblZ_N100 = New System.Windows.Forms.Label
+      Me.lblZ_N25 = New System.Windows.Forms.Label
+      Me.lblZ_P100 = New System.Windows.Forms.Label
+      Me.lblZ_P25 = New System.Windows.Forms.Label
       Me.txbZCoordinate = New System.Windows.Forms.TextBox
-      Me.Label39 = New System.Windows.Forms.Label
-      Me.Label40 = New System.Windows.Forms.Label
-      Me.Label41 = New System.Windows.Forms.Label
-      Me.Label42 = New System.Windows.Forms.Label
-      Me.Label43 = New System.Windows.Forms.Label
-      Me.Label44 = New System.Windows.Forms.Label
-      Me.Label45 = New System.Windows.Forms.Label
-      Me.Label46 = New System.Windows.Forms.Label
-      Me.Label47 = New System.Windows.Forms.Label
-      Me.Label48 = New System.Windows.Forms.Label
+      Me.lblZ_N5 = New System.Windows.Forms.Label
+      Me.lblZ_N1 = New System.Windows.Forms.Label
+      Me.lblZ_N05 = New System.Windows.Forms.Label
+      Me.lblZ_N02 = New System.Windows.Forms.Label
+      Me.lblZ_N01 = New System.Windows.Forms.Label
+      Me.lblZ_P5 = New System.Windows.Forms.Label
+      Me.lblZ_P1 = New System.Windows.Forms.Label
+      Me.lblZ_P05 = New System.Windows.Forms.Label
+      Me.lblZ_P02 = New System.Windows.Forms.Label
+      Me.lblZ_P01 = New System.Windows.Forms.Label
       Me.GroupBox7 = New System.Windows.Forms.GroupBox
+      Me.lblY_N100 = New System.Windows.Forms.Label
+      Me.lblY_N25 = New System.Windows.Forms.Label
+      Me.lblY_P100 = New System.Windows.Forms.Label
+      Me.lblY_P25 = New System.Windows.Forms.Label
       Me.txbYCoordinate = New System.Windows.Forms.TextBox
-      Me.Label49 = New System.Windows.Forms.Label
-      Me.Label50 = New System.Windows.Forms.Label
-      Me.Label51 = New System.Windows.Forms.Label
-      Me.Label52 = New System.Windows.Forms.Label
-      Me.Label53 = New System.Windows.Forms.Label
-      Me.Label54 = New System.Windows.Forms.Label
-      Me.Label55 = New System.Windows.Forms.Label
-      Me.Label56 = New System.Windows.Forms.Label
-      Me.Label57 = New System.Windows.Forms.Label
-      Me.Label58 = New System.Windows.Forms.Label
+      Me.lblY_N5 = New System.Windows.Forms.Label
+      Me.lblY_N1 = New System.Windows.Forms.Label
+      Me.lblY_N05 = New System.Windows.Forms.Label
+      Me.lblY_N02 = New System.Windows.Forms.Label
+      Me.lblY_N01 = New System.Windows.Forms.Label
+      Me.lblY_P5 = New System.Windows.Forms.Label
+      Me.lblY_P1 = New System.Windows.Forms.Label
+      Me.lblY_P05 = New System.Windows.Forms.Label
+      Me.lblY_P02 = New System.Windows.Forms.Label
+      Me.lblY_P01 = New System.Windows.Forms.Label
       Me.GroupBox6 = New System.Windows.Forms.GroupBox
+      Me.lblX_P100 = New System.Windows.Forms.Label
+      Me.lblX_P25 = New System.Windows.Forms.Label
+      Me.lblX_N100 = New System.Windows.Forms.Label
+      Me.lblX_N25 = New System.Windows.Forms.Label
       Me.txbXCoordinate = New System.Windows.Forms.TextBox
       Me.lblX_N5 = New System.Windows.Forms.Label
       Me.lblX_N1 = New System.Windows.Forms.Label
@@ -155,26 +175,6 @@ Partial Class frmJkemDriverConfiguration
       Me.lblX_P05 = New System.Windows.Forms.Label
       Me.lblX_P02 = New System.Windows.Forms.Label
       Me.lblX_P01 = New System.Windows.Forms.Label
-      Me.lblX_N25 = New System.Windows.Forms.Label
-      Me.lblX_N100 = New System.Windows.Forms.Label
-      Me.lblX_P25 = New System.Windows.Forms.Label
-      Me.lblX_P100 = New System.Windows.Forms.Label
-      Me.Label69 = New System.Windows.Forms.Label
-      Me.Label70 = New System.Windows.Forms.Label
-      Me.Label71 = New System.Windows.Forms.Label
-      Me.Label72 = New System.Windows.Forms.Label
-      Me.Label73 = New System.Windows.Forms.Label
-      Me.Label74 = New System.Windows.Forms.Label
-      Me.Label75 = New System.Windows.Forms.Label
-      Me.Label76 = New System.Windows.Forms.Label
-      Me.Label77 = New System.Windows.Forms.Label
-      Me.Label78 = New System.Windows.Forms.Label
-      Me.Label79 = New System.Windows.Forms.Label
-      Me.Label80 = New System.Windows.Forms.Label
-      Me.Label81 = New System.Windows.Forms.Label
-      Me.Label82 = New System.Windows.Forms.Label
-      Me.Label83 = New System.Windows.Forms.Label
-      Me.Label84 = New System.Windows.Forms.Label
       Me.MenuStrip1.SuspendLayout()
       Me.GroupBox1.SuspendLayout()
       Me.GroupBox4.SuspendLayout()
@@ -574,7 +574,7 @@ Partial Class frmJkemDriverConfiguration
       Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.DataToolStripMenuItem})
       Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
       Me.MenuStrip1.Name = "MenuStrip1"
-      Me.MenuStrip1.Size = New System.Drawing.Size(1421, 24)
+      Me.MenuStrip1.Size = New System.Drawing.Size(1472, 24)
       Me.MenuStrip1.TabIndex = 45
       Me.MenuStrip1.Text = "MenuStrip1"
       '
@@ -1074,31 +1074,75 @@ Partial Class frmJkemDriverConfiguration
       Me.GroupBox5.Controls.Add(Me.GroupBox8)
       Me.GroupBox5.Controls.Add(Me.GroupBox7)
       Me.GroupBox5.Controls.Add(Me.GroupBox6)
-      Me.GroupBox5.Location = New System.Drawing.Point(818, 328)
+      Me.GroupBox5.Location = New System.Drawing.Point(857, 326)
       Me.GroupBox5.Name = "GroupBox5"
       Me.GroupBox5.Size = New System.Drawing.Size(595, 274)
       Me.GroupBox5.TabIndex = 57
       Me.GroupBox5.TabStop = False
-      Me.GroupBox5.Text = "Manual Move"
+      Me.GroupBox5.Text = "Epson Arm Motion"
+      '
+      'Label84
+      '
+      Me.Label84.AutoSize = True
+      Me.Label84.Font = New System.Drawing.Font("Microsoft Sans Serif", 24.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+      Me.Label84.ForeColor = System.Drawing.Color.Blue
+      Me.Label84.Location = New System.Drawing.Point(5, 219)
+      Me.Label84.Name = "Label84"
+      Me.Label84.Size = New System.Drawing.Size(41, 37)
+      Me.Label84.TabIndex = 18
+      Me.Label84.Text = "U"
+      '
+      'Label83
+      '
+      Me.Label83.AutoSize = True
+      Me.Label83.Font = New System.Drawing.Font("Microsoft Sans Serif", 24.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+      Me.Label83.ForeColor = System.Drawing.Color.Blue
+      Me.Label83.Location = New System.Drawing.Point(4, 159)
+      Me.Label83.Name = "Label83"
+      Me.Label83.Size = New System.Drawing.Size(38, 37)
+      Me.Label83.TabIndex = 17
+      Me.Label83.Text = "Z"
+      '
+      'Label82
+      '
+      Me.Label82.AutoSize = True
+      Me.Label82.Font = New System.Drawing.Font("Microsoft Sans Serif", 24.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+      Me.Label82.ForeColor = System.Drawing.Color.Blue
+      Me.Label82.Location = New System.Drawing.Point(4, 94)
+      Me.Label82.Name = "Label82"
+      Me.Label82.Size = New System.Drawing.Size(40, 37)
+      Me.Label82.TabIndex = 16
+      Me.Label82.Text = "Y"
+      '
+      'Label81
+      '
+      Me.Label81.AutoSize = True
+      Me.Label81.Font = New System.Drawing.Font("Microsoft Sans Serif", 24.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+      Me.Label81.ForeColor = System.Drawing.Color.Blue
+      Me.Label81.Location = New System.Drawing.Point(4, 34)
+      Me.Label81.Name = "Label81"
+      Me.Label81.Size = New System.Drawing.Size(39, 37)
+      Me.Label81.TabIndex = 15
+      Me.Label81.Text = "X"
       '
       'GroupBox9
       '
-      Me.GroupBox9.BackColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
-      Me.GroupBox9.Controls.Add(Me.Label79)
-      Me.GroupBox9.Controls.Add(Me.Label80)
-      Me.GroupBox9.Controls.Add(Me.Label73)
-      Me.GroupBox9.Controls.Add(Me.Label74)
+      Me.GroupBox9.BackColor = System.Drawing.Color.Black
+      Me.GroupBox9.Controls.Add(Me.lblU_P005)
+      Me.GroupBox9.Controls.Add(Me.lblU_N005)
+      Me.GroupBox9.Controls.Add(Me.lblU_N25)
+      Me.GroupBox9.Controls.Add(Me.lblU_P25)
       Me.GroupBox9.Controls.Add(Me.txbUCoordinate)
-      Me.GroupBox9.Controls.Add(Me.Label59)
-      Me.GroupBox9.Controls.Add(Me.Label60)
-      Me.GroupBox9.Controls.Add(Me.Label61)
-      Me.GroupBox9.Controls.Add(Me.Label62)
-      Me.GroupBox9.Controls.Add(Me.Label63)
-      Me.GroupBox9.Controls.Add(Me.Label64)
-      Me.GroupBox9.Controls.Add(Me.Label65)
-      Me.GroupBox9.Controls.Add(Me.Label66)
-      Me.GroupBox9.Controls.Add(Me.Label67)
-      Me.GroupBox9.Controls.Add(Me.Label68)
+      Me.GroupBox9.Controls.Add(Me.lblU_N5)
+      Me.GroupBox9.Controls.Add(Me.lblU_N1)
+      Me.GroupBox9.Controls.Add(Me.lblU_N05)
+      Me.GroupBox9.Controls.Add(Me.lblU_N02)
+      Me.GroupBox9.Controls.Add(Me.lblU_N01)
+      Me.GroupBox9.Controls.Add(Me.lblU_P5)
+      Me.GroupBox9.Controls.Add(Me.lblU_P1)
+      Me.GroupBox9.Controls.Add(Me.lblU_P05)
+      Me.GroupBox9.Controls.Add(Me.lblU_P02)
+      Me.GroupBox9.Controls.Add(Me.lblU_P01)
       Me.GroupBox9.ForeColor = System.Drawing.Color.Red
       Me.GroupBox9.Location = New System.Drawing.Point(50, 207)
       Me.GroupBox9.Name = "GroupBox9"
@@ -1106,6 +1150,50 @@ Partial Class frmJkemDriverConfiguration
       Me.GroupBox9.TabIndex = 14
       Me.GroupBox9.TabStop = False
       Me.GroupBox9.Text = "U"
+      '
+      'lblU_P005
+      '
+      Me.lblU_P005.AutoSize = True
+      Me.lblU_P005.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblU_P005.ForeColor = System.Drawing.Color.Lime
+      Me.lblU_P005.Location = New System.Drawing.Point(300, 24)
+      Me.lblU_P005.Name = "lblU_P005"
+      Me.lblU_P005.Size = New System.Drawing.Size(36, 15)
+      Me.lblU_P005.TabIndex = 21
+      Me.lblU_P005.Text = "+0.05"
+      '
+      'lblU_N005
+      '
+      Me.lblU_N005.AutoSize = True
+      Me.lblU_N005.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblU_N005.ForeColor = System.Drawing.Color.Red
+      Me.lblU_N005.Location = New System.Drawing.Point(195, 24)
+      Me.lblU_N005.Name = "lblU_N005"
+      Me.lblU_N005.Size = New System.Drawing.Size(33, 15)
+      Me.lblU_N005.TabIndex = 20
+      Me.lblU_N005.Text = "-0.05"
+      '
+      'lblU_N25
+      '
+      Me.lblU_N25.AutoSize = True
+      Me.lblU_N25.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblU_N25.ForeColor = System.Drawing.Color.Red
+      Me.lblU_N25.Location = New System.Drawing.Point(9, 25)
+      Me.lblU_N25.Name = "lblU_N25"
+      Me.lblU_N25.Size = New System.Drawing.Size(24, 15)
+      Me.lblU_N25.TabIndex = 19
+      Me.lblU_N25.Text = "-25"
+      '
+      'lblU_P25
+      '
+      Me.lblU_P25.AutoSize = True
+      Me.lblU_P25.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblU_P25.ForeColor = System.Drawing.Color.Lime
+      Me.lblU_P25.Location = New System.Drawing.Point(496, 24)
+      Me.lblU_P25.Name = "lblU_P25"
+      Me.lblU_P25.Size = New System.Drawing.Size(27, 15)
+      Me.lblU_P25.TabIndex = 17
+      Me.lblU_P25.Text = "+25"
       '
       'txbUCoordinate
       '
@@ -1115,134 +1203,134 @@ Partial Class frmJkemDriverConfiguration
       Me.txbUCoordinate.TabIndex = 12
       Me.txbUCoordinate.Text = "-899.999"
       '
-      'Label59
+      'lblU_N5
       '
-      Me.Label59.AutoSize = True
-      Me.Label59.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label59.ForeColor = System.Drawing.Color.Red
-      Me.Label59.Location = New System.Drawing.Point(78, 24)
-      Me.Label59.Name = "Label59"
-      Me.Label59.Size = New System.Drawing.Size(18, 15)
-      Me.Label59.TabIndex = 11
-      Me.Label59.Text = "-5"
+      Me.lblU_N5.AutoSize = True
+      Me.lblU_N5.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblU_N5.ForeColor = System.Drawing.Color.Red
+      Me.lblU_N5.Location = New System.Drawing.Point(42, 25)
+      Me.lblU_N5.Name = "lblU_N5"
+      Me.lblU_N5.Size = New System.Drawing.Size(18, 15)
+      Me.lblU_N5.TabIndex = 11
+      Me.lblU_N5.Text = "-5"
       '
-      'Label60
+      'lblU_N1
       '
-      Me.Label60.AutoSize = True
-      Me.Label60.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label60.ForeColor = System.Drawing.Color.Red
-      Me.Label60.Location = New System.Drawing.Point(103, 24)
-      Me.Label60.Name = "Label60"
-      Me.Label60.Size = New System.Drawing.Size(18, 15)
-      Me.Label60.TabIndex = 10
-      Me.Label60.Text = "-1"
+      Me.lblU_N1.AutoSize = True
+      Me.lblU_N1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblU_N1.ForeColor = System.Drawing.Color.Red
+      Me.lblU_N1.Location = New System.Drawing.Point(67, 25)
+      Me.lblU_N1.Name = "lblU_N1"
+      Me.lblU_N1.Size = New System.Drawing.Size(18, 15)
+      Me.lblU_N1.TabIndex = 10
+      Me.lblU_N1.Text = "-1"
       '
-      'Label61
+      'lblU_N05
       '
-      Me.Label61.AutoSize = True
-      Me.Label61.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label61.ForeColor = System.Drawing.Color.Red
-      Me.Label61.Location = New System.Drawing.Point(128, 24)
-      Me.Label61.Name = "Label61"
-      Me.Label61.Size = New System.Drawing.Size(27, 15)
-      Me.Label61.TabIndex = 9
-      Me.Label61.Text = "-0.5"
+      Me.lblU_N05.AutoSize = True
+      Me.lblU_N05.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblU_N05.ForeColor = System.Drawing.Color.Red
+      Me.lblU_N05.Location = New System.Drawing.Point(92, 25)
+      Me.lblU_N05.Name = "lblU_N05"
+      Me.lblU_N05.Size = New System.Drawing.Size(27, 15)
+      Me.lblU_N05.TabIndex = 9
+      Me.lblU_N05.Text = "-0.5"
       '
-      'Label62
+      'lblU_N02
       '
-      Me.Label62.AutoSize = True
-      Me.Label62.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label62.ForeColor = System.Drawing.Color.Red
-      Me.Label62.Location = New System.Drawing.Point(162, 24)
-      Me.Label62.Name = "Label62"
-      Me.Label62.Size = New System.Drawing.Size(27, 15)
-      Me.Label62.TabIndex = 8
-      Me.Label62.Text = "-0.2"
+      Me.lblU_N02.AutoSize = True
+      Me.lblU_N02.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblU_N02.ForeColor = System.Drawing.Color.Red
+      Me.lblU_N02.Location = New System.Drawing.Point(126, 25)
+      Me.lblU_N02.Name = "lblU_N02"
+      Me.lblU_N02.Size = New System.Drawing.Size(27, 15)
+      Me.lblU_N02.TabIndex = 8
+      Me.lblU_N02.Text = "-0.2"
       '
-      'Label63
+      'lblU_N01
       '
-      Me.Label63.AutoSize = True
-      Me.Label63.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label63.ForeColor = System.Drawing.Color.Red
-      Me.Label63.Location = New System.Drawing.Point(196, 24)
-      Me.Label63.Name = "Label63"
-      Me.Label63.Size = New System.Drawing.Size(27, 15)
-      Me.Label63.TabIndex = 7
-      Me.Label63.Text = "-0.1"
+      Me.lblU_N01.AutoSize = True
+      Me.lblU_N01.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblU_N01.ForeColor = System.Drawing.Color.Red
+      Me.lblU_N01.Location = New System.Drawing.Point(160, 25)
+      Me.lblU_N01.Name = "lblU_N01"
+      Me.lblU_N01.Size = New System.Drawing.Size(27, 15)
+      Me.lblU_N01.TabIndex = 7
+      Me.lblU_N01.Text = "-0.1"
       '
-      'Label64
+      'lblU_P5
       '
-      Me.Label64.AutoSize = True
-      Me.Label64.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label64.ForeColor = System.Drawing.Color.Lime
-      Me.Label64.Location = New System.Drawing.Point(429, 24)
-      Me.Label64.Name = "Label64"
-      Me.Label64.Size = New System.Drawing.Size(21, 15)
-      Me.Label64.TabIndex = 4
-      Me.Label64.Text = "+5"
+      Me.lblU_P5.AutoSize = True
+      Me.lblU_P5.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblU_P5.ForeColor = System.Drawing.Color.Lime
+      Me.lblU_P5.Location = New System.Drawing.Point(469, 24)
+      Me.lblU_P5.Name = "lblU_P5"
+      Me.lblU_P5.Size = New System.Drawing.Size(21, 15)
+      Me.lblU_P5.TabIndex = 4
+      Me.lblU_P5.Text = "+5"
       '
-      'Label65
+      'lblU_P1
       '
-      Me.Label65.AutoSize = True
-      Me.Label65.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label65.ForeColor = System.Drawing.Color.Lime
-      Me.Label65.Location = New System.Drawing.Point(404, 24)
-      Me.Label65.Name = "Label65"
-      Me.Label65.Size = New System.Drawing.Size(21, 15)
-      Me.Label65.TabIndex = 3
-      Me.Label65.Text = "+1"
+      Me.lblU_P1.AutoSize = True
+      Me.lblU_P1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblU_P1.ForeColor = System.Drawing.Color.Lime
+      Me.lblU_P1.Location = New System.Drawing.Point(444, 24)
+      Me.lblU_P1.Name = "lblU_P1"
+      Me.lblU_P1.Size = New System.Drawing.Size(21, 15)
+      Me.lblU_P1.TabIndex = 3
+      Me.lblU_P1.Text = "+1"
       '
-      'Label66
+      'lblU_P05
       '
-      Me.Label66.AutoSize = True
-      Me.Label66.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label66.ForeColor = System.Drawing.Color.Lime
-      Me.Label66.Location = New System.Drawing.Point(370, 24)
-      Me.Label66.Name = "Label66"
-      Me.Label66.Size = New System.Drawing.Size(30, 15)
-      Me.Label66.TabIndex = 2
-      Me.Label66.Text = "+0.5"
+      Me.lblU_P05.AutoSize = True
+      Me.lblU_P05.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblU_P05.ForeColor = System.Drawing.Color.Lime
+      Me.lblU_P05.Location = New System.Drawing.Point(410, 24)
+      Me.lblU_P05.Name = "lblU_P05"
+      Me.lblU_P05.Size = New System.Drawing.Size(30, 15)
+      Me.lblU_P05.TabIndex = 2
+      Me.lblU_P05.Text = "+0.5"
       '
-      'Label67
+      'lblU_P02
       '
-      Me.Label67.AutoSize = True
-      Me.Label67.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label67.ForeColor = System.Drawing.Color.Lime
-      Me.Label67.Location = New System.Drawing.Point(336, 24)
-      Me.Label67.Name = "Label67"
-      Me.Label67.Size = New System.Drawing.Size(30, 15)
-      Me.Label67.TabIndex = 1
-      Me.Label67.Text = "+0.2"
+      Me.lblU_P02.AutoSize = True
+      Me.lblU_P02.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblU_P02.ForeColor = System.Drawing.Color.Lime
+      Me.lblU_P02.Location = New System.Drawing.Point(376, 24)
+      Me.lblU_P02.Name = "lblU_P02"
+      Me.lblU_P02.Size = New System.Drawing.Size(30, 15)
+      Me.lblU_P02.TabIndex = 1
+      Me.lblU_P02.Text = "+0.2"
       '
-      'Label68
+      'lblU_P01
       '
-      Me.Label68.AutoSize = True
-      Me.Label68.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label68.ForeColor = System.Drawing.Color.Lime
-      Me.Label68.Location = New System.Drawing.Point(302, 24)
-      Me.Label68.Name = "Label68"
-      Me.Label68.Size = New System.Drawing.Size(30, 15)
-      Me.Label68.TabIndex = 0
-      Me.Label68.Text = "+0.1"
+      Me.lblU_P01.AutoSize = True
+      Me.lblU_P01.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblU_P01.ForeColor = System.Drawing.Color.Lime
+      Me.lblU_P01.Location = New System.Drawing.Point(342, 24)
+      Me.lblU_P01.Name = "lblU_P01"
+      Me.lblU_P01.Size = New System.Drawing.Size(30, 15)
+      Me.lblU_P01.TabIndex = 0
+      Me.lblU_P01.Text = "+0.1"
       '
       'GroupBox8
       '
-      Me.GroupBox8.BackColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
-      Me.GroupBox8.Controls.Add(Me.Label77)
-      Me.GroupBox8.Controls.Add(Me.Label78)
-      Me.GroupBox8.Controls.Add(Me.Label71)
-      Me.GroupBox8.Controls.Add(Me.Label72)
+      Me.GroupBox8.BackColor = System.Drawing.Color.Black
+      Me.GroupBox8.Controls.Add(Me.lblZ_N100)
+      Me.GroupBox8.Controls.Add(Me.lblZ_N25)
+      Me.GroupBox8.Controls.Add(Me.lblZ_P100)
+      Me.GroupBox8.Controls.Add(Me.lblZ_P25)
       Me.GroupBox8.Controls.Add(Me.txbZCoordinate)
-      Me.GroupBox8.Controls.Add(Me.Label39)
-      Me.GroupBox8.Controls.Add(Me.Label40)
-      Me.GroupBox8.Controls.Add(Me.Label41)
-      Me.GroupBox8.Controls.Add(Me.Label42)
-      Me.GroupBox8.Controls.Add(Me.Label43)
-      Me.GroupBox8.Controls.Add(Me.Label44)
-      Me.GroupBox8.Controls.Add(Me.Label45)
-      Me.GroupBox8.Controls.Add(Me.Label46)
-      Me.GroupBox8.Controls.Add(Me.Label47)
-      Me.GroupBox8.Controls.Add(Me.Label48)
+      Me.GroupBox8.Controls.Add(Me.lblZ_N5)
+      Me.GroupBox8.Controls.Add(Me.lblZ_N1)
+      Me.GroupBox8.Controls.Add(Me.lblZ_N05)
+      Me.GroupBox8.Controls.Add(Me.lblZ_N02)
+      Me.GroupBox8.Controls.Add(Me.lblZ_N01)
+      Me.GroupBox8.Controls.Add(Me.lblZ_P5)
+      Me.GroupBox8.Controls.Add(Me.lblZ_P1)
+      Me.GroupBox8.Controls.Add(Me.lblZ_P05)
+      Me.GroupBox8.Controls.Add(Me.lblZ_P02)
+      Me.GroupBox8.Controls.Add(Me.lblZ_P01)
       Me.GroupBox8.ForeColor = System.Drawing.Color.Red
       Me.GroupBox8.Location = New System.Drawing.Point(48, 147)
       Me.GroupBox8.Name = "GroupBox8"
@@ -1250,6 +1338,50 @@ Partial Class frmJkemDriverConfiguration
       Me.GroupBox8.TabIndex = 14
       Me.GroupBox8.TabStop = False
       Me.GroupBox8.Text = "Z"
+      '
+      'lblZ_N100
+      '
+      Me.lblZ_N100.AutoSize = True
+      Me.lblZ_N100.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblZ_N100.ForeColor = System.Drawing.Color.Red
+      Me.lblZ_N100.Location = New System.Drawing.Point(9, 25)
+      Me.lblZ_N100.Name = "lblZ_N100"
+      Me.lblZ_N100.Size = New System.Drawing.Size(30, 15)
+      Me.lblZ_N100.TabIndex = 22
+      Me.lblZ_N100.Text = "-100"
+      '
+      'lblZ_N25
+      '
+      Me.lblZ_N25.AutoSize = True
+      Me.lblZ_N25.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblZ_N25.ForeColor = System.Drawing.Color.Red
+      Me.lblZ_N25.Location = New System.Drawing.Point(47, 25)
+      Me.lblZ_N25.Name = "lblZ_N25"
+      Me.lblZ_N25.Size = New System.Drawing.Size(24, 15)
+      Me.lblZ_N25.TabIndex = 21
+      Me.lblZ_N25.Text = "-25"
+      '
+      'lblZ_P100
+      '
+      Me.lblZ_P100.AutoSize = True
+      Me.lblZ_P100.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblZ_P100.ForeColor = System.Drawing.Color.Lime
+      Me.lblZ_P100.Location = New System.Drawing.Point(490, 24)
+      Me.lblZ_P100.Name = "lblZ_P100"
+      Me.lblZ_P100.Size = New System.Drawing.Size(33, 15)
+      Me.lblZ_P100.TabIndex = 18
+      Me.lblZ_P100.Text = "+100"
+      '
+      'lblZ_P25
+      '
+      Me.lblZ_P25.AutoSize = True
+      Me.lblZ_P25.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblZ_P25.ForeColor = System.Drawing.Color.Lime
+      Me.lblZ_P25.Location = New System.Drawing.Point(457, 24)
+      Me.lblZ_P25.Name = "lblZ_P25"
+      Me.lblZ_P25.Size = New System.Drawing.Size(27, 15)
+      Me.lblZ_P25.TabIndex = 17
+      Me.lblZ_P25.Text = "+25"
       '
       'txbZCoordinate
       '
@@ -1259,134 +1391,134 @@ Partial Class frmJkemDriverConfiguration
       Me.txbZCoordinate.TabIndex = 12
       Me.txbZCoordinate.Text = "-899.999"
       '
-      'Label39
+      'lblZ_N5
       '
-      Me.Label39.AutoSize = True
-      Me.Label39.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label39.ForeColor = System.Drawing.Color.Red
-      Me.Label39.Location = New System.Drawing.Point(78, 24)
-      Me.Label39.Name = "Label39"
-      Me.Label39.Size = New System.Drawing.Size(18, 15)
-      Me.Label39.TabIndex = 11
-      Me.Label39.Text = "-5"
+      Me.lblZ_N5.AutoSize = True
+      Me.lblZ_N5.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblZ_N5.ForeColor = System.Drawing.Color.Red
+      Me.lblZ_N5.Location = New System.Drawing.Point(78, 24)
+      Me.lblZ_N5.Name = "lblZ_N5"
+      Me.lblZ_N5.Size = New System.Drawing.Size(18, 15)
+      Me.lblZ_N5.TabIndex = 11
+      Me.lblZ_N5.Text = "-5"
       '
-      'Label40
+      'lblZ_N1
       '
-      Me.Label40.AutoSize = True
-      Me.Label40.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label40.ForeColor = System.Drawing.Color.Red
-      Me.Label40.Location = New System.Drawing.Point(103, 24)
-      Me.Label40.Name = "Label40"
-      Me.Label40.Size = New System.Drawing.Size(18, 15)
-      Me.Label40.TabIndex = 10
-      Me.Label40.Text = "-1"
+      Me.lblZ_N1.AutoSize = True
+      Me.lblZ_N1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblZ_N1.ForeColor = System.Drawing.Color.Red
+      Me.lblZ_N1.Location = New System.Drawing.Point(103, 24)
+      Me.lblZ_N1.Name = "lblZ_N1"
+      Me.lblZ_N1.Size = New System.Drawing.Size(18, 15)
+      Me.lblZ_N1.TabIndex = 10
+      Me.lblZ_N1.Text = "-1"
       '
-      'Label41
+      'lblZ_N05
       '
-      Me.Label41.AutoSize = True
-      Me.Label41.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label41.ForeColor = System.Drawing.Color.Red
-      Me.Label41.Location = New System.Drawing.Point(128, 24)
-      Me.Label41.Name = "Label41"
-      Me.Label41.Size = New System.Drawing.Size(27, 15)
-      Me.Label41.TabIndex = 9
-      Me.Label41.Text = "-0.5"
+      Me.lblZ_N05.AutoSize = True
+      Me.lblZ_N05.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblZ_N05.ForeColor = System.Drawing.Color.Red
+      Me.lblZ_N05.Location = New System.Drawing.Point(128, 24)
+      Me.lblZ_N05.Name = "lblZ_N05"
+      Me.lblZ_N05.Size = New System.Drawing.Size(27, 15)
+      Me.lblZ_N05.TabIndex = 9
+      Me.lblZ_N05.Text = "-0.5"
       '
-      'Label42
+      'lblZ_N02
       '
-      Me.Label42.AutoSize = True
-      Me.Label42.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label42.ForeColor = System.Drawing.Color.Red
-      Me.Label42.Location = New System.Drawing.Point(162, 24)
-      Me.Label42.Name = "Label42"
-      Me.Label42.Size = New System.Drawing.Size(27, 15)
-      Me.Label42.TabIndex = 8
-      Me.Label42.Text = "-0.2"
+      Me.lblZ_N02.AutoSize = True
+      Me.lblZ_N02.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblZ_N02.ForeColor = System.Drawing.Color.Red
+      Me.lblZ_N02.Location = New System.Drawing.Point(162, 24)
+      Me.lblZ_N02.Name = "lblZ_N02"
+      Me.lblZ_N02.Size = New System.Drawing.Size(27, 15)
+      Me.lblZ_N02.TabIndex = 8
+      Me.lblZ_N02.Text = "-0.2"
       '
-      'Label43
+      'lblZ_N01
       '
-      Me.Label43.AutoSize = True
-      Me.Label43.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label43.ForeColor = System.Drawing.Color.Red
-      Me.Label43.Location = New System.Drawing.Point(196, 24)
-      Me.Label43.Name = "Label43"
-      Me.Label43.Size = New System.Drawing.Size(27, 15)
-      Me.Label43.TabIndex = 7
-      Me.Label43.Text = "-0.1"
+      Me.lblZ_N01.AutoSize = True
+      Me.lblZ_N01.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblZ_N01.ForeColor = System.Drawing.Color.Red
+      Me.lblZ_N01.Location = New System.Drawing.Point(196, 24)
+      Me.lblZ_N01.Name = "lblZ_N01"
+      Me.lblZ_N01.Size = New System.Drawing.Size(27, 15)
+      Me.lblZ_N01.TabIndex = 7
+      Me.lblZ_N01.Text = "-0.1"
       '
-      'Label44
+      'lblZ_P5
       '
-      Me.Label44.AutoSize = True
-      Me.Label44.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label44.ForeColor = System.Drawing.Color.Lime
-      Me.Label44.Location = New System.Drawing.Point(429, 24)
-      Me.Label44.Name = "Label44"
-      Me.Label44.Size = New System.Drawing.Size(21, 15)
-      Me.Label44.TabIndex = 4
-      Me.Label44.Text = "+5"
+      Me.lblZ_P5.AutoSize = True
+      Me.lblZ_P5.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblZ_P5.ForeColor = System.Drawing.Color.Lime
+      Me.lblZ_P5.Location = New System.Drawing.Point(429, 24)
+      Me.lblZ_P5.Name = "lblZ_P5"
+      Me.lblZ_P5.Size = New System.Drawing.Size(21, 15)
+      Me.lblZ_P5.TabIndex = 4
+      Me.lblZ_P5.Text = "+5"
       '
-      'Label45
+      'lblZ_P1
       '
-      Me.Label45.AutoSize = True
-      Me.Label45.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label45.ForeColor = System.Drawing.Color.Lime
-      Me.Label45.Location = New System.Drawing.Point(404, 24)
-      Me.Label45.Name = "Label45"
-      Me.Label45.Size = New System.Drawing.Size(21, 15)
-      Me.Label45.TabIndex = 3
-      Me.Label45.Text = "+1"
+      Me.lblZ_P1.AutoSize = True
+      Me.lblZ_P1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblZ_P1.ForeColor = System.Drawing.Color.Lime
+      Me.lblZ_P1.Location = New System.Drawing.Point(404, 24)
+      Me.lblZ_P1.Name = "lblZ_P1"
+      Me.lblZ_P1.Size = New System.Drawing.Size(21, 15)
+      Me.lblZ_P1.TabIndex = 3
+      Me.lblZ_P1.Text = "+1"
       '
-      'Label46
+      'lblZ_P05
       '
-      Me.Label46.AutoSize = True
-      Me.Label46.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label46.ForeColor = System.Drawing.Color.Lime
-      Me.Label46.Location = New System.Drawing.Point(370, 24)
-      Me.Label46.Name = "Label46"
-      Me.Label46.Size = New System.Drawing.Size(30, 15)
-      Me.Label46.TabIndex = 2
-      Me.Label46.Text = "+0.5"
+      Me.lblZ_P05.AutoSize = True
+      Me.lblZ_P05.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblZ_P05.ForeColor = System.Drawing.Color.Lime
+      Me.lblZ_P05.Location = New System.Drawing.Point(370, 24)
+      Me.lblZ_P05.Name = "lblZ_P05"
+      Me.lblZ_P05.Size = New System.Drawing.Size(30, 15)
+      Me.lblZ_P05.TabIndex = 2
+      Me.lblZ_P05.Text = "+0.5"
       '
-      'Label47
+      'lblZ_P02
       '
-      Me.Label47.AutoSize = True
-      Me.Label47.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label47.ForeColor = System.Drawing.Color.Lime
-      Me.Label47.Location = New System.Drawing.Point(336, 24)
-      Me.Label47.Name = "Label47"
-      Me.Label47.Size = New System.Drawing.Size(30, 15)
-      Me.Label47.TabIndex = 1
-      Me.Label47.Text = "+0.2"
+      Me.lblZ_P02.AutoSize = True
+      Me.lblZ_P02.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblZ_P02.ForeColor = System.Drawing.Color.Lime
+      Me.lblZ_P02.Location = New System.Drawing.Point(336, 24)
+      Me.lblZ_P02.Name = "lblZ_P02"
+      Me.lblZ_P02.Size = New System.Drawing.Size(30, 15)
+      Me.lblZ_P02.TabIndex = 1
+      Me.lblZ_P02.Text = "+0.2"
       '
-      'Label48
+      'lblZ_P01
       '
-      Me.Label48.AutoSize = True
-      Me.Label48.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label48.ForeColor = System.Drawing.Color.Lime
-      Me.Label48.Location = New System.Drawing.Point(302, 24)
-      Me.Label48.Name = "Label48"
-      Me.Label48.Size = New System.Drawing.Size(30, 15)
-      Me.Label48.TabIndex = 0
-      Me.Label48.Text = "+0.1"
+      Me.lblZ_P01.AutoSize = True
+      Me.lblZ_P01.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblZ_P01.ForeColor = System.Drawing.Color.Lime
+      Me.lblZ_P01.Location = New System.Drawing.Point(302, 24)
+      Me.lblZ_P01.Name = "lblZ_P01"
+      Me.lblZ_P01.Size = New System.Drawing.Size(30, 15)
+      Me.lblZ_P01.TabIndex = 0
+      Me.lblZ_P01.Text = "+0.1"
       '
       'GroupBox7
       '
-      Me.GroupBox7.BackColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
-      Me.GroupBox7.Controls.Add(Me.Label75)
-      Me.GroupBox7.Controls.Add(Me.Label76)
-      Me.GroupBox7.Controls.Add(Me.Label69)
-      Me.GroupBox7.Controls.Add(Me.Label70)
+      Me.GroupBox7.BackColor = System.Drawing.Color.Black
+      Me.GroupBox7.Controls.Add(Me.lblY_N100)
+      Me.GroupBox7.Controls.Add(Me.lblY_N25)
+      Me.GroupBox7.Controls.Add(Me.lblY_P100)
+      Me.GroupBox7.Controls.Add(Me.lblY_P25)
       Me.GroupBox7.Controls.Add(Me.txbYCoordinate)
-      Me.GroupBox7.Controls.Add(Me.Label49)
-      Me.GroupBox7.Controls.Add(Me.Label50)
-      Me.GroupBox7.Controls.Add(Me.Label51)
-      Me.GroupBox7.Controls.Add(Me.Label52)
-      Me.GroupBox7.Controls.Add(Me.Label53)
-      Me.GroupBox7.Controls.Add(Me.Label54)
-      Me.GroupBox7.Controls.Add(Me.Label55)
-      Me.GroupBox7.Controls.Add(Me.Label56)
-      Me.GroupBox7.Controls.Add(Me.Label57)
-      Me.GroupBox7.Controls.Add(Me.Label58)
+      Me.GroupBox7.Controls.Add(Me.lblY_N5)
+      Me.GroupBox7.Controls.Add(Me.lblY_N1)
+      Me.GroupBox7.Controls.Add(Me.lblY_N05)
+      Me.GroupBox7.Controls.Add(Me.lblY_N02)
+      Me.GroupBox7.Controls.Add(Me.lblY_N01)
+      Me.GroupBox7.Controls.Add(Me.lblY_P5)
+      Me.GroupBox7.Controls.Add(Me.lblY_P1)
+      Me.GroupBox7.Controls.Add(Me.lblY_P05)
+      Me.GroupBox7.Controls.Add(Me.lblY_P02)
+      Me.GroupBox7.Controls.Add(Me.lblY_P01)
       Me.GroupBox7.ForeColor = System.Drawing.Color.Red
       Me.GroupBox7.Location = New System.Drawing.Point(48, 85)
       Me.GroupBox7.Name = "GroupBox7"
@@ -1394,6 +1526,50 @@ Partial Class frmJkemDriverConfiguration
       Me.GroupBox7.TabIndex = 13
       Me.GroupBox7.TabStop = False
       Me.GroupBox7.Text = "Y"
+      '
+      'lblY_N100
+      '
+      Me.lblY_N100.AutoSize = True
+      Me.lblY_N100.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblY_N100.ForeColor = System.Drawing.Color.Red
+      Me.lblY_N100.Location = New System.Drawing.Point(9, 22)
+      Me.lblY_N100.Name = "lblY_N100"
+      Me.lblY_N100.Size = New System.Drawing.Size(30, 15)
+      Me.lblY_N100.TabIndex = 20
+      Me.lblY_N100.Text = "-100"
+      '
+      'lblY_N25
+      '
+      Me.lblY_N25.AutoSize = True
+      Me.lblY_N25.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblY_N25.ForeColor = System.Drawing.Color.Red
+      Me.lblY_N25.Location = New System.Drawing.Point(47, 22)
+      Me.lblY_N25.Name = "lblY_N25"
+      Me.lblY_N25.Size = New System.Drawing.Size(24, 15)
+      Me.lblY_N25.TabIndex = 19
+      Me.lblY_N25.Text = "-25"
+      '
+      'lblY_P100
+      '
+      Me.lblY_P100.AutoSize = True
+      Me.lblY_P100.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblY_P100.ForeColor = System.Drawing.Color.Lime
+      Me.lblY_P100.Location = New System.Drawing.Point(492, 23)
+      Me.lblY_P100.Name = "lblY_P100"
+      Me.lblY_P100.Size = New System.Drawing.Size(33, 15)
+      Me.lblY_P100.TabIndex = 18
+      Me.lblY_P100.Text = "+100"
+      '
+      'lblY_P25
+      '
+      Me.lblY_P25.AutoSize = True
+      Me.lblY_P25.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblY_P25.ForeColor = System.Drawing.Color.Lime
+      Me.lblY_P25.Location = New System.Drawing.Point(459, 23)
+      Me.lblY_P25.Name = "lblY_P25"
+      Me.lblY_P25.Size = New System.Drawing.Size(27, 15)
+      Me.lblY_P25.TabIndex = 17
+      Me.lblY_P25.Text = "+25"
       '
       'txbYCoordinate
       '
@@ -1403,119 +1579,119 @@ Partial Class frmJkemDriverConfiguration
       Me.txbYCoordinate.TabIndex = 12
       Me.txbYCoordinate.Text = "-899.999"
       '
-      'Label49
+      'lblY_N5
       '
-      Me.Label49.AutoSize = True
-      Me.Label49.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label49.ForeColor = System.Drawing.Color.Red
-      Me.Label49.Location = New System.Drawing.Point(79, 23)
-      Me.Label49.Name = "Label49"
-      Me.Label49.Size = New System.Drawing.Size(18, 15)
-      Me.Label49.TabIndex = 11
-      Me.Label49.Text = "-5"
+      Me.lblY_N5.AutoSize = True
+      Me.lblY_N5.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblY_N5.ForeColor = System.Drawing.Color.Red
+      Me.lblY_N5.Location = New System.Drawing.Point(79, 23)
+      Me.lblY_N5.Name = "lblY_N5"
+      Me.lblY_N5.Size = New System.Drawing.Size(18, 15)
+      Me.lblY_N5.TabIndex = 11
+      Me.lblY_N5.Text = "-5"
       '
-      'Label50
+      'lblY_N1
       '
-      Me.Label50.AutoSize = True
-      Me.Label50.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label50.ForeColor = System.Drawing.Color.Red
-      Me.Label50.Location = New System.Drawing.Point(104, 23)
-      Me.Label50.Name = "Label50"
-      Me.Label50.Size = New System.Drawing.Size(18, 15)
-      Me.Label50.TabIndex = 10
-      Me.Label50.Text = "-1"
+      Me.lblY_N1.AutoSize = True
+      Me.lblY_N1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblY_N1.ForeColor = System.Drawing.Color.Red
+      Me.lblY_N1.Location = New System.Drawing.Point(104, 23)
+      Me.lblY_N1.Name = "lblY_N1"
+      Me.lblY_N1.Size = New System.Drawing.Size(18, 15)
+      Me.lblY_N1.TabIndex = 10
+      Me.lblY_N1.Text = "-1"
       '
-      'Label51
+      'lblY_N05
       '
-      Me.Label51.AutoSize = True
-      Me.Label51.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label51.ForeColor = System.Drawing.Color.Red
-      Me.Label51.Location = New System.Drawing.Point(129, 23)
-      Me.Label51.Name = "Label51"
-      Me.Label51.Size = New System.Drawing.Size(27, 15)
-      Me.Label51.TabIndex = 9
-      Me.Label51.Text = "-0.5"
+      Me.lblY_N05.AutoSize = True
+      Me.lblY_N05.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblY_N05.ForeColor = System.Drawing.Color.Red
+      Me.lblY_N05.Location = New System.Drawing.Point(129, 23)
+      Me.lblY_N05.Name = "lblY_N05"
+      Me.lblY_N05.Size = New System.Drawing.Size(27, 15)
+      Me.lblY_N05.TabIndex = 9
+      Me.lblY_N05.Text = "-0.5"
       '
-      'Label52
+      'lblY_N02
       '
-      Me.Label52.AutoSize = True
-      Me.Label52.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label52.ForeColor = System.Drawing.Color.Red
-      Me.Label52.Location = New System.Drawing.Point(163, 23)
-      Me.Label52.Name = "Label52"
-      Me.Label52.Size = New System.Drawing.Size(27, 15)
-      Me.Label52.TabIndex = 8
-      Me.Label52.Text = "-0.2"
+      Me.lblY_N02.AutoSize = True
+      Me.lblY_N02.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblY_N02.ForeColor = System.Drawing.Color.Red
+      Me.lblY_N02.Location = New System.Drawing.Point(163, 23)
+      Me.lblY_N02.Name = "lblY_N02"
+      Me.lblY_N02.Size = New System.Drawing.Size(27, 15)
+      Me.lblY_N02.TabIndex = 8
+      Me.lblY_N02.Text = "-0.2"
       '
-      'Label53
+      'lblY_N01
       '
-      Me.Label53.AutoSize = True
-      Me.Label53.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label53.ForeColor = System.Drawing.Color.Red
-      Me.Label53.Location = New System.Drawing.Point(197, 23)
-      Me.Label53.Name = "Label53"
-      Me.Label53.Size = New System.Drawing.Size(27, 15)
-      Me.Label53.TabIndex = 7
-      Me.Label53.Text = "-0.1"
+      Me.lblY_N01.AutoSize = True
+      Me.lblY_N01.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblY_N01.ForeColor = System.Drawing.Color.Red
+      Me.lblY_N01.Location = New System.Drawing.Point(197, 23)
+      Me.lblY_N01.Name = "lblY_N01"
+      Me.lblY_N01.Size = New System.Drawing.Size(27, 15)
+      Me.lblY_N01.TabIndex = 7
+      Me.lblY_N01.Text = "-0.1"
       '
-      'Label54
+      'lblY_P5
       '
-      Me.Label54.AutoSize = True
-      Me.Label54.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label54.ForeColor = System.Drawing.Color.Lime
-      Me.Label54.Location = New System.Drawing.Point(430, 23)
-      Me.Label54.Name = "Label54"
-      Me.Label54.Size = New System.Drawing.Size(21, 15)
-      Me.Label54.TabIndex = 4
-      Me.Label54.Text = "+5"
+      Me.lblY_P5.AutoSize = True
+      Me.lblY_P5.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblY_P5.ForeColor = System.Drawing.Color.Lime
+      Me.lblY_P5.Location = New System.Drawing.Point(430, 23)
+      Me.lblY_P5.Name = "lblY_P5"
+      Me.lblY_P5.Size = New System.Drawing.Size(21, 15)
+      Me.lblY_P5.TabIndex = 4
+      Me.lblY_P5.Text = "+5"
       '
-      'Label55
+      'lblY_P1
       '
-      Me.Label55.AutoSize = True
-      Me.Label55.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label55.ForeColor = System.Drawing.Color.Lime
-      Me.Label55.Location = New System.Drawing.Point(405, 23)
-      Me.Label55.Name = "Label55"
-      Me.Label55.Size = New System.Drawing.Size(21, 15)
-      Me.Label55.TabIndex = 3
-      Me.Label55.Text = "+1"
+      Me.lblY_P1.AutoSize = True
+      Me.lblY_P1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblY_P1.ForeColor = System.Drawing.Color.Lime
+      Me.lblY_P1.Location = New System.Drawing.Point(405, 23)
+      Me.lblY_P1.Name = "lblY_P1"
+      Me.lblY_P1.Size = New System.Drawing.Size(21, 15)
+      Me.lblY_P1.TabIndex = 3
+      Me.lblY_P1.Text = "+1"
       '
-      'Label56
+      'lblY_P05
       '
-      Me.Label56.AutoSize = True
-      Me.Label56.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label56.ForeColor = System.Drawing.Color.Lime
-      Me.Label56.Location = New System.Drawing.Point(371, 23)
-      Me.Label56.Name = "Label56"
-      Me.Label56.Size = New System.Drawing.Size(30, 15)
-      Me.Label56.TabIndex = 2
-      Me.Label56.Text = "+0.5"
+      Me.lblY_P05.AutoSize = True
+      Me.lblY_P05.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblY_P05.ForeColor = System.Drawing.Color.Lime
+      Me.lblY_P05.Location = New System.Drawing.Point(371, 23)
+      Me.lblY_P05.Name = "lblY_P05"
+      Me.lblY_P05.Size = New System.Drawing.Size(30, 15)
+      Me.lblY_P05.TabIndex = 2
+      Me.lblY_P05.Text = "+0.5"
       '
-      'Label57
+      'lblY_P02
       '
-      Me.Label57.AutoSize = True
-      Me.Label57.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label57.ForeColor = System.Drawing.Color.Lime
-      Me.Label57.Location = New System.Drawing.Point(337, 23)
-      Me.Label57.Name = "Label57"
-      Me.Label57.Size = New System.Drawing.Size(30, 15)
-      Me.Label57.TabIndex = 1
-      Me.Label57.Text = "+0.2"
+      Me.lblY_P02.AutoSize = True
+      Me.lblY_P02.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblY_P02.ForeColor = System.Drawing.Color.Lime
+      Me.lblY_P02.Location = New System.Drawing.Point(337, 23)
+      Me.lblY_P02.Name = "lblY_P02"
+      Me.lblY_P02.Size = New System.Drawing.Size(30, 15)
+      Me.lblY_P02.TabIndex = 1
+      Me.lblY_P02.Text = "+0.2"
       '
-      'Label58
+      'lblY_P01
       '
-      Me.Label58.AutoSize = True
-      Me.Label58.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label58.ForeColor = System.Drawing.Color.Lime
-      Me.Label58.Location = New System.Drawing.Point(303, 23)
-      Me.Label58.Name = "Label58"
-      Me.Label58.Size = New System.Drawing.Size(30, 15)
-      Me.Label58.TabIndex = 0
-      Me.Label58.Text = "+0.1"
+      Me.lblY_P01.AutoSize = True
+      Me.lblY_P01.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblY_P01.ForeColor = System.Drawing.Color.Lime
+      Me.lblY_P01.Location = New System.Drawing.Point(303, 23)
+      Me.lblY_P01.Name = "lblY_P01"
+      Me.lblY_P01.Size = New System.Drawing.Size(30, 15)
+      Me.lblY_P01.TabIndex = 0
+      Me.lblY_P01.Text = "+0.1"
       '
       'GroupBox6
       '
-      Me.GroupBox6.BackColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
+      Me.GroupBox6.BackColor = System.Drawing.Color.Black
       Me.GroupBox6.Controls.Add(Me.lblX_P100)
       Me.GroupBox6.Controls.Add(Me.lblX_P25)
       Me.GroupBox6.Controls.Add(Me.lblX_N100)
@@ -1538,6 +1714,50 @@ Partial Class frmJkemDriverConfiguration
       Me.GroupBox6.TabIndex = 0
       Me.GroupBox6.TabStop = False
       Me.GroupBox6.Text = "X"
+      '
+      'lblX_P100
+      '
+      Me.lblX_P100.AutoSize = True
+      Me.lblX_P100.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblX_P100.ForeColor = System.Drawing.Color.Lime
+      Me.lblX_P100.Location = New System.Drawing.Point(491, 23)
+      Me.lblX_P100.Name = "lblX_P100"
+      Me.lblX_P100.Size = New System.Drawing.Size(33, 15)
+      Me.lblX_P100.TabIndex = 16
+      Me.lblX_P100.Text = "+100"
+      '
+      'lblX_P25
+      '
+      Me.lblX_P25.AutoSize = True
+      Me.lblX_P25.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblX_P25.ForeColor = System.Drawing.Color.Lime
+      Me.lblX_P25.Location = New System.Drawing.Point(458, 23)
+      Me.lblX_P25.Name = "lblX_P25"
+      Me.lblX_P25.Size = New System.Drawing.Size(27, 15)
+      Me.lblX_P25.TabIndex = 15
+      Me.lblX_P25.Text = "+25"
+      '
+      'lblX_N100
+      '
+      Me.lblX_N100.AutoSize = True
+      Me.lblX_N100.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblX_N100.ForeColor = System.Drawing.Color.Red
+      Me.lblX_N100.Location = New System.Drawing.Point(10, 23)
+      Me.lblX_N100.Name = "lblX_N100"
+      Me.lblX_N100.Size = New System.Drawing.Size(30, 15)
+      Me.lblX_N100.TabIndex = 14
+      Me.lblX_N100.Text = "-100"
+      '
+      'lblX_N25
+      '
+      Me.lblX_N25.AutoSize = True
+      Me.lblX_N25.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.lblX_N25.ForeColor = System.Drawing.Color.Red
+      Me.lblX_N25.Location = New System.Drawing.Point(48, 23)
+      Me.lblX_N25.Name = "lblX_N25"
+      Me.lblX_N25.Size = New System.Drawing.Size(24, 15)
+      Me.lblX_N25.TabIndex = 13
+      Me.lblX_N25.Text = "-25"
       '
       'txbXCoordinate
       '
@@ -1657,231 +1877,11 @@ Partial Class frmJkemDriverConfiguration
       Me.lblX_P01.TabIndex = 0
       Me.lblX_P01.Text = "+0.1"
       '
-      'lblX_N25
-      '
-      Me.lblX_N25.AutoSize = True
-      Me.lblX_N25.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.lblX_N25.ForeColor = System.Drawing.Color.Red
-      Me.lblX_N25.Location = New System.Drawing.Point(48, 23)
-      Me.lblX_N25.Name = "lblX_N25"
-      Me.lblX_N25.Size = New System.Drawing.Size(24, 15)
-      Me.lblX_N25.TabIndex = 13
-      Me.lblX_N25.Text = "-25"
-      '
-      'lblX_N100
-      '
-      Me.lblX_N100.AutoSize = True
-      Me.lblX_N100.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.lblX_N100.ForeColor = System.Drawing.Color.Red
-      Me.lblX_N100.Location = New System.Drawing.Point(10, 23)
-      Me.lblX_N100.Name = "lblX_N100"
-      Me.lblX_N100.Size = New System.Drawing.Size(30, 15)
-      Me.lblX_N100.TabIndex = 14
-      Me.lblX_N100.Text = "-100"
-      '
-      'lblX_P25
-      '
-      Me.lblX_P25.AutoSize = True
-      Me.lblX_P25.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.lblX_P25.ForeColor = System.Drawing.Color.Lime
-      Me.lblX_P25.Location = New System.Drawing.Point(458, 23)
-      Me.lblX_P25.Name = "lblX_P25"
-      Me.lblX_P25.Size = New System.Drawing.Size(27, 15)
-      Me.lblX_P25.TabIndex = 15
-      Me.lblX_P25.Text = "+25"
-      '
-      'lblX_P100
-      '
-      Me.lblX_P100.AutoSize = True
-      Me.lblX_P100.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.lblX_P100.ForeColor = System.Drawing.Color.Lime
-      Me.lblX_P100.Location = New System.Drawing.Point(491, 23)
-      Me.lblX_P100.Name = "lblX_P100"
-      Me.lblX_P100.Size = New System.Drawing.Size(33, 15)
-      Me.lblX_P100.TabIndex = 16
-      Me.lblX_P100.Text = "+100"
-      '
-      'Label69
-      '
-      Me.Label69.AutoSize = True
-      Me.Label69.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label69.ForeColor = System.Drawing.Color.Lime
-      Me.Label69.Location = New System.Drawing.Point(492, 23)
-      Me.Label69.Name = "Label69"
-      Me.Label69.Size = New System.Drawing.Size(33, 15)
-      Me.Label69.TabIndex = 18
-      Me.Label69.Text = "+100"
-      '
-      'Label70
-      '
-      Me.Label70.AutoSize = True
-      Me.Label70.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label70.ForeColor = System.Drawing.Color.Lime
-      Me.Label70.Location = New System.Drawing.Point(459, 23)
-      Me.Label70.Name = "Label70"
-      Me.Label70.Size = New System.Drawing.Size(27, 15)
-      Me.Label70.TabIndex = 17
-      Me.Label70.Text = "+25"
-      '
-      'Label71
-      '
-      Me.Label71.AutoSize = True
-      Me.Label71.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label71.ForeColor = System.Drawing.Color.Lime
-      Me.Label71.Location = New System.Drawing.Point(490, 24)
-      Me.Label71.Name = "Label71"
-      Me.Label71.Size = New System.Drawing.Size(33, 15)
-      Me.Label71.TabIndex = 18
-      Me.Label71.Text = "+100"
-      '
-      'Label72
-      '
-      Me.Label72.AutoSize = True
-      Me.Label72.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label72.ForeColor = System.Drawing.Color.Lime
-      Me.Label72.Location = New System.Drawing.Point(457, 24)
-      Me.Label72.Name = "Label72"
-      Me.Label72.Size = New System.Drawing.Size(27, 15)
-      Me.Label72.TabIndex = 17
-      Me.Label72.Text = "+25"
-      '
-      'Label73
-      '
-      Me.Label73.AutoSize = True
-      Me.Label73.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label73.ForeColor = System.Drawing.Color.Lime
-      Me.Label73.Location = New System.Drawing.Point(489, 24)
-      Me.Label73.Name = "Label73"
-      Me.Label73.Size = New System.Drawing.Size(33, 15)
-      Me.Label73.TabIndex = 18
-      Me.Label73.Text = "+100"
-      '
-      'Label74
-      '
-      Me.Label74.AutoSize = True
-      Me.Label74.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label74.ForeColor = System.Drawing.Color.Lime
-      Me.Label74.Location = New System.Drawing.Point(456, 24)
-      Me.Label74.Name = "Label74"
-      Me.Label74.Size = New System.Drawing.Size(27, 15)
-      Me.Label74.TabIndex = 17
-      Me.Label74.Text = "+25"
-      '
-      'Label75
-      '
-      Me.Label75.AutoSize = True
-      Me.Label75.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label75.ForeColor = System.Drawing.Color.Red
-      Me.Label75.Location = New System.Drawing.Point(9, 22)
-      Me.Label75.Name = "Label75"
-      Me.Label75.Size = New System.Drawing.Size(30, 15)
-      Me.Label75.TabIndex = 20
-      Me.Label75.Text = "-100"
-      '
-      'Label76
-      '
-      Me.Label76.AutoSize = True
-      Me.Label76.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label76.ForeColor = System.Drawing.Color.Red
-      Me.Label76.Location = New System.Drawing.Point(47, 22)
-      Me.Label76.Name = "Label76"
-      Me.Label76.Size = New System.Drawing.Size(24, 15)
-      Me.Label76.TabIndex = 19
-      Me.Label76.Text = "-25"
-      '
-      'Label77
-      '
-      Me.Label77.AutoSize = True
-      Me.Label77.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label77.ForeColor = System.Drawing.Color.Red
-      Me.Label77.Location = New System.Drawing.Point(9, 25)
-      Me.Label77.Name = "Label77"
-      Me.Label77.Size = New System.Drawing.Size(30, 15)
-      Me.Label77.TabIndex = 22
-      Me.Label77.Text = "-100"
-      '
-      'Label78
-      '
-      Me.Label78.AutoSize = True
-      Me.Label78.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label78.ForeColor = System.Drawing.Color.Red
-      Me.Label78.Location = New System.Drawing.Point(47, 25)
-      Me.Label78.Name = "Label78"
-      Me.Label78.Size = New System.Drawing.Size(24, 15)
-      Me.Label78.TabIndex = 21
-      Me.Label78.Text = "-25"
-      '
-      'Label79
-      '
-      Me.Label79.AutoSize = True
-      Me.Label79.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label79.ForeColor = System.Drawing.Color.Red
-      Me.Label79.Location = New System.Drawing.Point(7, 23)
-      Me.Label79.Name = "Label79"
-      Me.Label79.Size = New System.Drawing.Size(30, 15)
-      Me.Label79.TabIndex = 20
-      Me.Label79.Text = "-100"
-      '
-      'Label80
-      '
-      Me.Label80.AutoSize = True
-      Me.Label80.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-      Me.Label80.ForeColor = System.Drawing.Color.Red
-      Me.Label80.Location = New System.Drawing.Point(45, 23)
-      Me.Label80.Name = "Label80"
-      Me.Label80.Size = New System.Drawing.Size(24, 15)
-      Me.Label80.TabIndex = 19
-      Me.Label80.Text = "-25"
-      '
-      'Label81
-      '
-      Me.Label81.AutoSize = True
-      Me.Label81.Font = New System.Drawing.Font("Microsoft Sans Serif", 24.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-      Me.Label81.ForeColor = System.Drawing.Color.Blue
-      Me.Label81.Location = New System.Drawing.Point(4, 34)
-      Me.Label81.Name = "Label81"
-      Me.Label81.Size = New System.Drawing.Size(39, 37)
-      Me.Label81.TabIndex = 15
-      Me.Label81.Text = "X"
-      '
-      'Label82
-      '
-      Me.Label82.AutoSize = True
-      Me.Label82.Font = New System.Drawing.Font("Microsoft Sans Serif", 24.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-      Me.Label82.ForeColor = System.Drawing.Color.Blue
-      Me.Label82.Location = New System.Drawing.Point(4, 94)
-      Me.Label82.Name = "Label82"
-      Me.Label82.Size = New System.Drawing.Size(40, 37)
-      Me.Label82.TabIndex = 16
-      Me.Label82.Text = "Y"
-      '
-      'Label83
-      '
-      Me.Label83.AutoSize = True
-      Me.Label83.Font = New System.Drawing.Font("Microsoft Sans Serif", 24.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-      Me.Label83.ForeColor = System.Drawing.Color.Blue
-      Me.Label83.Location = New System.Drawing.Point(4, 159)
-      Me.Label83.Name = "Label83"
-      Me.Label83.Size = New System.Drawing.Size(38, 37)
-      Me.Label83.TabIndex = 17
-      Me.Label83.Text = "Z"
-      '
-      'Label84
-      '
-      Me.Label84.AutoSize = True
-      Me.Label84.Font = New System.Drawing.Font("Microsoft Sans Serif", 24.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-      Me.Label84.ForeColor = System.Drawing.Color.Blue
-      Me.Label84.Location = New System.Drawing.Point(5, 219)
-      Me.Label84.Name = "Label84"
-      Me.Label84.Size = New System.Drawing.Size(41, 37)
-      Me.Label84.TabIndex = 18
-      Me.Label84.Text = "U"
-      '
       'frmJkemDriverConfiguration
       '
       Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
       Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-      Me.ClientSize = New System.Drawing.Size(1421, 642)
+      Me.ClientSize = New System.Drawing.Size(1472, 642)
       Me.Controls.Add(Me.GroupBox5)
       Me.Controls.Add(Me.gbxMotorDriver)
       Me.Controls.Add(Me.GroupBox3)
@@ -2016,47 +2016,46 @@ Partial Class frmJkemDriverConfiguration
    Friend WithEvents lblX_P5 As System.Windows.Forms.Label
    Friend WithEvents GroupBox7 As System.Windows.Forms.GroupBox
    Friend WithEvents txbYCoordinate As System.Windows.Forms.TextBox
-   Friend WithEvents Label49 As System.Windows.Forms.Label
-   Friend WithEvents Label50 As System.Windows.Forms.Label
-   Friend WithEvents Label51 As System.Windows.Forms.Label
-   Friend WithEvents Label52 As System.Windows.Forms.Label
-   Friend WithEvents Label53 As System.Windows.Forms.Label
-   Friend WithEvents Label54 As System.Windows.Forms.Label
-   Friend WithEvents Label55 As System.Windows.Forms.Label
-   Friend WithEvents Label56 As System.Windows.Forms.Label
-   Friend WithEvents Label57 As System.Windows.Forms.Label
-   Friend WithEvents Label58 As System.Windows.Forms.Label
+   Friend WithEvents lblY_N5 As System.Windows.Forms.Label
+   Friend WithEvents lblY_N1 As System.Windows.Forms.Label
+   Friend WithEvents lblY_N05 As System.Windows.Forms.Label
+   Friend WithEvents lblY_N02 As System.Windows.Forms.Label
+   Friend WithEvents lblY_N01 As System.Windows.Forms.Label
+   Friend WithEvents lblY_P5 As System.Windows.Forms.Label
+   Friend WithEvents lblY_P1 As System.Windows.Forms.Label
+   Friend WithEvents lblY_P05 As System.Windows.Forms.Label
+   Friend WithEvents lblY_P02 As System.Windows.Forms.Label
+   Friend WithEvents lblY_P01 As System.Windows.Forms.Label
    Friend WithEvents txbXCoordinate As System.Windows.Forms.TextBox
    Friend WithEvents GroupBox9 As System.Windows.Forms.GroupBox
    Friend WithEvents txbUCoordinate As System.Windows.Forms.TextBox
-   Friend WithEvents Label59 As System.Windows.Forms.Label
-   Friend WithEvents Label60 As System.Windows.Forms.Label
-   Friend WithEvents Label61 As System.Windows.Forms.Label
-   Friend WithEvents Label62 As System.Windows.Forms.Label
-   Friend WithEvents Label63 As System.Windows.Forms.Label
-   Friend WithEvents Label64 As System.Windows.Forms.Label
-   Friend WithEvents Label65 As System.Windows.Forms.Label
-   Friend WithEvents Label66 As System.Windows.Forms.Label
-   Friend WithEvents Label67 As System.Windows.Forms.Label
-   Friend WithEvents Label68 As System.Windows.Forms.Label
+   Friend WithEvents lblU_N5 As System.Windows.Forms.Label
+   Friend WithEvents lblU_N1 As System.Windows.Forms.Label
+   Friend WithEvents lblU_N05 As System.Windows.Forms.Label
+   Friend WithEvents lblU_N02 As System.Windows.Forms.Label
+   Friend WithEvents lblU_N01 As System.Windows.Forms.Label
+   Friend WithEvents lblU_P5 As System.Windows.Forms.Label
+   Friend WithEvents lblU_P1 As System.Windows.Forms.Label
+   Friend WithEvents lblU_P05 As System.Windows.Forms.Label
+   Friend WithEvents lblU_P02 As System.Windows.Forms.Label
+   Friend WithEvents lblU_P01 As System.Windows.Forms.Label
    Friend WithEvents GroupBox8 As System.Windows.Forms.GroupBox
    Friend WithEvents txbZCoordinate As System.Windows.Forms.TextBox
-   Friend WithEvents Label39 As System.Windows.Forms.Label
-   Friend WithEvents Label40 As System.Windows.Forms.Label
-   Friend WithEvents Label41 As System.Windows.Forms.Label
-   Friend WithEvents Label42 As System.Windows.Forms.Label
-   Friend WithEvents Label43 As System.Windows.Forms.Label
-   Friend WithEvents Label44 As System.Windows.Forms.Label
-   Friend WithEvents Label45 As System.Windows.Forms.Label
-   Friend WithEvents Label46 As System.Windows.Forms.Label
-   Friend WithEvents Label47 As System.Windows.Forms.Label
-   Friend WithEvents Label48 As System.Windows.Forms.Label
-   Friend WithEvents Label73 As System.Windows.Forms.Label
-   Friend WithEvents Label74 As System.Windows.Forms.Label
-   Friend WithEvents Label71 As System.Windows.Forms.Label
-   Friend WithEvents Label72 As System.Windows.Forms.Label
-   Friend WithEvents Label69 As System.Windows.Forms.Label
-   Friend WithEvents Label70 As System.Windows.Forms.Label
+   Friend WithEvents lblZ_N5 As System.Windows.Forms.Label
+   Friend WithEvents lblZ_N1 As System.Windows.Forms.Label
+   Friend WithEvents lblZ_N05 As System.Windows.Forms.Label
+   Friend WithEvents lblZ_N02 As System.Windows.Forms.Label
+   Friend WithEvents lblZ_N01 As System.Windows.Forms.Label
+   Friend WithEvents lblZ_P5 As System.Windows.Forms.Label
+   Friend WithEvents lblZ_P1 As System.Windows.Forms.Label
+   Friend WithEvents lblZ_P05 As System.Windows.Forms.Label
+   Friend WithEvents lblZ_P02 As System.Windows.Forms.Label
+   Friend WithEvents lblZ_P01 As System.Windows.Forms.Label
+   Friend WithEvents lblU_P25 As System.Windows.Forms.Label
+   Friend WithEvents lblZ_P100 As System.Windows.Forms.Label
+   Friend WithEvents lblZ_P25 As System.Windows.Forms.Label
+   Friend WithEvents lblY_P100 As System.Windows.Forms.Label
+   Friend WithEvents lblY_P25 As System.Windows.Forms.Label
    Friend WithEvents lblX_P100 As System.Windows.Forms.Label
    Friend WithEvents lblX_P25 As System.Windows.Forms.Label
    Friend WithEvents lblX_N100 As System.Windows.Forms.Label
@@ -2065,10 +2064,11 @@ Partial Class frmJkemDriverConfiguration
    Friend WithEvents Label83 As System.Windows.Forms.Label
    Friend WithEvents Label82 As System.Windows.Forms.Label
    Friend WithEvents Label81 As System.Windows.Forms.Label
-   Friend WithEvents Label79 As System.Windows.Forms.Label
-   Friend WithEvents Label80 As System.Windows.Forms.Label
-   Friend WithEvents Label77 As System.Windows.Forms.Label
-   Friend WithEvents Label78 As System.Windows.Forms.Label
-   Friend WithEvents Label75 As System.Windows.Forms.Label
-   Friend WithEvents Label76 As System.Windows.Forms.Label
+   Friend WithEvents lblU_N25 As System.Windows.Forms.Label
+   Friend WithEvents lblZ_N100 As System.Windows.Forms.Label
+   Friend WithEvents lblZ_N25 As System.Windows.Forms.Label
+   Friend WithEvents lblY_N100 As System.Windows.Forms.Label
+   Friend WithEvents lblY_N25 As System.Windows.Forms.Label
+   Friend WithEvents lblU_P005 As System.Windows.Forms.Label
+   Friend WithEvents lblU_N005 As System.Windows.Forms.Label
 End Class
