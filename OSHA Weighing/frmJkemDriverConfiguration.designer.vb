@@ -106,6 +106,20 @@ Partial Class frmJkemDriverConfiguration
       Me.txbCommand = New System.Windows.Forms.TextBox
       Me.Label38 = New System.Windows.Forms.Label
       Me.gbxMotorDriver = New System.Windows.Forms.GroupBox
+      Me.GroupBox5 = New System.Windows.Forms.GroupBox
+      Me.GroupBox6 = New System.Windows.Forms.GroupBox
+      Me.Label39 = New System.Windows.Forms.Label
+      Me.Label40 = New System.Windows.Forms.Label
+      Me.Label41 = New System.Windows.Forms.Label
+      Me.Label42 = New System.Windows.Forms.Label
+      Me.Label43 = New System.Windows.Forms.Label
+      Me.Button1 = New System.Windows.Forms.Button
+      Me.Button2 = New System.Windows.Forms.Button
+      Me.Label44 = New System.Windows.Forms.Label
+      Me.Label45 = New System.Windows.Forms.Label
+      Me.Label46 = New System.Windows.Forms.Label
+      Me.Label47 = New System.Windows.Forms.Label
+      Me.Label48 = New System.Windows.Forms.Label
       Me.MenuStrip1.SuspendLayout()
       Me.GroupBox1.SuspendLayout()
       Me.GroupBox4.SuspendLayout()
@@ -113,6 +127,8 @@ Partial Class frmJkemDriverConfiguration
       Me.GroupBox2.SuspendLayout()
       Me.GroupBox3.SuspendLayout()
       Me.gbxMotorDriver.SuspendLayout()
+      Me.GroupBox5.SuspendLayout()
+      Me.GroupBox6.SuspendLayout()
       Me.SuspendLayout()
       '
       'Label2
@@ -500,7 +516,7 @@ Partial Class frmJkemDriverConfiguration
       Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.DataToolStripMenuItem})
       Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
       Me.MenuStrip1.Name = "MenuStrip1"
-      Me.MenuStrip1.Size = New System.Drawing.Size(1126, 24)
+      Me.MenuStrip1.Size = New System.Drawing.Size(1421, 24)
       Me.MenuStrip1.TabIndex = 45
       Me.MenuStrip1.Text = "MenuStrip1"
       '
@@ -515,24 +531,24 @@ Partial Class frmJkemDriverConfiguration
       '
       Me.mnuSave.Enabled = False
       Me.mnuSave.Name = "mnuSave"
-      Me.mnuSave.Size = New System.Drawing.Size(239, 22)
+      Me.mnuSave.Size = New System.Drawing.Size(240, 22)
       Me.mnuSave.Text = "Save Data to Motor"
       '
       'ToolStripSeparator1
       '
       Me.ToolStripSeparator1.Name = "ToolStripSeparator1"
-      Me.ToolStripSeparator1.Size = New System.Drawing.Size(236, 6)
+      Me.ToolStripSeparator1.Size = New System.Drawing.Size(237, 6)
       '
       'mnuUnlock
       '
       Me.mnuUnlock.Name = "mnuUnlock"
-      Me.mnuUnlock.Size = New System.Drawing.Size(239, 22)
+      Me.mnuUnlock.Size = New System.Drawing.Size(240, 22)
       Me.mnuUnlock.Text = "Unlock Motor Driver Group Box"
       '
       'mnuExit
       '
       Me.mnuExit.Name = "mnuExit"
-      Me.mnuExit.Size = New System.Drawing.Size(239, 22)
+      Me.mnuExit.Size = New System.Drawing.Size(240, 22)
       Me.mnuExit.Text = "Exit"
       '
       'txbGroupAddress
@@ -989,11 +1005,175 @@ Partial Class frmJkemDriverConfiguration
       Me.gbxMotorDriver.TabStop = False
       Me.gbxMotorDriver.Text = "Carousel Motor Driver Configuration"
       '
+      'GroupBox5
+      '
+      Me.GroupBox5.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
+      Me.GroupBox5.Controls.Add(Me.GroupBox6)
+      Me.GroupBox5.Location = New System.Drawing.Point(881, 338)
+      Me.GroupBox5.Name = "GroupBox5"
+      Me.GroupBox5.Size = New System.Drawing.Size(501, 266)
+      Me.GroupBox5.TabIndex = 57
+      Me.GroupBox5.TabStop = False
+      Me.GroupBox5.Text = "Manual Move"
+      '
+      'GroupBox6
+      '
+      Me.GroupBox6.BackColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
+      Me.GroupBox6.Controls.Add(Me.Label44)
+      Me.GroupBox6.Controls.Add(Me.Label45)
+      Me.GroupBox6.Controls.Add(Me.Label46)
+      Me.GroupBox6.Controls.Add(Me.Label47)
+      Me.GroupBox6.Controls.Add(Me.Label48)
+      Me.GroupBox6.Controls.Add(Me.Button2)
+      Me.GroupBox6.Controls.Add(Me.Button1)
+      Me.GroupBox6.Controls.Add(Me.Label43)
+      Me.GroupBox6.Controls.Add(Me.Label42)
+      Me.GroupBox6.Controls.Add(Me.Label41)
+      Me.GroupBox6.Controls.Add(Me.Label40)
+      Me.GroupBox6.Controls.Add(Me.Label39)
+      Me.GroupBox6.Location = New System.Drawing.Point(15, 22)
+      Me.GroupBox6.Name = "GroupBox6"
+      Me.GroupBox6.Size = New System.Drawing.Size(464, 118)
+      Me.GroupBox6.TabIndex = 0
+      Me.GroupBox6.TabStop = False
+      Me.GroupBox6.Text = "X"
+      '
+      'Label39
+      '
+      Me.Label39.AutoSize = True
+      Me.Label39.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.Label39.ForeColor = System.Drawing.Color.Lime
+      Me.Label39.Location = New System.Drawing.Point(257, 25)
+      Me.Label39.Name = "Label39"
+      Me.Label39.Size = New System.Drawing.Size(30, 15)
+      Me.Label39.TabIndex = 0
+      Me.Label39.Text = "+0.1"
+      '
+      'Label40
+      '
+      Me.Label40.AutoSize = True
+      Me.Label40.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.Label40.ForeColor = System.Drawing.Color.Lime
+      Me.Label40.Location = New System.Drawing.Point(291, 25)
+      Me.Label40.Name = "Label40"
+      Me.Label40.Size = New System.Drawing.Size(30, 15)
+      Me.Label40.TabIndex = 1
+      Me.Label40.Text = "+0.2"
+      '
+      'Label41
+      '
+      Me.Label41.AutoSize = True
+      Me.Label41.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.Label41.ForeColor = System.Drawing.Color.Lime
+      Me.Label41.Location = New System.Drawing.Point(325, 25)
+      Me.Label41.Name = "Label41"
+      Me.Label41.Size = New System.Drawing.Size(30, 15)
+      Me.Label41.TabIndex = 2
+      Me.Label41.Text = "+0.5"
+      '
+      'Label42
+      '
+      Me.Label42.AutoSize = True
+      Me.Label42.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.Label42.ForeColor = System.Drawing.Color.Lime
+      Me.Label42.Location = New System.Drawing.Point(359, 25)
+      Me.Label42.Name = "Label42"
+      Me.Label42.Size = New System.Drawing.Size(21, 15)
+      Me.Label42.TabIndex = 3
+      Me.Label42.Text = "+1"
+      '
+      'Label43
+      '
+      Me.Label43.AutoSize = True
+      Me.Label43.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.Label43.ForeColor = System.Drawing.Color.Lime
+      Me.Label43.Location = New System.Drawing.Point(384, 25)
+      Me.Label43.Name = "Label43"
+      Me.Label43.Size = New System.Drawing.Size(21, 15)
+      Me.Label43.TabIndex = 4
+      Me.Label43.Text = "+5"
+      '
+      'Button1
+      '
+      Me.Button1.BackColor = System.Drawing.Color.Lime
+      Me.Button1.Location = New System.Drawing.Point(409, 19)
+      Me.Button1.Name = "Button1"
+      Me.Button1.Size = New System.Drawing.Size(40, 24)
+      Me.Button1.TabIndex = 5
+      Me.Button1.Text = "+++"
+      Me.Button1.UseVisualStyleBackColor = False
+      '
+      'Button2
+      '
+      Me.Button2.BackColor = System.Drawing.Color.Lime
+      Me.Button2.Location = New System.Drawing.Point(20, 19)
+      Me.Button2.Name = "Button2"
+      Me.Button2.Size = New System.Drawing.Size(40, 24)
+      Me.Button2.TabIndex = 6
+      Me.Button2.Text = "+++"
+      Me.Button2.UseVisualStyleBackColor = False
+      '
+      'Label44
+      '
+      Me.Label44.AutoSize = True
+      Me.Label44.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.Label44.ForeColor = System.Drawing.Color.Lime
+      Me.Label44.Location = New System.Drawing.Point(66, 25)
+      Me.Label44.Name = "Label44"
+      Me.Label44.Size = New System.Drawing.Size(21, 15)
+      Me.Label44.TabIndex = 11
+      Me.Label44.Text = "+5"
+      '
+      'Label45
+      '
+      Me.Label45.AutoSize = True
+      Me.Label45.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.Label45.ForeColor = System.Drawing.Color.Lime
+      Me.Label45.Location = New System.Drawing.Point(91, 25)
+      Me.Label45.Name = "Label45"
+      Me.Label45.Size = New System.Drawing.Size(21, 15)
+      Me.Label45.TabIndex = 10
+      Me.Label45.Text = "+1"
+      '
+      'Label46
+      '
+      Me.Label46.AutoSize = True
+      Me.Label46.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.Label46.ForeColor = System.Drawing.Color.Lime
+      Me.Label46.Location = New System.Drawing.Point(116, 25)
+      Me.Label46.Name = "Label46"
+      Me.Label46.Size = New System.Drawing.Size(30, 15)
+      Me.Label46.TabIndex = 9
+      Me.Label46.Text = "+0.5"
+      '
+      'Label47
+      '
+      Me.Label47.AutoSize = True
+      Me.Label47.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.Label47.ForeColor = System.Drawing.Color.Lime
+      Me.Label47.Location = New System.Drawing.Point(150, 25)
+      Me.Label47.Name = "Label47"
+      Me.Label47.Size = New System.Drawing.Size(30, 15)
+      Me.Label47.TabIndex = 8
+      Me.Label47.Text = "+0.2"
+      '
+      'Label48
+      '
+      Me.Label48.AutoSize = True
+      Me.Label48.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+      Me.Label48.ForeColor = System.Drawing.Color.Lime
+      Me.Label48.Location = New System.Drawing.Point(184, 25)
+      Me.Label48.Name = "Label48"
+      Me.Label48.Size = New System.Drawing.Size(30, 15)
+      Me.Label48.TabIndex = 7
+      Me.Label48.Text = "+0.1"
+      '
       'frmJkemDriverConfiguration
       '
       Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
       Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-      Me.ClientSize = New System.Drawing.Size(1126, 642)
+      Me.ClientSize = New System.Drawing.Size(1421, 642)
+      Me.Controls.Add(Me.GroupBox5)
       Me.Controls.Add(Me.gbxMotorDriver)
       Me.Controls.Add(Me.GroupBox3)
       Me.Controls.Add(Me.GroupBox2)
@@ -1015,6 +1195,9 @@ Partial Class frmJkemDriverConfiguration
       Me.GroupBox3.PerformLayout()
       Me.gbxMotorDriver.ResumeLayout(False)
       Me.gbxMotorDriver.PerformLayout()
+      Me.GroupBox5.ResumeLayout(False)
+      Me.GroupBox6.ResumeLayout(False)
+      Me.GroupBox6.PerformLayout()
       Me.ResumeLayout(False)
       Me.PerformLayout()
 
@@ -1103,4 +1286,18 @@ Partial Class frmJkemDriverConfiguration
    Friend WithEvents btnRack3 As System.Windows.Forms.Button
    Friend WithEvents btnRack2 As System.Windows.Forms.Button
    Friend WithEvents btnRack1 As System.Windows.Forms.Button
+   Friend WithEvents GroupBox5 As System.Windows.Forms.GroupBox
+   Friend WithEvents GroupBox6 As System.Windows.Forms.GroupBox
+   Friend WithEvents Label42 As System.Windows.Forms.Label
+   Friend WithEvents Label41 As System.Windows.Forms.Label
+   Friend WithEvents Label40 As System.Windows.Forms.Label
+   Friend WithEvents Label39 As System.Windows.Forms.Label
+   Friend WithEvents Label44 As System.Windows.Forms.Label
+   Friend WithEvents Label45 As System.Windows.Forms.Label
+   Friend WithEvents Label46 As System.Windows.Forms.Label
+   Friend WithEvents Label47 As System.Windows.Forms.Label
+   Friend WithEvents Label48 As System.Windows.Forms.Label
+   Friend WithEvents Button2 As System.Windows.Forms.Button
+   Friend WithEvents Button1 As System.Windows.Forms.Button
+   Friend WithEvents Label43 As System.Windows.Forms.Label
 End Class

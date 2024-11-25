@@ -5,7 +5,7 @@ Module Epson
    Public Class EpsonArm
       Public WithEvents Spel As SpelNetLib.Spel
       Private MoveComplete As Boolean
-      Private EpsonTestMode As Boolean = True
+      Private EpsonTestMode As Boolean = False
       Private EmergencyStopIsActive As Boolean
       Private RequestedPosition As Point4D
       Public Position As Point4D    'Current arm position

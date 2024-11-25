@@ -411,7 +411,8 @@ Public Module ModuleDefinitions
             'the starting location of the filter.
             FilterLocated = False
             For Pass = 1 To 12
-               If ADC > (AirADC - 25) Then 'The ADC reading drops by about 100 counts when you are 2mm over the filter edge
+               If ADC > (AirADC - 9) Then 'The ADC reading drops by about 100 counts when you are 2mm over the filter edge
+                  'Get filter when ADC drops 9.  6_22_2020
                   MyPoint = ThisOven.MoveIn(MyPoint, 0.5)
                   Arm.GoToPoint(MyPoint)
                   ADC = Gripper.ReadSensorAverage
@@ -1501,8 +1502,9 @@ Public Module ModuleDefinitions
             'the starting location of the filter.
             FilterLocated = False
             For Pass = 1 To 8
-               If ADC > (AirADC - 25) Then 'The ADC reading drops by about 90-100 counts when you are 2mm over the filter edge.  2013.
+               If ADC > (AirADC - 9) Then 'The ADC reading drops by about 90-100 counts when you are 2mm over the filter edge.  2013.
                   'The ADC needs to drop by about 25.  4_2016
+                  'ADC needs to drop by 10. 6_22_2020
                   MyPoint = MoveIn(rack, MyPoint, 0.5)
                   Arm.GoToPoint(MyPoint)
                   ADC = Gripper.ReadSensorAverage
@@ -1563,9 +1565,9 @@ Public Module ModuleDefinitions
             Arm.GoToPoint(MyPoint)
             MyPoint = GetFilterLocation(rack, cell)
             MyPoint.Z += 6.5
-            MyPoint = Me.MoveIn(rack, MyPoint, 2.0)
+            MyPoint = Me.MoveIn(rack, MyPoint, 2.5)
             Arm.GoToPoint(MyPoint)
-            MyPoint.Z -= 4.0
+            MyPoint.Z -= 2.0 '4.0
             Arm.GoToPoint(MyPoint)
             Gripper.Open()
             MyPoint.Z -= 2.0
@@ -1596,12 +1598,12 @@ Public Module ModuleDefinitions
             MyPoint = MoveOut(rack, MyPoint, 12.0)
             MyPoint.Z -= 4.0
             Arm.GoToPoint(MyPoint)
-            MyPoint = MoveIn(rack, MyPoint, 5.0)
+            MyPoint = MoveIn(rack, MyPoint, 4.5)
             Arm.GoToPoint(MyPoint)
-            MyPoint = MoveOut(rack, MyPoint, 5.0)
+            MyPoint = MoveOut(rack, MyPoint, 4.5)
             MyPoint.Z -= 3.0
             Arm.GoToPoint(MyPoint)
-            MyPoint = MoveIn(rack, MyPoint, 5.0)
+            MyPoint = MoveIn(rack, MyPoint, 4.5)
             Arm.GoToPoint(MyPoint)
 
             MyPoint = GetFilterLocation(rack, cell)
