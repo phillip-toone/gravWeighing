@@ -5,7 +5,7 @@ Module Epson
    Public Class EpsonArm
       Public WithEvents Spel As SpelNetLib.Spel
       Private MoveComplete As Boolean
-      Private EpsonTestMode As Boolean = False
+      Private EpsonTestMode As Boolean = True
       Private EmergencyStopIsActive As Boolean
       Private RequestedPosition As Point4D
       Public Position As Point4D    'Current arm position
@@ -46,7 +46,7 @@ Module Epson
          Dim Status As Boolean
 
          If EpsonTestMode = False Then
-            If Spel.Version = "5.4.7" Then
+            If Spel.Version.Contains("5.4.7") Then
                Status = True
             Else
                Status = False

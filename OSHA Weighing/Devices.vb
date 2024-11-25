@@ -65,8 +65,8 @@ Module Devices
       Carosel.RackOrigin(1).OriginX = 25250
       Carosel.RackOrigin(1).DeltaX = 979.143  'Column 8 position is 32104
       Carosel.RackOrigin(2).OriginX = 33124
-      Carosel.RackOrigin(2).DeltaX = 980.0  'Column 7 position is 39004.  The top right coordinate is on column 7, not 8
-      Carosel.RackOrigin(2).SpecialCoordinateRack2 = 528
+      Carosel.RackOrigin(2).DeltaX = 976.67  'Column 7 position is 38984.  The top right coordinate is on column 7, not 8
+      Carosel.RackOrigin(2).SpecialCoordinateRack2 = 508
       Carosel.RackOrigin(3).OriginX = 1570
       Carosel.RackOrigin(3).DeltaX = 979.714  'Column 8 position is 8428
       Carosel.RackOrigin(4).OriginX = 9460
@@ -104,24 +104,24 @@ Module Devices
 
       'Rack 2
       'Top Left Filter
-      Carosel.RackLoc(1, 0).X = -714.43
-      Carosel.RackLoc(1, 0).Y = -375.02
-      Carosel.RackLoc(1, 0).Z = -127.4
-      Carosel.RackLoc(1, 0).U = 273.628
+      Carosel.RackLoc(1, 0).X = -711.697
+      Carosel.RackLoc(1, 0).Y = -378.663
+      Carosel.RackLoc(1, 0).Z = -127.552
+      Carosel.RackLoc(1, 0).U = 272.289
       Carosel.RackLoc(1, 0).InsertX = -0.8493
       Carosel.RackLoc(1, 0).InsertY = -0.5279
       'Top Right Filter of column 7, not column 8 like all the others.  NOTE - This is column 7
-      Carosel.RackLoc(1, 1).X = -714.53
-      Carosel.RackLoc(1, 1).Y = -375.52
-      Carosel.RackLoc(1, 1).Z = -126.9
-      Carosel.RackLoc(1, 1).U = 273.628
+      Carosel.RackLoc(1, 1).X = -712.879
+      Carosel.RackLoc(1, 1).Y = -377.763
+      Carosel.RackLoc(1, 1).Z = -126.808
+      Carosel.RackLoc(1, 1).U = 272.389
       Carosel.RackLoc(1, 1).InsertX = -0.8493
       Carosel.RackLoc(1, 1).InsertY = -0.5279
       'Bottom Left Filter
-      Carosel.RackLoc(1, 2).X = -714.63
-      Carosel.RackLoc(1, 2).Y = -373.62
-      Carosel.RackLoc(1, 2).Z = -354.365
-      Carosel.RackLoc(1, 2).U = 273.628
+      Carosel.RackLoc(1, 2).X = -713.48
+      Carosel.RackLoc(1, 2).Y = -377.16
+      Carosel.RackLoc(1, 2).Z = -354.045
+      Carosel.RackLoc(1, 2).U = 272.289
       Carosel.RackLoc(1, 2).InsertX = -0.8493
       Carosel.RackLoc(1, 2).InsertY = -0.5279
 
@@ -204,7 +204,7 @@ Module Devices
       'The balance has a single location.  It is the position to place the filter at on the pan.
       Balance.Location.X = -593.817
       Balance.Location.Y = -352.0 'When the XP6 was in place, this coordinate was -351.571
-      Balance.Location.Z = -399.606
+      Balance.Location.Z = -399.2
       Balance.Location.U = 330.472
 
       'The location to hold the filter in the deionizer

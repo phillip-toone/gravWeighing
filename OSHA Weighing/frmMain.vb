@@ -94,7 +94,7 @@ End Structure
 
 Public Class frmMain
    Public BaseFilePath As String = "C:\J-KEM Data Files\"
-   Public BaseInfoPath As String = GetFolderPath(SpecialFolder.CommonApplicationData) & "\JKEM\Data"
+   Public BaseInfoPath As String = GetFolderPath(SpecialFolder.MyDocuments) & "\J-KEM Scientific\Data"
    Public AbortRequested As Boolean
    Dim CommStatus(8) As Boolean
    Public TestMode As Boolean
@@ -116,6 +116,7 @@ Public Class frmMain
       TestMode = False
 
       CreateDataFileFolders(BaseInfoPath)
+      CreateDataFileFolders(BaseFilePath)
       If TestMode = True Then
          If MessageBox.Show("Program is set to Test Mode.   Do you want to continue to run in test mode?", "Test Mode Setting", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button2) = Windows.Forms.DialogResult.Yes Then
             ModuleDefMessages.InTestMode = True
@@ -161,7 +162,7 @@ Public Class frmMain
       Dim Data() As String
 
       Try
-         Data = FileIO.ReadTextFile(BaseInfoPath & "PortData.txt").Split(Chr(44))
+         Data = FileIO.ReadTextFile(BaseInfoPath & "\PortData.txt").Split(Chr(44))
          Oven1Port.PortName = Data(0)
          Oven2Port.PortName = Data(1)
          Oven3Port.PortName = Data(2)
@@ -195,7 +196,7 @@ Public Class frmMain
       Data += BarCodePort.PortName & ","
       Data += BalancePort.PortName & ","
       Try
-         FileIO.WriteTextFile(BaseInfoPath & "PortData.txt", Data)
+         FileIO.WriteTextFile(BaseInfoPath & "\PortData.txt", Data)
       Catch ex As Exception
       End Try
    End Sub
@@ -282,7 +283,7 @@ Public Class frmMain
       Dim Data() As String
 
       Try
-         Data = FileIO.ReadTextFile(BaseFilePath & "SpecialSettings.txt").Split(Chr(44))
+         Data = FileIO.ReadTextFile(BaseInfoPath & "\SpecialSettings.txt").Split(Chr(44))
          If Data(0) = "True" Then
             Oven1.IsCloseDoorSensorInOverride = True
             MessageBox.Show("The close door sensor for oven 1 is disabled.  It is not recommended that you continue this run in this state.  Exit the program and replace the door sensor.", "Replace Door Sensor", MessageBoxButtons.OK, MessageBoxIcon.Exclamation, MessageBoxDefaultButton.Button1)
@@ -325,7 +326,8 @@ Public Class frmMain
          End If
       Catch ex As Exception
          If TestMode = False Then
-            MessageBox.Show("An error occured in sub LoadSpecialSettings()", "Settings Error", MessageBoxButtons.OK, MessageBoxIcon.Hand, MessageBoxDefaultButton.Button1)
+            MessageBox.Show("An error occured in sub LoadSpecialSettings().   Default values will be loaded.", "Settings Error", MessageBoxButtons.OK, MessageBoxIcon.Hand, MessageBoxDefaultButton.Button1)
+            SaveSpecialSettings()
          End If
       End Try
    End Sub
@@ -345,7 +347,7 @@ Public Class frmMain
       Data += Oven4.OvenActive.ToString & ","
       Data += Oven5.IsCloseDoorSensorInOverride.ToString & ","
       Data += Oven5.OvenActive.ToString & ","
-      FileIO.WriteTextFile(BaseFilePath & "SpecialSettings.txt", Data)
+      FileIO.WriteTextFile(BaseInfoPath & "\SpecialSettings.txt", Data)
    End Sub
 
 
@@ -549,7 +551,7 @@ Public Class frmMain
       Dim UserNames() As String
 
       Try
-         UserNames = FileIO.ReadTextFile(BaseFilePath & "UserNames.txt").Split(Chr(10)) 'split on lf
+         UserNames = FileIO.ReadTextFile(BaseInfoPath & "\UserNames.txt").Split(Chr(10)) 'split on lf
          ReDim ModList(UserNames.Length - 1)
          ModList(0) = "None"
          For Pass As Int32 = 0 To UserNames.Length - 2
@@ -3285,7 +3287,7 @@ Public Class frmMain
                Initials = User.Chars(0)
             End If
             LISAUserName = InputBox("Enter your LISA User Name.", "LISA Name Input")
-            FileIO.WriteTextFile(BaseFilePath & "UserNames.txt", User & ", " & Initials & ", " & LISAUserName & vbCrLf, True, True)
+            FileIO.WriteTextFile(BaseInfoPath & "\UserNames.txt", User & ", " & Initials & ", " & LISAUserName & vbCrLf, True, True)
             LoadUserComboBoxes()
          End If
       Catch ex As Exception
@@ -3304,7 +3306,7 @@ Public Class frmMain
       Dim Namefound As Boolean
 
       Try
-         Names = FileIO.ReadTextFile(BaseFilePath & "UserNames.txt").Split(ChrW(10))
+         Names = FileIO.ReadTextFile(BaseInfoPath & "\UserNames.txt").Split(ChrW(10))
          Data = InputBox("Enter the LISA name of the person you want to delete.", "LISA Name Entry")
          Output = ""
          Namefound = False
@@ -3318,7 +3320,7 @@ Public Class frmMain
          If Namefound = False Then
             MessageBox.Show("The LISA name: " & Data & " was not found.  Nothing was deleted.", "Name Not Found", MessageBoxButtons.OK, MessageBoxIcon.Hand, MessageBoxDefaultButton.Button1)
          Else
-            FileIO.WriteTextFile(BaseFilePath & "UserNames.txt", Output, True, False)
+            FileIO.WriteTextFile(BaseInfoPath & "\UserNames.txt", Output, True, False)
             LoadUserComboBoxes()
          End If
       Catch ex As Exception
