@@ -29,9 +29,11 @@ Module Epson
             EmergencyStopIsActive = False
             Spel = New SpelNetLib.Spel
             Spel.NoProjectSync = True 'Uses the current project loaded in the controller.
-            Spel.OperationMode = SpelOperationMode.Auto
+            'Spel.OperationMode = SpelOperationMode.Auto
+            Spel.OperationMode = SpelNetLib.SpelOperationMode.Auto
             Spel.Initialize()
             Spel.Reset()
+            Spel.Project = "C:\epsonrc50\projects\epson_6_28_10\epson_6_28_10.sprj"
             Spel.Start(0)
          Catch ex As Exception
             MessageBox.Show("An error occured initializing the Spel object.  The error message was: " & ex.Message, "Spel Initialization Error", MessageBoxButtons.OK, MessageBoxIcon.Error, MessageBoxDefaultButton.Button1)
@@ -44,7 +46,7 @@ Module Epson
          Dim Status As Boolean
 
          If EpsonTestMode = False Then
-            If Spel.Version = "5.3.4" Then
+            If Spel.Version = "5.4.7" Then
                Status = True
             Else
                Status = False
@@ -171,7 +173,9 @@ Module Epson
             Select Case e.Event
                Case CType(3000, SpelNetLib.SpelEvents)
                   MoveComplete = True
-               Case SpelEvents.Error
+
+               Case SpelNetLib.SpelEvents.Error
+                  'Case SpelEvents.Error
                   If Spel.ErrorCode = 1502 Then
                      MessageBox.Show("Communications was lost between the RC180 controller and the PC.", "Communication Error", MessageBoxButtons.OK, MessageBoxIcon.Hand, MessageBoxDefaultButton.Button1)
                      Spel.Reset()
@@ -180,7 +184,9 @@ Module Epson
                         Throw New System.Exception("Abort Requested")
                      End If
                   End If
-               Case SpelEvents.AllTasksStopped
+
+               Case SpelNetLib.SpelEvents.AllTasksStopped
+                  'Case SpelEvents.AllTasksStopped
                   If Spel.ErrorCode = 4001 Then
                      Message = "Attempted motion to an illegal coordinate." & vbCrLf & "Current position is: " & Format(Arm.Position.X, "0.0") & ", " & _
                      Format(Arm.Position.Y, "0.0") & ", " & Format(Arm.Position.Z, "0.0") & ", " & Format(Arm.Position.U, "0.0") & vbCrLf & _
@@ -197,13 +203,15 @@ Module Epson
                   Else
                      Me.Reset()
                   End If
-               Case SpelEvents.EstopOn
+               Case SpelNetLib.SpelEvents.EstopOn
+                  'Case SpelEvents.EstopOn
                   EmergencyStopIsActive = True
                   MessageBox.Show("The Emergency Stop button has been pressed.   Fix the error, then release the button to continue.", "Emergency Stop Detected", MessageBoxButtons.OK, MessageBoxIcon.Stop, MessageBoxDefaultButton.Button1)
                   If MessageBox.Show("Do you want to abort the proceedure?", "Continue Proceedure", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button1) = DialogResult.Yes Then
                      Throw New System.Exception("Abort Requested")
                   End If
-               Case SpelEvents.EstopOff
+               Case SpelNetLib.SpelEvents.EstopOff
+                  'Case SpelEvents.EstopOff
                   MessageBox.Show("The Emergency Stop button has been reset.  Click OK to resume the proceedure.", "Emergency Stop Reset", MessageBoxButtons.OK, MessageBoxIcon.Stop, MessageBoxDefaultButton.Button1)
                   EmergencyStopIsActive = False
                Case Else

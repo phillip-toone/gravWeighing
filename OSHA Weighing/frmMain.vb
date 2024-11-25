@@ -171,14 +171,14 @@ Public Class frmMain
          BarCodePort.PortName = Data(6)
          BalancePort.PortName = Data(7)
       Catch ex As Exception
-         Oven1Port.PortName = "COM8"
-         Oven2Port.PortName = "COM9"
-         Oven3Port.PortName = "COM10"
-         Oven4Port.PortName = "COM11"
-         Oven5Port.PortName = "COM12"
-         CaroselPort.PortName = "COM30"
-         BarCodePort.PortName = "COM17"
-         BalancePort.PortName = "COM31"
+         Oven1Port.PortName = "COM7"
+         Oven2Port.PortName = "COM8"
+         Oven3Port.PortName = "COM9"
+         Oven4Port.PortName = "COM14"
+         Oven5Port.PortName = "COM15"
+         CaroselPort.PortName = "COM6"
+         BarCodePort.PortName = "COM16"
+         BalancePort.PortName = "COM5"
          SaveSettings()
       End Try
    End Sub

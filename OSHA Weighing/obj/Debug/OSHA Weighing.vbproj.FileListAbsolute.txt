@@ -1772,3 +1772,68 @@ C:\J-KEM Robot Code\OSHA 5_5_2017\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.G
 C:\J-KEM Robot Code\OSHA 5_5_2017\OSHA Weighing\obj\Debug\OSHA Weighing.exe
 C:\J-KEM Robot Code\OSHA 5_5_2017\OSHA Weighing\obj\Debug\OSHA Weighing.xml
 C:\J-KEM Robot Code\OSHA 5_5_2017\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSerialCommunications.resources
+C:\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.frmTesting.resources
+C:\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Users\J-KEM Robot\Desktop\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Users\J-KEM Robot\Desktop\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Users\J-KEM Robot\Desktop\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Users\J-KEM Robot\Desktop\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Users\J-KEM Robot\Desktop\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\J-KEM Robot\Desktop\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Users\J-KEM Robot\Desktop\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Users\J-KEM Robot\Desktop\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Users\J-KEM Robot\Desktop\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\Users\J-KEM Robot\Desktop\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Users\J-KEM Robot\Desktop\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Users\J-KEM Robot\Desktop\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Users\J-KEM Robot\Desktop\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSerialCommunications.resources
+C:\Users\J-KEM Robot\Desktop\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Users\J-KEM Robot\Desktop\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.frmTesting.resources
+C:\Users\J-KEM Robot\Desktop\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Users\J-KEM Robot\Desktop\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Users\J-KEM Robot\Desktop\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Users\J-KEM Robot\Desktop\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Users\J-KEM Robot\Desktop\J-KEM Robot Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 3_5_2018\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA Weighing.pdb
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 3_5_2018\OSHA Weighing\bin\Debug\OSHA Weighing.exe
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 3_5_2018\OSHA Weighing\bin\Debug\OSHA Weighing.pdb
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 3_5_2018\OSHA Weighing\bin\Debug\OSHA Weighing.xml
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 3_5_2018\OSHA Weighing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.DGVSupport.resources
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.frmBlankPicker.resources
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.frmCountDownTimer.resources
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.frmExperimentBuilder.resources
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.frmJkemDriverConfiguration.resources
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.frmMain.resources
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.frmOvens.resources
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSerialCommunications.resources
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.frmSMTPService.resources
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.frmTesting.resources
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA_Weighing.Resources.resources
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA Weighing.vbproj.GenerateResource.Cache
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\OSHA 3_5_2018\OSHA Weighing\bin\Debug\SpelNetLib_x64.dll
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\Old Code\OSHA 3_5_2018\OSHA Weighing\bin\Debug\OSHA Weighing.exe.config
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\Old Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA Weighing.exe
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\Old Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA Weighing.xml
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\Old Code\OSHA 3_5_2018\OSHA Weighing\obj\Debug\OSHA Weighing.pdb

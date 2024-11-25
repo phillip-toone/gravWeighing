@@ -39,9 +39,9 @@
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="SpelNetLib, Version=5.3.4.0, Culture=neutral, PublicKeyToken=0487594b04a8fcc0, processorArchitecture=x86">
+    <Reference Include="SpelNetLib_x64, Version=5.3.4.0, Culture=neutral, PublicKeyToken=0487594b04a8fcc0, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\EpsonRC50\exe\SpelNetLib.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\EpsonRC50\exe\SpelNetLib_x64.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core">
@@ -55,7 +55,6 @@
   </ItemGroup>
   <ItemGroup>
     <Import Include="Microsoft.VisualBasic" />
-    <Import Include="SpelNetLib" />
     <Import Include="System" />
     <Import Include="System.Collections" />
     <Import Include="System.Collections.Generic" />
@@ -180,9 +179,11 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmSMTPService.resx">
       <DependentUpon>frmSMTPService.vb</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="frmTesting.resx">
       <DependentUpon>frmTesting.vb</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>

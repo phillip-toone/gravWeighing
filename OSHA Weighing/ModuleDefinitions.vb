@@ -1563,7 +1563,7 @@ Public Module ModuleDefinitions
             Arm.GoToPoint(MyPoint)
             MyPoint = GetFilterLocation(rack, cell)
             MyPoint.Z += 6.5
-            MyPoint = Me.MoveIn(rack, MyPoint, 1.0)
+            MyPoint = Me.MoveIn(rack, MyPoint, 2.0)
             Arm.GoToPoint(MyPoint)
             MyPoint.Z -= 4.0
             Arm.GoToPoint(MyPoint)
